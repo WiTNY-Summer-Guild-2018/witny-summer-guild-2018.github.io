@@ -4,7 +4,7 @@
 
 * Open up the Chrome web browser so you can type in a web address
 
-###To use Scratch, [go to this website](http://scratch.mit.edu) -- `scratch.mit.edu`
+###To use Scratch, [go to this website](http://scratch.mit.edu) -- **scratch.mit.edu**
 
 Then, click "Try it out", which looks like this:
 ![Image of the cat icon to click to try Scratch](https://www.dropbox.com/s/ocoebwlol3aqtpj/Screenshot%202018-06-12%2012.19.03.png?dl=0)
@@ -39,4 +39,4 @@ That icon you see on the page is called "Scratchy the Cat" -- and a good way to 
 * How can you change what we did?
 * What will you do to make your own?
 
-The easiest way to *run* these Scratch programs you are working on -- by getting to e.g. click the green flag, and then see the *output*, the result of running the program -- is on this website, `scratch.mit.edu` We'll come back to ways of re-using and saving code later! For now, we'll just create and look at output in the web browser (Chrome, for example, that we're using).
+The easiest way to *run* these Scratch programs you are working on -- by getting to e.g. click the green flag, and then see the *output*, the result of running the program -- is on this website, **scratch.mit.edu** We'll come back to ways of re-using and saving code later! For now, we'll just create and look at output in the web browser (Chrome, for example, that we're using).
