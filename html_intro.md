@@ -4,13 +4,13 @@
 
 * Way of designing the structure of a web page
 
-* Any web page you see -- HTML (AND often a bunch of other stuff making things happen in the background, allowing you to interact with it)
+* Any web page you see -- HTML ... AND often a bunch of other stuff making things happen in the background, allowing you to interact with it
   * This week you'll see some of those pieces
   * First, just HTML
 
 * Syntax & syntax errors possible here
 
-* Syntax of "Tags" that make something
+* Syntax of "tags" that make structure / formatting / images appear
 
 * A general reference for HTML: https://www.w3schools.com/html/
   * (Coding -- all about looking things up and figuring stuff out -- NOT memorizing)
@@ -18,11 +18,15 @@
 ### HTML helps you work several primary things on web pages
 
 - **Formatting** - making text **bold**, *italic*, <u>underlined</u>...
+
 - **Structure** - making paragraphs in text, line breaks, or lists, like this
   - A key part of programming: Can't take anything for granted, even line breaks!
+
 - Include **images** and **links** in a web page
+
 - **Identify parts** of the page with "ids" and "classes"
   - (So that later on, it's easy to identify part of the web page to change something about it or make something interactive happen to it -- e.g. if you click it, the page turns red!)
+  
 - **Styling** the page with **colors** (there are MANY ways to do this, but we're only going to look at one)
 
 ### Useful HTML examples
