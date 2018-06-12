@@ -2,11 +2,43 @@
 
 By knowing how to look up stuff about HTML, you know enough to build a web page!
 
+You'll start by going to [this webpage](https://www.tutorialrepublic.com/codelab.php?topic=html&file=simple-document) where you have a simple HTML starter page, with just this HTML in it:
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Simple HTML document</title>
+</head>
+<body>
+  <h1>Hello World!</h1>
+</body>
+</html>  
+```
+
 #### **YOUR GOAL:** Build a small web page about your favorite book / movie / animal / music / artist / sports team...
 
 Whatever you want!
 
+You'll start with that link above, and add HTML in the box on the left so you can see the result of the page you are building on the right hand side!
+
+e.g.
+
+![Image of the code tutorial display tool](https://www.dropbox.com/s/un1yicprj6njepq/Screenshot%202018-06-12%2014.42.56.png)
+
 *Reminder:* Click the auto-update button on the HTML display tool in your browser!
+
+#### First: Consider
+
+* Where, in that existing HTML, are you going to want to ADD more? Try putting a bunch of blank lines where you want to add new code.
+  * What happens?
+  * Why?
+
+* Read through the suggestions for your web page below.
+  * How are you going to put each of those things in?
+  * What order will you do them in?
+  * What examples will you reference while you figure out how to do these things?
+  * (You can do them in any order, but we suggest going through in the order they are listed in.)
 
 #### **Your web page should have:**
 * At least 2 headings, one `h1` and one `h2` or `h3` to separate out pieces of the information on the page.
