@@ -1,8 +1,16 @@
-# Welcome to Summer Guild 2018!
+## Welcome to the WiTNY Summer Guild 2018!!
 
 Your week will be spent PHRASING PHRASING.
 
 Phrasing phrasing.
+
+### Location
+
+We are hosted at Microsoft NYC. LOCATION LOCATION MAP EMBED. Train and bus information.
+
+### Schedule
+
+To see more about each day's schedules and activities, click the following links.
 
 * [DAY 1](monday.md)
 * [DAY 2](tuesday.md)
