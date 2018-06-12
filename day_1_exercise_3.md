@@ -104,4 +104,6 @@ Edit the HTML so it looks like this (your URL will be different from this one, o
 
 And done! Check out the output.
 
+<img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif">
+
 Note that you won't see anything representing that `first-gif` id. That's a behind-the-scenes thing for you, the programmer -- so you, or someone else, can do more specific things with the web page you created!
