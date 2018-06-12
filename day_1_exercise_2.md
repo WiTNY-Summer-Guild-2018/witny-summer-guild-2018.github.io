@@ -8,7 +8,7 @@
 
 Then, click "Try it out", which looks like this:
 
-![Image of the cat icon to click to try Scratch](https://www.dropbox.com/s/ocoebwlol3aqtpj/Screenshot%202018-06-12%2012.19.03.png?dl=0)
+![Image of the cat icon to click to try Scratch](https://www.dropbox.com/s/ocoebwlol3aqtpj/Screenshot%202018-06-12%2012.19.03.png)
 
 ### Scratch...
 

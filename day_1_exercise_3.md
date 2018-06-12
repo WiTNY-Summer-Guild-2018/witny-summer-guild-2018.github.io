@@ -10,15 +10,21 @@ Whatever you want!
 
 #### **Your web page should have:**
 * At least 2 headings, one `h1` and one `h2` or `h3` to separate out pieces of the information on the page.
+
 * At least 1 un-ordered / bulletpoint list with some information.
+
 * Space out your text using line breaks or paragraphs -- whatever you want!
+
 * Include a hyperlink to the WiTNY website with the text *Made at WiTNY Summer Guild* -- like this: [Made at WiTNY Summer Guild](http://www1.cuny.edu/sites/women-in-technology/).
   * The URL is: `http://www1.cuny.edu/sites/women-in-technology/`
+
 * Finally, embed a gif in the page with the `id` attribute `first-gif`. (See below!)
-* Add any other structure or styling you want!
+
+* *Add any other structure or styling you want!*
   * Check out the examples and see if you can model after those
   * Talk to each other, a lot -- most programmers learn almost everything by talking to people they work with and friends. It's too hard to learn on your own!
   * If you have questions about using any HTML tags, or trying to work with colors, let an instructor know and we'll help you out!
+
 * Download the file onto your computer when you are done by clicking the little icon that looks like this: <img src="https://www.dropbox.com/s/0ahdpfytzy6h4ei/Screenshot%202018-06-12%2014.25.56.png?dl=0"> at the top of the page (<img src="https://www.dropbox.com/s/iqalx69kucg7f9b/Screenshot%202018-06-12%2014.26.25.png?dl=0">)
 
 ### How to embed a gif in your web page
@@ -27,7 +33,7 @@ Whatever you want!
 
 2. When you find a gif you want, put your cursor on it, and click on the little paper-clip looking icon, like this:
 
-![Image of link icon to click on](https://media.giphy.com/media/3oKIPaSkwgwHz5wpZC/giphy.gif)
+![Image of link icon to click on](https://www.dropbox.com/s/x3orli7y6y961b9/Screenshot%202018-06-12%2014.33.20.png)
 
 That will automatically *copy* the link of the gif.
 
