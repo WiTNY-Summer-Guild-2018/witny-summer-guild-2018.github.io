@@ -2,7 +2,7 @@
 
 We'll start with an introduction to your instructor & staff team and an introduction to what you'll be doing and what you can expect this week.
 
-Today is all about an introduction to "coding", or "programming" -- what it is, what you can do with it, why it's great -- and why and how it can be frustrating, even though it is also valuable, powerful and cool.
+Today is all about an introduction to "coding", or "programming" -- what it is, what you can do with it, why it's great -- and why and how it can be frustrating, even though it is also valuable, powerful and cool. And, of course, some ways of dealing with that frustration and doing detective work to solve problems that can help build things for real people.
 
 ### Introductions
 
