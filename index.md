@@ -1,4 +1,4 @@
-## Welcome to the WiTNY Summer Guild 2018!!
+## Welcome to Summer Guild 2018!
 
 Your week will be spent PHRASING PHRASING.
 
