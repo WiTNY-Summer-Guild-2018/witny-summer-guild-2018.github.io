@@ -2,7 +2,7 @@
 
 By knowing how to look up stuff about HTML, you know enough to build a web page!
 
-## **YOUR GOAL:** Build a small web page about your favorite book / movie / animal / music / artist / sports team...
+#### **YOUR GOAL:** Build a small web page about your favorite book / movie / animal / music / artist / sports team...
 
 Whatever you want!
 
