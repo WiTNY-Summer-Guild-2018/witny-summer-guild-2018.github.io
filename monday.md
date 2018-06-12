@@ -24,7 +24,7 @@ Today is all about an introduction to "coding", or "programming" -- what it is, 
 * Intro to the tools you'll use this week
 
 ### Introduction to HTML
-#### Structuring a web pages
+#### Structuring a web page
 
 * [HTML exercise](day_1_exercise_3.md)
 
