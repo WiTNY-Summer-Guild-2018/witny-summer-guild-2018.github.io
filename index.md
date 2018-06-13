@@ -12,8 +12,8 @@ We are hosted at Microsoft NYC. LOCATION LOCATION MAP EMBED. Train and bus infor
 
 To see more about each day's schedules and activities, click the following links.
 
-* [DAY 1](monday.md)
-* [DAY 2](tuesday.md)
-* [DAY 3](wednesday.md)
-* [DAY 4](thursday.md)
-* [DAY 5](friday.md)
+* [DAY 1 - MONDAY](monday.md)
+* [DAY 2 - TUESDAY](tuesday.md)
+* [DAY 3 - WEDNESDAY](wednesday.md)
+* [DAY 4 - THURSDAY](thursday.md)
+* [DAY 5 - FRIDAY](friday.md)
