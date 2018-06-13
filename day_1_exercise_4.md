@@ -202,6 +202,12 @@ OK: What's going on here?
 2. ____________
 3. ____________
 
-**CHALLENGE:** Each time you identify something that's different about *this* code from the code you saw in the exercise just before, that we ran together, that alerted `2` -- something big that's different, or something small -- why do you think it's different? What's useful about this code? What are some clues?
+**CHALLENGE:** Each time you identify something that's different about *this* code from the code you saw in the exercise just before, that we ran together, that alerted `2` -- something big that's different, or something small -- why do you think it's different?
+
+What's useful about this code that the other code we saw did not have?
+
+What are some clues you can identify -- why would we write *this* code instead of just what we had before?
+
+Wasn't what we had before a little clearer, with less junk all around it?
 
 This is really tricky! It's like a puzzle + detective work.
