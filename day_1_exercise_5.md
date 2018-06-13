@@ -38,7 +38,7 @@ You clicked on that icon to save the file, but we haven't gone back to that yet.
   * WOW!
 
 
-### For an extra special trick... (more complicated files
+### For an extra special trick... (more files)
 
 Let's go back to that complicated JavaScript we were just talking about.
 
