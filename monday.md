@@ -34,7 +34,6 @@ Today is all about an introduction to "coding", or "programming" -- what it is, 
 
 ### Coding concepts
 
-* [Definitions](definitions.md) -- TBD
 * [Coding concepts exercise](day_1_exercise_4.md)
 
 ### Using files and your file system
