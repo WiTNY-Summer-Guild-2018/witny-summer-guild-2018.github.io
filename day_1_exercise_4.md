@@ -81,17 +81,25 @@ Now you have new groups of about the same size as your old ones!
 
 We'll perform this function several times during the week so you can talk about things with some folks who aren't on your main team -- just like functions are useful in code...
 
+Let's run it a few times now!
+
+Here's what the code might look like in JavaScript... (pretty different from Scratch!)
+
+```javascript
+new_group();
+new_group();
+new_group();
+```
+
 ---
 
-### JavaScript code -- a breakout exercise
+### An example of writing and running some JavaScript code
 
 *Run the group function once* -- Now, in your new group:
 
 **Note** the `==` syntax -- that means "equal to", while just one `=` in JavaScript code is really different from math -- it means *i'm storing the data on the right of this equals sign in the name on the left!* Just like when we moved the table...  that was like using one equals sign (`=`)!
 
-Discuss:
-- **What will this first code, Code (1), show to the user when it runs? How did you figure that out?**
-- **What part of this code could you change to make the code to show something different?**
+Let's run this code, Code (1).
 
 **<u>Code (1)</u>**
 
@@ -105,6 +113,12 @@ else {
   alert("This is not five!");
 };
 ```
+
+What was going on here?
+
+Questions?
+
+Now...
 
 Discuss:
 - **What will this second (next) code, Code (2), show to the user when it runs? How did you figure that out?**
@@ -154,7 +168,7 @@ alert(day_of_week);
 
 ---
 
-### Try it out...
+### Trying it out...
 
 Let's take a look at how all of this goes together.
 
@@ -188,6 +202,6 @@ OK: What's going on here?
 2. ____________
 3. ____________
 
-**CHALLENGE:** Each time you identify something that's different about this from the code you saw in the exercise just before, that alerted `2` -- big, or small -- why do you think it's different? What's useful about this code? What are some clues?
+**CHALLENGE:** Each time you identify something that's different about *this* code from the code you saw in the exercise just before, that we ran together, that alerted `2` -- something big that's different, or something small -- why do you think it's different? What's useful about this code? What are some clues?
 
 This is really tricky! It's like a puzzle + detective work.
