@@ -188,7 +188,7 @@ in order to try it out:
     var day_of_week = today.getDay();
     alert(day_of_week);
     // Here is where you could put the code you just wrote, to make it work, and show the actual name of the day!
-  }
+  };
 </script>
 <body onload="show_day_of_week()">Hello everyone</body>
 </html>
