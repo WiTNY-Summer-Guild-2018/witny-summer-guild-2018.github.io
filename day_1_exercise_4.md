@@ -45,6 +45,10 @@ OTHERWISE, ...
 
 JavaScript also has syntax for what are called **functions** -- a bit of code that groups a bunch of actions in a program together, and, when you *invoke* the function, you're basically telling the program to do the whole group of actions at once.
 
+Another reason functions are great is because sometimes there are functions built in to programming languages you can *invoke* -- to make complicated actions happen. For example, showing data to you in a little text box! This is complicated, behind the scenes. But JavaScript has a function (called `alert`) that just lets you show things in a text box pretty easily! So you can do a complicated thing, with just a little bit of code.
+
+You'll see more examples of this shortly.
+
 (Always remember, if you encounter a **syntax error** when you write or run code, there are a lot of good ways to figure out what's going on, and fix it, together.)
 
 ---
@@ -54,6 +58,9 @@ JavaScript also has syntax for what are called **functions** -- a bit of code th
 #### Conditionals example: if/else
 
 * *If your first name has an 'a' in it...*
+
+(Asking a bunch of individuals -- running the code each time)
+
 
 #### Functions example: dancing the grapevine
 
