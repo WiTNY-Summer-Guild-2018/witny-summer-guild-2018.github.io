@@ -21,6 +21,7 @@ Today is all about brainstorming, based on what you learned and thought about ye
 ### Brainstorming & paper prototyping
 
 [Questions to ask & answer in your team](day_3_exercise_1_questions.md)
+
 [Brainstorming & Paper prototyping exercise](day_3_exercise_1.md)
 
 ### Prototyping in your team
