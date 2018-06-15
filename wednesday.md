@@ -1,10 +1,10 @@
 ## DAY 3 - Prototyping!
 
-Yesterday you were presented with a broad challenge: **How might we make transportation in New York City better?** And after talking to users and talking among yourselves, each of your teams found an area or two that you are interested in working on.
+Yesterday you were presented with a broad challenge: **How might we make transportation in New York City better?** And after talking to users and talking among yourselves, you identified some problems you are interested in.
 
-We're going to start connecting the coding you saw on Monday to the product ideas and data questions we've been thinking about yesterday and will think about today.
+Today we're going to look at how you go from that to determining what kind of product to build and look at what it means to be a *designer* in technology.
 
-Today is all about brainstorming, based on what you learned and thought about yesterday, and PROTOTYPING -- coming up with an idea and a design -- a product! It's also part 1 of the **product design cycle** you'll be doing a super-fast version of today (Wednesday) and tomorrow (Thursday) before presenting your idea as a team on Friday!
+This is part 1 of the **product design cycle** you'll be doing a super-fast version of today (Wednesday) and tomorrow (Thursday) before presenting your idea as a team on Friday!
 
 ### Introductions
 
@@ -14,41 +14,49 @@ Today is all about brainstorming, based on what you learned and thought about ye
 ### What are you building toward?
 
 * Examples of your end result
-* Prototype examples
-* Other ideas
 * Variety of technologies you can prototype and think about!
 
-### Brainstorming & paper prototyping
+### Problem identification
 
-[Questions to ask & answer in your team](day_3_exercise_1_questions.md)
+* [Example of a problem and pain point articulation]()
+* [Example of an ultimate goal for a product]()
 
-[Brainstorming & Paper prototyping exercise](day_3_exercise_1.md)
+* [Exercise 1 - What factors need to occur to address this goal?](day_3_exercise_1.md)
+* [Exercise 2 - How can we facilitate those factors to become true?](day_3_exercise_2.md)
+* [Exercise 3 - Collect ideas for ways to solve this problem & vote on them](day_3_exercise_3.md)
 
-### Prototyping in your team
+### Drawing wireframes & user flow
 
-[Prototyping tool exercise](day_3_exercise_2.md)
+[Process for developing and selecting a wireframe to prototype](day_3_exercise_4.md)
 
-* Example & introduction to prototyping tool
-* Prototyping roles
-* Translating to your prototype
+### Designers & developers, Minimum Viable Products
 
-Dream big!
+* Today you are a designer
+* Tomorrow you become a developer
+* What's the *first tiny thing* to build?
+  * [Examples](day_3_exercise_5.md)
+  * Decision-making
 
-What if you could build anything? We only have time *this* week to start on a tiny bit... but that doesn't mean you can't make big plans.
 
 ### ~ Lunch ~
 
-### Wrap-up of prototype
+### Introduction to prototyping tool
 
-Check back with the [prototyping tool exercise](day_3_exercise_2.md) steps
+* Example & introduction to prototyping tool
+* Choosing wireframes to prototype for each person
+* Collaborating to build 1 team prototype / prototype set
 
-### Connect your prototype to coding ideas
+Remember: Dream big!
 
-* Let's reach back to what you did on Monday
-* [Tools for building a web page](day_3_exercise_3.md)
+What if you could build anything? We only have time *this* week to start on a tiny bit... but that doesn't mean you can't make big plans.
+
+### Get ready for yourselves as developers
+
+* Reaching back to what you did on Monday
+* [Tools for building a web page](day_3_exercise_6.md)
 
 ### 'Standup' part 1 (20 min)
 
-* [Come up with a standup summary in your team](day_3_exercise_4.md)
+* [Come up with a standup summary in your team](day_3_exercise_7.md)
 
 ### Conclusion & exit tickets
