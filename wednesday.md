@@ -22,8 +22,8 @@ This is part 1 of the **product design cycle** you'll be doing a super-fast vers
 * [Example of an ultimate goal for a product]()
 
 * [Exercise 1 - What factors need to occur to address this goal?](day_3_exercise_1.md)
-* [Exercise 2 - How can we facilitate those factors to become true?](day_3_exercise_2.md)
-* [Exercise 3 - Collect ideas for ways to solve this problem & vote on them](day_3_exercise_3.md)
+* [Exercise 2 - How might we facilitate those factors to become true?](day_3_exercise_2.md)
+* [Exercise 3 - Collect ideas for solutions & vote on 'em](day_3_exercise_3.md)
 
 ### Drawing wireframes & user flow
 
