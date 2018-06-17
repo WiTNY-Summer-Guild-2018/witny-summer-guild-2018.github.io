@@ -91,6 +91,8 @@ Then, that URL you copied and pasted?
 
 Copy it again (highlight it, and go Edit > Copy, or **Control** + the key **C**), and paste it *in-between* the quotation marks in that HTML.
 
+**NOTE:** Instructions that tell you what to click, or what to type, can be super confusing if you've never seen them before! They're ALSO a great thing to get used to that can be really confusing in a CS course -- but as soon as you get used to it, will be no problem. *Don't hesitate to ask us if you find instructions confusing! It's GOOD to figure out that they don't make sense -- that's what CS is all about. And a TA or instructor will help you -- that's what we're here for!*
+
 Remember, `img` tags don't need to have a second tag the way most other HTML tags do, because it's just rendering the image -- not doing anything about *text* on the page, so the tags don't need to go on *both sides of* any text.
 
 There is other stuff you can add into the HTML -- for example, to make it accessible for Screen Readers, software tools that people use on computers if they are blind or can't see the screen well.
