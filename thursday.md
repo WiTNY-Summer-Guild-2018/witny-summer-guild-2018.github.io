@@ -12,25 +12,27 @@ This is part 2 of the **product design cycle** -- at the end of the day today yo
 
 ### Standup, Part 2 & Coding exercises
 
-We've provided some step - by - step puzzles with code that will help you do some more fun & interesting stuff in your development today.
+We've provided a few more code exercises that build off what you did on Monday, and which will help you do some more fun & interesting stuff in your development today.
 
-Everyone has the same files [TBA TBA]. You should try to work on these as a team -- each time will also get a few minutes to come present the standup ideas & plans you came up with yesterday to Julia to talk about them.
+* [Coding exercises](day_4_exercise_1.md) - Three different exercises are linked here.
 
-* [Coding exercises](day_4_exercise_1.md)
+You should try to work on these with your coding partner.
+
+Each team will also get a few minutes to come present the standup ideas & plans you came up with yesterday to Julia to talk about them.
 
 ### Development: More on Control structures & Functions
 
-* [Introduction to more complicated JavaScript](day_4_exercise_2.md)
-* [Introduction to jQuery](day_4_exercise_3.md)
-* [Interactive exercises](day_4_exercise_4.md)
+* [Introduction to jQuery](day_4_exercise_2.md)
+* [Choose your development adventure](day_4_exercise_3.md)
+* [Interactive exercises](day_4_exercise_list.md)
 
 ### Reflection break
 
-*Group function*
+*Run the group function* - [Remember the group rearrange function?](group_function.md)
 
-* Now another simple operation: combine with another group
+* Now, after having run that, another simple operation: combine YOUR new group with another group
 
-* Pair up with someone from another group (3 people in one group if uneven number)
+* Pair up with someone from a different group (OK to have 3 people in one group if there's an uneven number)
 
 *We'll pass out worksheets...*
 
