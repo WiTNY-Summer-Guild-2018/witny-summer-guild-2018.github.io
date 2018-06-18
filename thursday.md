@@ -24,7 +24,6 @@ Each team will also get a few minutes to come present the standup ideas & plans 
 
 * [Introduction to jQuery](day_4_exercise_2.md)
 * [Choose your development adventure](day_4_exercise_3.md)
-* [Interactive exercises](day_4_exercise_list.md)
 
 ### Reflection break
 
@@ -44,16 +43,15 @@ Each team will also get a few minutes to come present the standup ideas & plans 
 
   Write down the answers on a worksheet!
 
-
 ### ~ Lunch ~
 
 ### Putting a website on the internet
 
-* Select: Your file from Monday vs The file you are working on today!
+* Select: Your file from Monday vs Any file you are working on today!
 
 * [Create a GitHub account](github_account_instructions.md)
 
-* Follow these [instructions for uploading your files to the internet](instructions.md) -- work together and let an instructor know if you run into any problems!
+* Follow these [instructions for uploading your files to the internet](uploading_instructions.md) -- work together and let an instructor know if you run into any problems!
 
 ### Wrap-up & demo discussion
 
