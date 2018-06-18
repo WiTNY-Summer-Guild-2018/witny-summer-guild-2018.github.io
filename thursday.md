@@ -55,7 +55,7 @@ Each team will also get a few minutes to come present the standup ideas & plans 
 
 ### Wrap-up & demo discussion
 
-* We've provided the [structure of a Google presentation](google_presentation.md) - TBA
+* We've provided the [structure of a Google presentation](google_presentation.md) 
 * [Exercise - Getting ready to present as a team](day_4_presentation_prep.md)
 
 ### Conclusion & Exit Tickets
