@@ -47,7 +47,9 @@ Each team will also get a few minutes to come present the standup ideas & plans 
 
 ### Putting a website on the internet
 
-* Select: Your file from Monday vs Any file you are working on today!
+* **What does that even mean?**
+
+* **Select:** Your file from Monday vs Any file you are working on today!
 
 * [Create a GitHub account](github_account_instructions.md)
 
@@ -55,7 +57,7 @@ Each team will also get a few minutes to come present the standup ideas & plans 
 
 ### Wrap-up & demo discussion
 
-* We've provided the [structure of a Google presentation](google_presentation.md) 
+* We've provided the [structure of a Google presentation](google_presentation.md)
 * [Exercise - Getting ready to present as a team](day_4_presentation_prep.md)
 
 ### Conclusion & Exit Tickets
