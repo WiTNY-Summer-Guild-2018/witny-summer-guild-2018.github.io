@@ -69,7 +69,7 @@ Go to [this web page](https://www.tutorialrepublic.com/codelab.php?topic=html&fi
 * Delete everything in the left box, all the text!
 
 * Copy and paste that HTML in.
-  * (Remember: Highlight the HTML here on this page, go to Edit -> Copy in the top menu, or hold the Control button and just press the **C** key once. Then, go to the online Tutorial Republic page. Click in the left box, which shouldn't have anything in it anymore. Then in the top menu, go to Edit -> Paste, OR hold the Control button again and press the **P** key once.)
+  * (Remember: Highlight the HTML here on this page, go to Edit -> Copy in the top menu, or hold the Control button and just press the **C** key once. Then, go to the online Tutorial Republic page. Click in the left box, which shouldn't have anything in it anymore. Then in the top menu, go to Edit -> Paste, OR hold the Control button again and press the **V** key once.)
 
 * THEN, copy and paste the JavaScript code from above -- *right* after the first `<script>` tag in the HTML, and see what happens.
 
