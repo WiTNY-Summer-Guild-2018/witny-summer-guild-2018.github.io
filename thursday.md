@@ -20,12 +20,16 @@ You should try to work on these with your coding partner.
 
 Each team will also get a few minutes to come present the standup ideas & plans you came up with yesterday to Julia to talk about them.
 
-### Development: More on Control structures & Functions
+### Development: Part 1
 
 * [Introduction to jQuery](day_4_exercise_2.md)
-* [Choose your development adventure](day_4_exercise_3.md)
 
 ### ~ Lunch ~
+
+### Development: Part 2
+
+* [Choose your development adventure](day_4_exercise_3.md)
+
 
 ### Reflection break
 
