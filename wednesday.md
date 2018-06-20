@@ -48,12 +48,7 @@ This is part 1 of the **product design cycle** you'll be doing a super-fast vers
 
 Remember: Dream big!
 
-What if you could build anything? We only have time *this* week to start on a tiny bit... but that doesn't mean you can't make big plans.
-
-### Get ready for yourselves as developers
-
-* Reaching back to what you did on Monday
-* [Tools for building a web page](day_3_exercise_6.md)
+What if you could build anything? We only have time *this* week to start on a tiny bit... but that doesn't mean you can't make big plans. 
 
 ### 'Standup' part 1 (20 min)
 
