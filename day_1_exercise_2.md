@@ -22,27 +22,38 @@ Then, click "Try it out", which looks like this:
 
 That icon you see on the page is called "Scratchy the Cat" -- and a good way to start using the Scratch programming language is to make this "Scratchy the Cat" icon do things: move, draw in different colors...
 
-### Let's look at an example
+### Tricks & details of programming (in Scratch, and generally)
 
-* Drawing a 'W' for WiTNY
-* Drawing a 'W' ... over and over again in different colors!
-  * HINT: Colors are represented to Scratch / in the computer by numbers, so...
+* Possible actions (left) vs program panel (right)
+* Numbers describe places and colors
+* Places: Use the mouse to move Scratchy the Cat...
+* Colors: Options
+* Controlling programs:
+  * Gotta tell a program *when to start*
+  * The things that happen go in order
+  * The only way to clear the output from a Scratch program is to use the *clear* action...
+* Computers do *exactly what you tell them* -- nothing more, nothing less
 
-### Takeaways
 
-* You have to tell the program how it should *start* (e.g. When the green flag is clicked...)
+### Let's look at an example (follow along yourself)
 
-* The program will always do EXACTLY what you tell it to... no more, no less. This is super frustrating! But it is also super powerful when you have a lot of practice.
+* Drawing a square
+* Drawing a square... over and over again in different colors!
 
-* How many times do you want it to happen?
+### Try it yourself
 
-* How can you make a plan about what you want to do -- and then make it happen?
+* **Get into a coding group: pick a partner in your team to work with, and choose 1 computer to work on together!** (Teams of 5 should have 1 team of 3.)
 
-### Try it yourself!
+* Try to write a program to draw a W (for WitNY!).
 
-* How can you change what we did?
-* What will you do to make your own?
+* If you finish that, change your program so it draws a W -- 3 times, in a different color each time!
 
-The easiest way to *run* these Scratch programs you are working on -- by getting to e.g. click the green flag, and then see the *output*, the result of running the program -- is on this website, **scratch.mit.edu**.
+* If you finish that, try to use Scratch to draw something else -- whatever you want! What do you want the program drawing output to be?
+
+* Find out: What happens when you change something in your program? What happens? What might you want to change? -- remember, *only one thing* at a time to be able to figure out how to solve the problems most clearly
+
+### Useful stuff to remember, to use this later...
+
+The easiest way to *run* these Scratch programs you are working on -- by getting to e.g. click the green flag, and then see the *output*, the result of running the program -- is on this website, **[scratch.mit.edu](http://scratch.mit.edu)**.
 
 We'll come back to ways of re-using and saving code later! For now, we'll just create and look at output in the web browser (Chrome, for example, that we're using).
