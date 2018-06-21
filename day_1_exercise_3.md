@@ -12,6 +12,7 @@ You'll start by going to [this webpage](https://www.tutorialrepublic.com/codelab
 </head>
 <body>
   <h1>Hello World!</h1>
+
 </body>
 </html>  
 ```
@@ -28,9 +29,15 @@ e.g.
 
 *Reminder:* Click the auto-update button on the HTML display tool in your browser!
 
-#### First: Consider
+#### First
 
-* Where, in that existing HTML, are you going to want to ADD more? Try putting a bunch of blank lines where you want to add new code.
+* Pick a new coding partner from your team! You should each make your own website, but you should consider yourselves each other's partner for sharing ideas and helping each other out.
+
+Before you start working on the website...
+
+**CONSIDER TOGETHER:**
+
+* Where, in that existing HTML, in the online tool, are you going to want to ADD more? Try putting a bunch of blank lines where you want to add new code.
   * What happens?
   * Why?
 
@@ -41,7 +48,7 @@ e.g.
   * (You can do them in any order, but we suggest going through in the order they are listed in.)
 
 
-Discussion...
+We'll discuss this all together a little bit.
 
 
 #### **Your web page should have:**
@@ -54,10 +61,11 @@ Discussion...
 * Include a hyperlink to the WiTNY website with the text *Made at WiTNY Summer Guild* -- like this: [Made at WiTNY Summer Guild](http://www1.cuny.edu/sites/women-in-technology/).
   * The URL is: `http://www1.cuny.edu/sites/women-in-technology/`
 
-* Finally, embed a gif in the page with the `id` attribute `first-gif`. (See below!)
+* Finally, embed a gif in the page with the `id` attribute `first-gif`. (**See below for specific instructions about how to do this!**)
 
 * *Add any other structure or styling you want!*
-  * Check out the examples and see if you can model after those
+  * Check out the examples and see if you can model after those!
+  * Do you want to add another hyperlink? Another image?
   * Talk to each other, a lot -- most programmers learn almost everything by talking to people they work with and friends. It's too hard to learn on your own!
   * If you have questions about using any HTML tags, or trying to work with colors, let an instructor know and we'll help you out!
 
@@ -99,16 +107,16 @@ There is other stuff you can add into the HTML -- for example, to make it access
 
 OK, almost done --
 
-We want to identify this picture specifically with what's called an `id` attribute, so later, we could write some code that makes this gif -- have a red border, or disappear when you click a button! (We'll get to that stuff later.)
+*We want to identify this picture specifically with what's called an `id` attribute, so later, we could write some code that makes this gif -- have a red border, or disappear when you click a button! (We'll get to that stuff later.)* You'll see more about why this is so cool and important later. For now, you won't see any difference in what the image looks like just because you give it a special ID.
 
-Edit the HTML so it looks like this (your URL will be different from this one, of course, because it's the URL for the gif YOU chose):
+You should edit your HTML so it looks like this (your URL will be different from this one, of course, because it's the URL for the gif YOU chose):
 
 
 ```
 <img id="first-gif" src="https://media.giphy.com/media/3oKIPaSkwgwHz5wpZC/giphy.gif">
 ```
 
-And done! Check out the output.
+And done! Check out the output on the right side of the online tool.
 
 <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif">
 

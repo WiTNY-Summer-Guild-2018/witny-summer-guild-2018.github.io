@@ -6,14 +6,14 @@ Today is all about an introduction to "coding", or "programming" -- what it is, 
 
 ### Introductions
 
-* Mistakes & learning from them
-* [Reminders](reminders.md)
+* Staff introductions & welcome!
+* Team introductions - mistakes & learning from them
+* Reminders - laptops, post-its
 
 ### What is programming?
 
 * Brief introduction
 * The peanut butter sandwich problem
-
 
 ### Introduction to programming languages: Scratch
 
@@ -22,8 +22,8 @@ Today is all about an introduction to "coding", or "programming" -- what it is, 
 ### Introduction to HTML
 #### Structuring a web page
 
-* [HTML intro](html_intro.md)
-* [HTML exercise](day_1_exercise_3.md)
+* [HTML intro & exercises](html_intro.md)
+* [HTML exercise - building a website](day_1_exercise_3.md)
 
 
 ### ~ Lunch ~
@@ -38,5 +38,9 @@ Today is all about an introduction to "coding", or "programming" -- what it is, 
 
 ### Conclusion & Review
 
-* [Discussion](day_1_eod.md)
+* Discuss - what "mistakes" did you make *today*?
+
+  * What did you get from making them?
+  * What do they all have in common?
+
 * Exit tickets

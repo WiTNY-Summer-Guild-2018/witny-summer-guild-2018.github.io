@@ -27,9 +27,11 @@ For HTML files, that's not a programming language -- it's a way of structuring t
 
 You clicked on that icon to save the file, but we haven't gone back to that yet.
 
-* Finding the file in your file system
+* Finding the file in your file system (or creating a new file if something went wrong)
 
-* Opening it up in a text editor (Sublime Text)
+* Open it up in a text editor (Sublime Text)
+
+  * Flag down an instructor / use your post-it if you need help
 
   * Wow!
 
@@ -38,7 +40,10 @@ You clicked on that icon to save the file, but we haven't gone back to that yet.
   * WOW!
 
 
-### For an extra special trick... (more files)
+
+
+
+### (If you've got some extra time) For an extra special trick... (more files)
 
 Let's go back to that complicated JavaScript we were just talking about.
 
@@ -68,7 +73,7 @@ Remember this complicated program?
     * Put JavaScript inside a *script* in an HTML file
     * Write code so that *when the page loads in the web browser*, that's when the JavaScript program will run, to show you output!
 
-* If you've still got time... (if not, that's okay!)
+* And if you've *still* got time... (if not, that's okay!!)
   * Now *edit* that file -- write in the code that you were working on to show the name of the day of the week!
   * Open up the file in Google Chrome, and see what happens!
   * Don't worry if nothing happens, or it doesn't seem to work -- that happens to everyone! You should expect that -- we'll talk about how to fix problems a lot this week.
