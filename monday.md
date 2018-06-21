@@ -14,14 +14,10 @@ Today is all about an introduction to "coding", or "programming" -- what it is, 
 * Brief introduction
 * The peanut butter sandwich problem
 
-### Problem solving: An exercise
-
-* [Exercise 1](day_1_exercise_1.md)
 
 ### Introduction to programming languages: Scratch
 
 * [Intro to Scratch](day_1_exercise_2.md)
-* Intro to the tools you'll use this week
 
 ### Introduction to HTML
 #### Structuring a web page
