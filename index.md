@@ -2,6 +2,8 @@
 
 The 2018 [WiTNY](http://www1.cuny.edu/sites/women-in-technology/) [Summer Guild](http://www1.cuny.edu/sites/women-in-technology/programs/) welcomes groups of women and non-binary students who have been admitted to CUNY for Fall 2018. You will spend your week learning about possibilities in, and awesome things about, Computer Science and related technology topics -- and hopefully afterward, you will enroll in a computer science course at your CUNY campus!
 
+For more about Summer Guild and WitNY, check out [these](https://tech.cornell.edu/impact/witny) [resources](http://www1.cuny.edu/sites/women-in-technology/programs/).
+
 ### Schedule
 
 To see more about each day's schedules and activities, click the following links! *(Note that these may change as the summer progresses -- this website will be used for each of the weeks of the Summer Guild program.)*
