@@ -39,7 +39,7 @@
 
 - **Styling** the page with **colors** (there are MANY ways to do this, but we're only going to look at one)
 
-### Useful HTML examples
+### Useful HTML examples & exercises
 
 * [Formatting with bold, italic, etc](https://www.tutorialrepublic.com/codelab.php?topic=html&file=text-formatting)
 * [Creating headings of different importance](https://www.tutorialrepublic.com/codelab.php?topic=html&file=headings)
