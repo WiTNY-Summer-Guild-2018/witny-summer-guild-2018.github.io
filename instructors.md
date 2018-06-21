@@ -1,6 +1,6 @@
 ## Summer Guild Team
 
-### Leadership team
+### Leadership Team
 
 ##### <img width='16%' height='16%' src="/imgs/mepic_crop2_headshot.png"> Jackie Cohen - *Curriculum Director*
 <div class="bio"> <font size="2">Jackie Cohen teaches and designs all kinds of computing courses in Michigan and New York City, when she's not venturing to find strange and delicious new flavors of pie. She used to be a software engineer, and now she builds stuff to help people learn (mostly about programming). She holds a Masters degree in Information Science from the University of Michigan, where she is now a Lecturer, and she loves seeing live music and hiking to places where she has to find ways out of canyons with 5 feet of snow.</font> </div>
