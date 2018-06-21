@@ -109,7 +109,7 @@ OK, almost done --
 
 *We want to identify this picture specifically with what's called an `id` attribute, so later, we could write some code that makes this gif -- have a red border, or disappear when you click a button! (We'll get to that stuff later.)* You'll see more about why this is so cool and important later. For now, you won't see any difference in what the image looks like just because you give it a special ID.
 
-You should edit your HTML so it looks like this (your URL will be different from this one, of course, because it's the URL for the gif YOU chose):
+**SO, to do this**, you should edit your HTML so it looks like this (*your URL will be different from this one, of course, because it should be the URL for the gif YOU chose*):
 
 
 ```
@@ -120,4 +120,4 @@ And done! Check out the output on the right side of the online tool.
 
 <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif">
 
-Note that you won't see anything representing that `first-gif` id. That's a behind-the-scenes thing for you, the programmer -- so you, or someone else, can do more specific things with the web page you created!
+Note that you won't see anything representing that `first-gif` id on the page. What you see on the page shouldn't change at all. That `id` is a behind-the-scenes thing for you, the programmer -- so you, or someone else, can do more specific things with the web page you created!
