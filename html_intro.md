@@ -45,7 +45,7 @@
 * [Creating headings of different importance](https://www.tutorialrepublic.com/codelab.php?topic=html&file=headings)
 
 
-Pause for a moment and go to each one of those links. Change ONE thing about ONE of them. What happens?
+**Pause for a moment** and go to each one of those links. Change ONE thing about ONE of them. What happens?
 
 This is your first interaction with the online tool we'll be using for a lot of the week. Feel free to play around with it! If you have any questions, curiosities, etc, definitely flag down an instructor or put your red post-it on your computer!
 
@@ -56,7 +56,7 @@ Can you make other text in the left hand window bold, or italic, or underlined? 
 * [Creating a numbered list](https://www.tutorialrepublic.com/codelab.php?topic=html&file=ordered-list)
 * [Creating an HTML Table](https://www.tutorialrepublic.com/codelab.php?topic=html&file=table )
 
-Pause here. Choose one of those links you want to try out yourself. Can you create a new list, or a table, with data you want it to include?
+**Pause here.** Choose one of those links you want to try out yourself. Can you create a new list, or a table, with data you want it to include?
 
 Remember -- put the red post-it on your computer or flag down an instructor if you're having any trouble or have questions!
 
