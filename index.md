@@ -12,7 +12,7 @@ To see more about each day's schedules and activities, click the following links
 * [DAY 2 - TUESDAY - DATA & USER EXPERIENCE](tuesday.md)
 * [DAY 3 - WEDNESDAY - PROTOTYPING (Part 1)](wednesday.md)
 * [DAY 4 - THURSDAY - DEVELOPMENT (Part 2)](thursday.md)
-* [DAY 5 - FRIDAY - DEMOS & PRESENTATIONS](friday.md)
+* [DAY 5 - FRIDAY - DEMOS & PRESENTATIONS - @ Roosevelt Island](friday.md)
 
 ### Location
 
