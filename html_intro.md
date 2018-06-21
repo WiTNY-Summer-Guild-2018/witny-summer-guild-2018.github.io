@@ -15,7 +15,7 @@
 * Syntax of "tags" that make structure / formatting / images appear -- they surround data like text
 
   * [this text is between tags](http://www.google.com)
-  * <b>and so is this text</b>
+  * **and so is this text**
   * *and so is this text*
   * <u>and so is this text</u>
 
