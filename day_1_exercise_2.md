@@ -42,7 +42,7 @@ That icon you see on the page is called "Scratchy the Cat" -- and a good way to 
 
 ### Try it yourself
 
-* **Get into a coding group: pick a partner in your team to work with, and choose 1 computer to work on together!** (Teams of 5 should have 1 team of 3.)
+* **Get into a coding group: pick a partner in your team to work with, and choose 1 computer to work on together!** (Teams of 5 should have 1 coding group of 3.)
 
 * Try to write a program to draw a W (for WitNY!).
 
