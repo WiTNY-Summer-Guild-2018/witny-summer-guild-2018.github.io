@@ -57,7 +57,7 @@ OTHERWISE, ...
 
 #### What might this code look like in JavaScript?
 
-```JavaScript
+```javascript
 var first_name = "rachel"
 
 if ("r" in first_name) {
@@ -68,7 +68,8 @@ if ("r" !in first_name) {
 }
 ```
 or
-```JavaScript
+
+```javascript
 var first_name = "jackie"
 
 if ("r" in first_name) {
