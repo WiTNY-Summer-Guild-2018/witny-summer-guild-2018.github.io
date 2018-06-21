@@ -20,3 +20,7 @@
 ### TAs
 
 TBA
+
+### Logistics, support, invaluable help
+
+* [The entire WiTNY team at Cornell Tech and CUNY](https://tech.cornell.edu/impact/witny)

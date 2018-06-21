@@ -24,3 +24,7 @@ Summer Guild people should enter at the 8th Avenue entrance. Our space is access
 ### Team
 
 Learn more about the 2018 Summer Guild instructional team [here](instructors.md).
+
+### Additional resources
+
+TBA
