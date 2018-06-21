@@ -21,7 +21,8 @@
 
   * Or in a couple cases, like images, or line breaks, there's only one tag that *shows* some data... like an image: ![Image of cat](https://images.pexels.com/photos/20787/pexels-photo.jpg?cs=srgb&dl=adorable-animal-cat-20787.jpg)
 
-* A general reference for HTML: https://www.w3schools.com/html/
+* A general reference for HTML: [https://www.w3schools.com/html/](https://www.w3schools.com/html/)
+
   * (Coding -- all about looking things up and figuring stuff out -- NOT memorizing)
 
 ### HTML helps you work several primary things on web pages
