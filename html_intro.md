@@ -75,12 +75,12 @@ Colors can be referred to with names like "blue" or "red" -- in the computer, th
 
 But each word only goes with ONE particular shade.
 
-If you want to be really specific, you can use special letter and number codes that represent different numbers. Let's check out [this tool](https://htmlcolorcodes.com/) ... https://htmlcolorcodes.com/
+If you want to be really specific, you can use special letter and number codes that represent different numbers. Let's check out [this tool](https://htmlcolorcodes.com/) ... **https://htmlcolorcodes.com/**
 
 ### Try the following:
 
 * Change the color in [this example](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_css_inline) to red instead of blue
 
-* Choose a color from https://htmlcolorcodes.com/ to change the text to
+* Choose a color from [https://htmlcolorcodes.com/](https://htmlcolorcodes.com/) to change the text to
 
-* If you finish that before we all get back together, try putting in a new header -- maybe an `<h3>` -- and make it a color that you choose from https://htmlcolorcodes.com/ !
+* If you finish that before we all get back together, try putting in a new header -- maybe an `<h3>` -- and make it a color that you choose from [https://htmlcolorcodes.com/](https://htmlcolorcodes.com/) !
