@@ -1,12 +1,13 @@
 ## Welcome to Summer Guild 2018!
 
-Your week will be spent PHRASING PHRASING.
-
-Phrasing phrasing.
+The 2018 [WiTNY](http://www1.cuny.edu/sites/women-in-technology/) [Summer Guild](http://www1.cuny.edu/sites/women-in-technology/programs/) welcomes groups of young women and non-binary students who have been admitted to CUNY for Fall 2018. You will spend your week learning about possibilities in, and awesome things about, Computer Science and related technology topics -- and hopefully afterward, you will enroll in a computer science course at your CUNY campus!
 
 ### Location
 
-We are hosted at Microsoft NYC. LOCATION LOCATION MAP EMBED. Train and bus information.
+We are hosted at [Microsoft](https://www.microsoft.com/en-us/) in NYC: **11 Times Square, New York, NY, 10036**.  
+
+
+
 
 ### Schedule
 
