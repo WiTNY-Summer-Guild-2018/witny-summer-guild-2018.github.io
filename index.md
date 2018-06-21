@@ -18,7 +18,7 @@ We are hosted at [Microsoft](https://www.microsoft.com/en-us/) in NYC: **11 Time
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.2408154084765!2d-73.99180508514937!3d40.75672787932706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c5556369%3A0x87dc1d2f581b8eb1!2s11+Times+Square%2C+New+York%2C+NY+10036!5e0!3m2!1sen!2sus!4v1529606073107" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-Summer Guild people should enter at the 8th Avenue entrance. It is accessible via elevator.
+Summer Guild people should enter at the 8th Avenue entrance. Our space is accessible via elevator.
 
 
 ### Team

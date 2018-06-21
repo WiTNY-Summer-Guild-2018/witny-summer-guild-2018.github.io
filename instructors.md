@@ -15,3 +15,8 @@
 ##### Karla Polo Garcia - *Prototyping*
 
 ##### Julia Sterling - *Development*
+
+
+### TAs
+
+TBA
