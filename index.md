@@ -8,11 +8,11 @@ For more about Summer Guild and WitNY, check out [these](https://tech.cornell.ed
 
 To see more about each day's schedules and activities, click the following links! *(Note that these may change as the summer progresses -- this website will be used for each of the weeks of the Summer Guild program.)*
 
-* [DAY 1 - MONDAY](monday.md)
-* [DAY 2 - TUESDAY](tuesday.md)
-* [DAY 3 - WEDNESDAY](wednesday.md)
-* [DAY 4 - THURSDAY](thursday.md)
-* [DAY 5 - FRIDAY](friday.md)
+* [DAY 1 - MONDAY - CODING](monday.md)
+* [DAY 2 - TUESDAY - DATA & USER EXPERIENCE](tuesday.md)
+* [DAY 3 - WEDNESDAY - PROTOTYPING (Part 1)](wednesday.md)
+* [DAY 4 - THURSDAY - DEVELOPMENT (Part 2)](thursday.md)
+* [DAY 5 - FRIDAY - DEMOS & PRESENTATIONS](friday.md)
 
 ### Location
 
