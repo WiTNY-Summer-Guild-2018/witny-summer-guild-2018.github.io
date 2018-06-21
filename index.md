@@ -4,7 +4,7 @@ The 2018 [WiTNY](http://www1.cuny.edu/sites/women-in-technology/) [Summer Guild]
 
 ### Schedule
 
-To see more about each day's schedules and activities, click the following links! <i>(Note that these may change as the summer progresses -- this website will be used for each of the weeks of the Summer Guild program.)</i>
+To see more about each day's schedules and activities, click the following links! *(Note that these may change as the summer progresses -- this website will be used for each of the weeks of the Summer Guild program.)*
 
 * [DAY 1 - MONDAY](monday.md)
 * [DAY 2 - TUESDAY](tuesday.md)
