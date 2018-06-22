@@ -15,9 +15,31 @@ This is a lot more complicated than it *might* seem at first...
 
 We're going to consider this question in a few different ways today.
 
-### Asking questions (of data, of ideas)
+### What is "user experience"?
 
-* What does "better" even mean?
+* User Experience ("UX") research
+* User Experience ("UX") design
+
+### Break apart the challenge - Exercise
+
+* **How might we**
+  * Not about "can"
+  * Not about "will"
+  * About dreamed up possibility!
+  * This helps us identify the problems...
+  * And we'll come back to this tomorrow (Wednesday), too!
+
+* **What does "better" even mean?** What are more specific words for what it could mean?
+  * In your team, come up with at least five things it could mean. For example, "faster for people to get where they want to go"? You should try to be as specific as possible.
+  * Write each one on a post-it note and collect them on your table!
+  * We're going to share them afterward, so choose a spokesperson from your team to share them!
+
+* **What could "transportation" refer to?**
+  * In your team, come up with at least five different things it could refer to. For example, "the subway system".
+  * Any amount of being specific is fine!
+  * Write each one on a post-it note (use a different color from the "better") and collect them on the table!
+  * We'll be sharing these, too.
+
 * What kind of specific question(s) should you ask?
 * What information do you need to know?
 * What kind of data is necessary to answer our questions?
@@ -27,10 +49,8 @@ We're going to consider this question in a few different ways today.
 
 * How do you build a question?
 * How do you select a question?
+* How do you approach people to ask a question?
 * How do you take notes on people's answers?
-
-#### Introducing...
-* Maura Youngman, Lead of User Insight and Strategy at the New York Times
 
 
 ### Practice asking questions...
