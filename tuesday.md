@@ -45,7 +45,7 @@ We're going to consider this question in a few different ways today.
 * What kind of data is necessary to answer our questions?
 * What kind of data can we actually get?
 
-### Building questions (for people)
+### Building questions (for people) - 1 hour
 
 #### Selecting questions
 
@@ -86,9 +86,14 @@ We're going to consider this question in a few different ways today.
 #### Building your questions
 
 * Find a partner in your team
+
 * Come up with 1 or 2 questions that the two (or three) of you want to ask, following those guidelines
+
 * In 10-15 minutes, we'll shout that it's time to get together with your team
-* As a team, choose one question per pair to ask people -- it's totally OK if they overlap or are the same! You can use the questions each pair came up with as fuel for ideas -- what questions do y'all want to ask?
+
+* **As a team, choose one question per pair to ask** -- it's totally OK if they overlap or are the same! You can use the questions each pair came up with as fuel for ideas -- what questions do y'all want to ask?
+
+* Instructors will wander and chat with you all about questions! Flag us down if you want to talk more with us (someone on the team raise your hand, and we'll let you know that we're coming)
 
 
 ### Asking questions (of people)
@@ -106,10 +111,9 @@ We're going to consider this question in a few different ways today.
 * For example...
 
 
-### Let's practice
+### Let's practice - 1/2 hour
 
-* Let's do the [group function](group_function.md)
-* Pair up with someone from another team.
+* Pair up with someone from a different team.
   * Trade off asking the question you're asking and taking notes on a paper or post-it
   * Practice saying it calmly and confidently -- it'll make it much easier when you approach new people!
 
