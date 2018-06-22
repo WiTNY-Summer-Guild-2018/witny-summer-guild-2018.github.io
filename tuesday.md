@@ -25,9 +25,6 @@ We're going to consider this question in a few different ways today.
 * **How might we**
   * Not about "can"
   * Not about "will"
-  * About dreamed up possibility!
-  * This helps us identify the problems...
-  * And we'll come back to this tomorrow (Wednesday), too!
 
 * **What does "better" even mean?** What are more specific words for what it could mean?
   * In your team, come up with at least five things it could mean. For example, "faster for people to get where they want to go"? You should try to be as specific as possible.
@@ -150,7 +147,7 @@ We're going to consider this question in a few different ways today.
 
 * Quant vs Qual - why do we care?
 
-### Conclusion 
+### Conclusion
 
 * Exit tickets
 
