@@ -47,10 +47,21 @@ We're going to consider this question in a few different ways today.
 
 ### Asking questions (of people)
 
-* How do you build a question?
+* How do you build a question -- that can help you to determine a problem to try solving?
+
+  * **Think about what you really want to know.** You want to know specific stuff, right?
+
+    * For example, you might not need to know whether or not a person *likes* the bus system -- you want to know specific things they like, or dislike, or find funny, or want more of, or want less of... "I love the bus system!" or "I don't really like the bus system..." isn't that useful without why.
+
+  * **Try to make the question as easy to answer as possible.** In general, people -- especially people you're surveying or asking questions off the street -- don't want to "think too much" about answering, so ideally, you come up with a question or two that is really easy and quick to answer.
+
+    * For example,
+
+
 * How do you select a question?
 * How do you approach people to ask a question?
 * How do you take notes on people's answers?
+
 
 
 ### Practice asking questions...
