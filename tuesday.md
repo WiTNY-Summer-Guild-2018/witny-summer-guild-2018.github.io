@@ -15,12 +15,12 @@ This is a lot more complicated than it *might* seem at first...
 
 We're going to consider this question in a few different ways today.
 
-### What is "user experience"?
+### What is "user experience"? (5 min)
 
 * User Experience ("UX") research
 * User Experience ("UX") design
 
-### Break apart the challenge - Exercise
+### Break apart the challenge - Exercise (1/2 hour)
 
 * **How might we**
   * Not about "can"
@@ -45,7 +45,23 @@ We're going to consider this question in a few different ways today.
 * What kind of data is necessary to answer our questions?
 * What kind of data can we actually get?
 
-### Asking questions (of people)
+### Building questions (for people)
+
+#### Selecting questions
+
+* Say we wanted to build an app about finding good restaurants in San Francisco. Which of these questions do you like?
+
+* Go through the following questions in pairs or groups of three within your team and pick which one you think is most useful to ask people before building an app about restaurants, and why. (*No* right answers, each one has upsides and downsides!)
+
+  * (A) *How do you usually find a restaurant to eat lunch at?*
+  * (B) *Where did you eat lunch today?*
+  * (C) *Did you like where you ate lunch today? What was the best thing about that restaurant?*
+  * (D) *Were you excited to come eat lunch in San Francisco today?*
+  * (E) *How often are you usually happy about the restaurant you choose to eat at?*
+  * (F) *What is your least favorite thing about restaurants in San Francisco?*
+  * (G) *Do you find it easy to find a good place to eat here?*
+
+#### Building new questions
 
 * How do you build a question -- that can help you to determine a problem to try solving?
 
@@ -55,23 +71,64 @@ We're going to consider this question in a few different ways today.
 
   * **Try to make the question as easy to answer as possible.** In general, people -- especially people you're surveying or asking questions off the street -- don't want to "think too much" about answering, so ideally, you come up with a question or two that is really easy and quick to answer.
 
-    * For example,
+    * For example, if your challenger were about restaurants, *What was the most frustrating thing about the restaurant you ate lunch at today?* could be a good question (but it's FAR from the only good question). It prompts people for a specific thing, but allows them some freedom to answer whatever that you can draw specific stuff out of.
+
+  * A good recipe: one piece of **context** + one piece of **specificity** + one piece of **broad** question
+
+    * **Context:** Something about the question that helps you learn about who they are or why they are here / using the thing you care about / etc (like "What did you eat for lunch today")
+
+    * **Specificity:** You want to give the person answering something to latch on to. It's easier to answer what you like/dislike/hate/want to change about *fast food restaurants* than it is to ask about *restaurants* -- because with just *restaurants*, the person answering has to either be broad in their answer or select their own answer boundaries. Too broad, and they may feel that they need to ask more questions in order to give you an answer. **You want them to feel like they have all the information they need to answer your question.**
+
+    * **Broadness:** You also want the person answering to feel like they have freedom to answer so they're not trying to think of a very specific word, idea, concept, etc. *What is your favorite thing about the menu at the last fast food restaurant you ate at?* could be a great question in some situations, but if you're truly approaching people in a public area (e.g. not people who definitely eat at fast food restaurants) they might feel a little stuck -- imagine, "Well... I wasn't really thinking about the menu?" or "Umm, I didn't eat at any fast food restaurants recently."
+
+      * On the other hand, *"Did you eat at fast food restaurant today? Why or why not?"* would give you a little bit more information about how people are thinking about choosing restaurants, and *What is your favorite thing about the last restaurant you ate at?* gives them a little bit of freedom, but is also specific -- they should think about ONE restaurant and pick a favorite thing about it. (There are still problems, of course, but it's hard to make your questions perfect.)
+
+#### Building your questions
+
+* Find a partner in your team
+* Come up with 1 or 2 questions that the two (or three) of you want to ask, following those guidelines
+* In 10-15 minutes, we'll shout that it's time to get together with your team
+* As a team, choose one question per pair to ask people -- it's totally OK if they overlap or are the same! You can use the questions each pair came up with as fuel for ideas -- what questions do y'all want to ask?
 
 
-* How do you select a question?
-* How do you approach people to ask a question?
-* How do you take notes on people's answers?
+### Asking questions (of people)
+* **Calm approach** - makes it easier for people to be approached
+* **Side or front approach** - don't surprise people, make them feel like they can leave if they need to
+* **Introduce what you want to do**, and on assent (agreement to participate), do it *right away*, quickly and clearly
+* **Explain that you're not asking for money** - people want to know why they're being asked and what they can expect
+* **Give them an extremely brief why** - Research for a technology program at CUNY
+
+### Taking notes on the answers
+
+* Identify specific ideas
+* Write after they talk, if you can (or note after a solid idea has come across)
+* Don't try to replicate full sentences (that's usually pretty hard!)
+* For example...
 
 
+### Let's practice
 
-### Practice asking questions...
+* Let's do the [group function](group_function.md)
+* Pair up with someone from another team.
+  * Trade off asking the question you're asking and taking notes on a paper or post-it
+  * Practice saying it calmly and confidently -- it'll make it much easier when you approach new people!
 
-[Practice framework](day_2_exercise_2.md)
 
 ### TIMES SQUARE! @ 11:00 am
 
-* Each team with more than 3 people should separate into 2 groups of max 3 people
-* We have [another algorithm]() to determine which way your team's groups should go...
+* Each team should separate into pairs (or a group of 3 if uneven)
+* Each pair will go out -- separated by 2 minutes each
+* Try to approach people, ask questions, and take notes
+* Don't worry if you don't get answers or people don't respond -- we'll have lots of opportunity to expand on the data you get later today
+* Think of it as a totally low-stakes opportunity to practice talking to new people!
+* We'll have helpers from the instructional staff stationed at
+
+  * PLACE 1 TBA
+  * PLACE 2 TBA
+  * PLACE 3 TBA
+
+  * And you should feel free to come see us if you need anything
+  * **Any concerns or questions or need a staff member, call: 734-707-1*23 to reach Jackie**
 
 * Head out for 2 hours -- **you should come back here by 1:00 pm for lunch!**
 
@@ -81,9 +138,11 @@ We're going to consider this question in a few different ways today.
 
 * [Organizing your notes](day_2_exercise_3.md)
 * [Affinity Diagramming exercise](day_2_exercise_4.md)
+* Select problem groups
+* Each person choose 3 *individual* problems (post-its) -- we'll come back to these tomorrow!
 
 ### Introduction to qualitative vs quantitative data
 
-* [Quant vs Qual - why do you care?](quant_vs_qual_data.md)
+* Quant vs Qual - why do we care?
 
 ### Conclusion & exit tickets
