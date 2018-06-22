@@ -103,6 +103,7 @@ We're going to consider this question in a few different ways today.
 * **Explain that you're not asking for money** - people want to know why they're being asked and what they can expect
 * **Give them an extremely brief why** - Research for a technology program at CUNY
 
+
 ### Taking notes on the answers
 
 * Identify specific ideas
@@ -149,4 +150,12 @@ We're going to consider this question in a few different ways today.
 
 * Quant vs Qual - why do we care?
 
-### Conclusion & exit tickets
+### Conclusion 
+
+* Exit tickets
+
+#### Additional Resources (if you're interested in this -- don't need these now)
+* [https://www.smashingmagazine.com/2014/06/facing-your-fears-approaching-people-for-research/](https://www.smashingmagazine.com/2014/06/facing-your-fears-approaching-people-for-research/)
+* Brandon Stanton of Humans of New York: [https://www.huffingtonpost.com/2014/05/01/brandon-stanton-humans-of-new-york_n_5242699.html](https://www.huffingtonpost.com/2014/05/01/brandon-stanton-humans-of-new-york_n_5242699.html)
+* [https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67](https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67) (note that many of these resources refer to much more extended interviews than the question-asking you will be doing here -- however, the suggestions they impart and the tricks they list are still useful!)
+* [https://uxknowledgebase.com/user-interview-how-to-ask-good-questions-eb80f8b99627](https://uxknowledgebase.com/user-interview-how-to-ask-good-questions-eb80f8b99627)
