@@ -10,16 +10,18 @@ This is part 1 of the **product design cycle** you'll be doing a super-fast vers
 
 * Karla Polo-Garcia, your instructor
 * Review from yesterday
+* [Slides for today](slides_link_tbd.md)
 
-### What are you building toward?
+### Today you are designers
 
-* Examples of your end result
-* Variety of technologies you can prototype and think about!
+* Forming questions from problems (based on your challenge)
+* Choosing (a) problem/s to address as a team
+* Paper prototyping & wireframes
+* Using a prototyping tool to design part of a project
+* Prepare to pass an idea to your developers (you, tomorrow!)
 
 ### Problem identification
 
-* [Example of a problem and pain point articulation]()
-* [Example of an ultimate goal for a product]()
 
 * [Exercise 1 - What factors need to occur to address this goal?](day_3_exercise_1.md)
 * [Exercise 2 - How might we facilitate those factors to become true?](day_3_exercise_2.md)
@@ -48,7 +50,7 @@ This is part 1 of the **product design cycle** you'll be doing a super-fast vers
 
 Remember: Dream big!
 
-What if you could build anything? We only have time *this* week to start on a tiny bit... but that doesn't mean you can't make big plans. 
+What if you could build anything? We only have time *this* week to start on a tiny bit... but that doesn't mean you can't make big plans.
 
 ### 'Standup' part 1 (20 min)
 
