@@ -123,3 +123,5 @@ And done! Check out the output on the right side of the online tool.
 <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif">
 
 Note that you won't see anything representing that `first-gif` id on the page. What you see on the page shouldn't change at all. That `id` is a behind-the-scenes thing for you, the programmer -- so you, or someone else, can do more specific things with the web page you created!
+
+[BACK TO MONDAY](https://witny-summer-guild-2018.github.io/monday)

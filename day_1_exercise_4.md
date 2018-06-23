@@ -335,3 +335,5 @@ What are some clues you can identify -- why would we write *this* code instead o
 Wasn't what we had before a little clearer, with less junk all around it?
 
 This is really tricky! It's like a puzzle + detective work.
+
+[BACK TO MONDAY](https://witny-summer-guild-2018.github.io/monday)
