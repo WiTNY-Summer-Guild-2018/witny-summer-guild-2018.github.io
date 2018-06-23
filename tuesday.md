@@ -107,7 +107,7 @@ We're going to consider this question in a few different ways today.
 * Instructors will wander and chat with you all about questions! Flag us down if you want to talk more with us (someone on the team raise your hand, and we'll let you know that we're coming)
 
 
-### Asking questions (of people)
+### Asking & framing questions
 * **Calm approach** - makes it easier for people to be approached
 * **Side or front approach** - don't surprise people, make them feel like they can leave if they need to
 * **Introduce what you want to do**, and on assent (agreement to participate), do it *right away*, quickly and clearly
