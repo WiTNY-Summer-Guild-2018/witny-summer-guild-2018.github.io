@@ -1,5 +1,15 @@
 ## Summer Guild Team
 
+---
+
+[HOME](https://witny-summer-guild-2018.github.io/) |
+[MONDAY](https://witny-summer-guild-2018.github.io/monday) |
+[TUESDAY](https://witny-summer-guild-2018.github.io/tuesday) |
+[WEDNESDAY](https://witny-summer-guild-2018.github.io/wednesday) |
+[THURSDAY](https://witny-summer-guild-2018.github.io/thursday)
+
+---
+
 ### Instruction Leadership Team
 
 ##### <img width='16%' height='16%' src="/imgs/mepic_crop2_headshot.png"> Jackie Cohen - *Director of Curriculum*
