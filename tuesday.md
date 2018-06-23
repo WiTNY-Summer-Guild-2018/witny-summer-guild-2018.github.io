@@ -2,10 +2,10 @@
 
 ---
 
-[HOME](https://witny-summer-guild-2018.github.io/)
-[MONDAY](https://witny-summer-guild-2018.github.io/monday)
-[TUESDAY](https://witny-summer-guild-2018.github.io/tuesday)
-[WEDNESDAY](https://witny-summer-guild-2018.github.io/wednesday)
+[HOME](https://witny-summer-guild-2018.github.io/) |
+[MONDAY](https://witny-summer-guild-2018.github.io/monday) |
+[TUESDAY](https://witny-summer-guild-2018.github.io/tuesday) |
+[WEDNESDAY](https://witny-summer-guild-2018.github.io/wednesday) | 
 [THURSDAY](https://witny-summer-guild-2018.github.io/thursday)
 
 ---
