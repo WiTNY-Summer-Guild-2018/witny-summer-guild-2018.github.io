@@ -1,3 +1,4 @@
+[BACK TO THURSDAY](https://witny-summer-guild-2018.github.io/thursday)
 
 ## **Exercise 3 - JavaScript + HTML interaction**
 
@@ -53,6 +54,6 @@ Check out this web page with a JavaScript program inside `<script>` tags:
 
   * Consider: why might you want to do a calculation like this? Dream up a situation where something like this might be useful.
 
-  * Talk about this with your coding partner: Maybe you added 7 to the date and you got a number like... 36. That's never going to be a correct date. Why did that happen? How do you think you could fix the problem? If you've got time, you can try... 
+  * Talk about this with your coding partner: Maybe you added 7 to the date and you got a number like... 36. That's never going to be a correct date. Why did that happen? How do you think you could fix the problem? If you've got time, you can try...
 
     * (This is *super* challenging -- and a really good preview of hard problems people face in Computer Science.)

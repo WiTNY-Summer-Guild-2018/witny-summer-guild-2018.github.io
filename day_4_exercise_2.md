@@ -1,5 +1,7 @@
 ## Introduction to jQuery & more interactive JavaScript
 
+[BACK TO THURSDAY](https://witny-summer-guild-2018.github.io/thursday)
+
 ### What IS jQuery, anyway, and why do we care?
 
 It's what's called a "library" in programming -- a bunch of tools that you can use in a programming language that all come together in one big package.

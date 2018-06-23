@@ -1,3 +1,5 @@
+[BACK TO THURSDAY](https://witny-summer-guild-2018.github.io/thursday)
+
 ## **Exercise 1**
 
 Take a look at this Javascript code. What do you think it does?

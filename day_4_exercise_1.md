@@ -1,3 +1,5 @@
+[BACK TO THURSDAY](https://witny-summer-guild-2018.github.io/thursday)
+
 Remember the [JavaScript exercises](day_1_exercise_3.md) we practiced on Monday? Here are a few more!
 
 In your teams, find your coding partners for today.

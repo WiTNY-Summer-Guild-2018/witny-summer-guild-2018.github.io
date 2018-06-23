@@ -1,5 +1,7 @@
 ## HTML Exercise: Build a small web page!
 
+[BACK TO MONDAY](https://witny-summer-guild-2018.github.io/)
+
 By knowing how to look up stuff about HTML, you know enough to build a web page!
 
 You'll start by going to [this webpage](https://www.tutorialrepublic.com/codelab.php?topic=html&file=simple-document) where you have a simple HTML starter page, with just this HTML in it:

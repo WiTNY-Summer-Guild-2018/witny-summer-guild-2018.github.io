@@ -1,3 +1,5 @@
+[BACK TO THURSDAY](https://witny-summer-guild-2018.github.io/thursday)
+
 ## Choose your development adventure
 
 ### In your coding groups, you will:
