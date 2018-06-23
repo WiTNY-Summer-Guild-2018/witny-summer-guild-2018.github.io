@@ -54,11 +54,65 @@ document.getElementById("demo")
 
 can be REPLACED with this even simpler code if you are using jQuery in the program:
 
+(basically -- we need a little extra stuff going on for this to do anything / actually work)
+
 ```javascript
 $("#demo")
 ```
 
-much easier to type!
+and this code:
+
+```javascript
+.innerHTML = 5 + 6;
+```
+
+can also be replaced by
+
+```javascript
+.text(5 + 6);
+```
+
+much easier to type! Shorter, more to-the-point.
+
+Try this out yourself (you can copy and paste this code into the online tool):
+
+* Reminder of how to copy and paste
+
+* The online tool
+
+* Try copying this code, and see that it works. Then you can try replacing the jQuery code with `document.getElementById("demo").innerHTML = 5 + 6;` -- and see that it still works!
+
+* The code to copy in:
+
+```html
+<!DOCTYPE html>
+<html>
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+  <body>
+
+    <h1>My First Web Page</h1>
+
+    <h3>Beginning information</h3>
+    <p>My First Paragraph</p>
+
+    <p id="demo"></p>
+
+    <p id="new-para"></p>
+
+    <script>
+      $(function() {
+
+        $("#demo").text(5 + 6);
+
+
+      });
+    </script>
+
+  </body>
+</html>
+```
+
+Remember, just like before -- `<p id="new-para"></p>` won't show anything without some more things written OR more JavaScript to make something appear inside that tag.
 
 ### OK, but realistically, how do you use this in a program?
 
@@ -104,12 +158,10 @@ To make that run in the web page, you have to put that code inside this bigger s
 When you write code with JavaScript and jQuery, you have another type of structure that you put your code inside.
 
 
-((TBA DIAGRAM of this with arrows and pointers as in notebook...))
-
 ```javascript
 $(function(){
 
-  // all the code that should go here
+  // all the code that should go here ...
 
 });
 ```
@@ -125,7 +177,7 @@ document.getElementById("demo").innerHTML = 5 + 6;
 did -- AKA
 
 ```javascript
-$(#demo).innerHTML = 5 + 6;
+$("#demo").text(5 + 6);
 ```
 
 ### OK... this is weird.
@@ -173,7 +225,7 @@ But sometimes, you might want code to run on a different event -- e.g. when a us
 
 For example... [code like this](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=execute-a-function-on-click-event).
 
-Here's the HTML and the code, simplified a little so ALL it does is have text that disappears if you click on it, no colors or anything:
+Here's the HTML and the code, simplified a little so ALL it does is have text that disappears if you click on it, no colors or anything -- and this code here (unlike in the linked example) is written in the very simplest way:
 
 ```html
 <!DOCTYPE html>
@@ -183,7 +235,7 @@ Here's the HTML and the code, simplified a little so ALL it does is have text th
   <title>Executing a Function on Click Event in jQuery</title>
   <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
   <script type="text/javascript">
-    $(document).ready(function(){
+    $(function(){
         $("p").click(function(){
             $(this).slideUp();
         });
