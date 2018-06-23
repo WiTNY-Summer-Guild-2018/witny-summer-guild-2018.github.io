@@ -70,6 +70,8 @@ We're going to consider this question in a few different ways today.
 
     * For example, if your challenger were about restaurants, *What was the most frustrating thing about the restaurant you ate lunch at today?* could be a good question (but it's FAR from the only good question). It prompts people for a specific thing, but allows them some freedom to answer whatever that you can draw specific stuff out of.
 
+    * ALSO! Imagine, someone might say *"I didn't eat lunch at any restaurant today!"*  If only one person you talk to out of many says that, OK, maybe they're an outlier. If a bunch of people say that... What if they say *"What, I haven't had lunch yet, too early"* -- you can learn something from that too! It may not be what you intended to learn, and it may or may not be useful to your product development process -- but that's what user research is all about.
+
   * A good recipe: one piece of **context** + one piece of **specificity** + one piece of **broad** question
 
     * **Context:** Something about the question that helps you learn about who they are or why they are here / using the thing you care about / etc (like "What did you eat for lunch today")
