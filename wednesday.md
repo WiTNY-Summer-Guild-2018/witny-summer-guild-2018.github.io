@@ -1,5 +1,15 @@
 ## DAY 3 - Prototyping!
 
+---
+
+[HOME](https://witny-summer-guild-2018.github.io/)
+[MONDAY](https://witny-summer-guild-2018.github.io/monday)
+[TUESDAY](https://witny-summer-guild-2018.github.io/tuesday)
+[WEDNESDAY](https://witny-summer-guild-2018.github.io/wednesday)
+[THURSDAY](https://witny-summer-guild-2018.github.io/thursday)
+
+---
+
 Yesterday you were presented with a broad challenge: **How might we make transportation in New York City better?** And after talking to users and talking among yourselves, you identified some problems you are interested in.
 
 Today we're going to look at how you go from that to determining what kind of product to build and look at what it means to be a *designer* in technology.

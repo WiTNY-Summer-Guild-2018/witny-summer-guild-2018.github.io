@@ -1,5 +1,15 @@
 ## DAY 2 - Users & Data!
 
+---
+
+[HOME](https://witny-summer-guild-2018.github.io/)
+[MONDAY](https://witny-summer-guild-2018.github.io/monday)
+[TUESDAY](https://witny-summer-guild-2018.github.io/tuesday)
+[WEDNESDAY](https://witny-summer-guild-2018.github.io/wednesday)
+[THURSDAY](https://witny-summer-guild-2018.github.io/thursday)
+
+---
+
 Today is a completely different perspective on product development in technology!
 
 We're going to spend this week going through a bunch of the process involved in technology product development.

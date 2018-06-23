@@ -1,5 +1,15 @@
 ## DAY 4 - Development!
 
+---
+
+[HOME](https://witny-summer-guild-2018.github.io/)
+[MONDAY](https://witny-summer-guild-2018.github.io/monday)
+[TUESDAY](https://witny-summer-guild-2018.github.io/tuesday)
+[WEDNESDAY](https://witny-summer-guild-2018.github.io/wednesday)
+[THURSDAY](https://witny-summer-guild-2018.github.io/thursday)
+
+---
+
 Yesterday each of your teams designed a prototype of a piece of technology you might build to help address a specific problem.
 
 Today you're going to dive into more development and coding by approaching a minimum viable product, the way you discussed yesterday!
