@@ -10,6 +10,18 @@ So in doing so, you're going to talk to real people in NYC -- here in Times Squa
 
 This is a lot more complicated than it *might* seem at first...
 
+### What's going to happen today
+
+* You'll receive a challenge question
+* Dive into the challenge: what does it really mean?
+* Building questions - what's a good question?
+* Framing questions - how do you ask strangers?
+* Go out into Times Square, ask questions and take notes!
+* Return for lunch
+* Analyze the data you got and add your own transportation thoughts and data
+* Gather data to focus on a problem that you'll take to tomorrow!
+
+
 ### **YOUR CHALLENGE:**
 ### *How might we make transportation in New York City better?*
 
