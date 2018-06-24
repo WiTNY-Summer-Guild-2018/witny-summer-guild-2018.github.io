@@ -56,11 +56,11 @@ Then, we'll get together and review these exercises.
 
 * In your pair, discuss these three questions about the process so far:
 
-  * What are you worried about?
+  * What was/is hard about coding?
   * What do you feel confident about now that you didn't before Monday?
   * What's (at least) one thing you're excited to learn (eventually) that you don't know yet?
 
-  Write down the answers on a worksheet!
+  Write down the answers on your worksheet!
 
 
 ### Wrap-up & demo discussion
