@@ -63,10 +63,18 @@ Each team will also get a few minutes to come present the standup ideas & plans 
 
 ### Wrap-up & demo discussion
 
+#### What is a demo?
+
+* Useful things to note
+* An example from your instructor
+
+#### Building your own demo!
+
 * We've provided the [structure of a Google presentation](google_presentation.md)
-* [Exercise - Getting ready to present as a team](day_4_presentation_prep.md)
+* Getting ready to present for 5 minutes
+  * Just a couple decisions to make
 
 ### Conclusion & Exit Tickets
 
-* Reminders about tomorrow
+* Reminders about tomorrow - location, timing
 * See you at Roosevelt Island!
