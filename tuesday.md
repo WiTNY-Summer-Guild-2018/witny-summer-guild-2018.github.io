@@ -5,7 +5,7 @@
 [HOME](https://witny-summer-guild-2018.github.io/) |
 [MONDAY](https://witny-summer-guild-2018.github.io/monday) |
 [TUESDAY](https://witny-summer-guild-2018.github.io/tuesday) |
-[WEDNESDAY](https://witny-summer-guild-2018.github.io/wednesday) | 
+[WEDNESDAY](https://witny-summer-guild-2018.github.io/wednesday) |
 [THURSDAY](https://witny-summer-guild-2018.github.io/thursday)
 
 ---
@@ -37,12 +37,12 @@ This is a lot more complicated than it *might* seem at first...
 
 We're going to consider this question in a few different ways today.
 
-### What is "user experience"? (5 min)
+### What is "user experience"? (~ 5 min)
 
 * User Experience ("UX") research
 * User Experience ("UX") design
 
-### Break apart the challenge - Exercise (1/2 hour)
+### Break apart the challenge - Exercise (~ 1/2 hour)
 
 * **How might we**
   * Not about "can"
@@ -64,7 +64,7 @@ We're going to consider this question in a few different ways today.
 * What kind of data is necessary to answer our questions?
 * What kind of data can we actually get?
 
-### Building questions (for people) - 1 hour
+### Building questions (for people) - ~ 1 hour
 
 #### Selecting questions
 
@@ -133,14 +133,14 @@ We're going to consider this question in a few different ways today.
 * For example...
 
 
-### Let's practice - 1/2 hour
+### Let's practice -  ~ 1/2 hour
 
 * Pair up with someone from a different team.
   * Trade off asking the question you're asking and taking notes on a paper or post-it
   * Practice saying it calmly and confidently -- it'll make it much easier when you approach new people!
 
 
-### TIMES SQUARE! @ 11:00 am
+### TIMES SQUARE! @ approx. 11:00 am
 
 * Each team should separate into pairs (or a group of 3 if uneven)
 * Each pair will go out -- separated by 2 minutes each
