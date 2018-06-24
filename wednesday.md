@@ -57,9 +57,14 @@ This is part 1 of the **product design cycle** you'll be doing a super-fast vers
 
 * Today you are a designer
 * Tomorrow you become a developer
-* What's the component you want to focus on?
+
+* In preparation, you'll ask: What's the component you want to focus on?
   * Examples
   * Decision-making
+  * And in "real life", timelines...
+
+* But as a designer
+  * The whole world is open to you! What problem do you want to solve? What do you want to build?
 
 ### Introduction to prototyping tool - Figma
 
