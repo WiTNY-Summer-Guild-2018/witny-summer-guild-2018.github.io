@@ -25,7 +25,7 @@
 
 ##### Karla Polo Garcia - *Prototyping*
 
-##### <img width='16%' height='16%' src="/imgs/juliaphoto.png"> Julia Sterling - *Development*
+##### <img width='16%' height='16%' src="/imgs/juliaphoto.jpg"> Julia Sterling - *Development*
 <div class="bio"><font size="2">Julia is a software developer. When she is not teaching coding through programs like TEALS and MEET (and WiTNY!), she works in EdTech. She has built adaptive education tools at Knewton, and is currently helping teachers everywhere share their best ideas at Teachers Pay Teachers, an online marketplace for teachers to buy and sell teaching materials — like Etsy, but for teachers! She grew up in Brooklyn, and now lives in Manhattan with her girlfriend and cats.</font></div>
 
 ### Teaching Assistants
