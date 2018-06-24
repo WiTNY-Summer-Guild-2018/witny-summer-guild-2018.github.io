@@ -14,7 +14,7 @@ Yesterday you were presented with a broad challenge: **How might we make transpo
 
 Today we're going to look at how you go from that to determining what kind of product to build and look at what it means to be a *designer* in technology.
 
-This is part 1 of the **product design cycle** you'll be doing a super-fast version of today (Wednesday) and tomorrow (Thursday) before presenting your idea as a team on Friday!
+This is part 1 of the **product design cycle** you'll be doing a super-fast version of today (Wednesday) and tomorrow (Thursday) before demoing your idea as a team on Friday!
 
 ### Introductions
 
@@ -32,35 +32,55 @@ This is part 1 of the **product design cycle** you'll be doing a super-fast vers
 
 ### Problem identification
 
+* **Exercise 1** - Translate problems into "How may we/how might we" questions
 
-* [Exercise 1 - What factors need to occur to address this goal?](day_3_exercise_1.md)
-* [Exercise 2 - How might we facilitate those factors to become true?](day_3_exercise_2.md)
-* [Exercise 3 - Collect ideas for solutions & vote on 'em](day_3_exercise_3.md)
+* **Exercise 2** - Impact vs complexity
+
+    * How much impact could solving this problem have?
+    * How complex/difficult would it be to solve this problem?
+
+* **Exercise 3** - Collect ideas for solutions
 
 ### Drawing wireframes & user flow
 
-[Process for developing and selecting a wireframe to prototype](day_3_exercise_4.md)
+* (1) Find a work partner in your team
 
-### Designers & developers, Minimum Viable Products
+* (2) Draw wireframes about how to flow through the application
+
+* (3) Together, select one part you want to focus on to design/prototype
+
+  * One particular wireframe you want to design
+
+  * One particular part of your idea you want to create a couple screens from
+
+### Designers & developers & Minimum Viable Products
 
 * Today you are a designer
 * Tomorrow you become a developer
-* What's the *first tiny thing* to build?
-  * [Examples](day_3_exercise_5.md)
+* What's the component you want to focus on?
+  * Examples
   * Decision-making
 
+### Introduction to prototyping tool - Figma
+
+[Figma slides](figma_slides_link.md)
+
+  * Example & introduction to prototyping tool
+  * Choosing wireframes to prototype for each person
+  * Collaborating to build 1 team prototype / prototype set
 
 ### ~ Lunch ~
 
-### Introduction to prototyping tool
-
-* Example & introduction to prototyping tool
-* Choosing wireframes to prototype for each person
-* Collaborating to build 1 team prototype / prototype set
+### Time to prototype!
 
 Remember: Dream big!
 
 What if you could build anything? We only have time *this* week to start on a tiny bit... but that doesn't mean you can't make big plans.
+
+[Figma resources](figma_slides_link.md)
+
+[Slides from today](slides_link_tbd.md)
+
 
 ### 'Standup' part 1 (20 min)
 
