@@ -3,6 +3,7 @@
 ---
 
 [HOME](https://witny-summer-guild-2018.github.io/) |
+[TEAM](instructors.md) |
 [MONDAY](https://witny-summer-guild-2018.github.io/monday) |
 [TUESDAY](https://witny-summer-guild-2018.github.io/tuesday) |
 [WEDNESDAY](https://witny-summer-guild-2018.github.io/wednesday) |
@@ -24,7 +25,7 @@ Today is all about an introduction to "coding", or "programming" -- what it is, 
 
 * Brief introduction
 * The peanut butter sandwich problem
-* Discussion 
+* Discussion
 
 ### Introduction to programming languages: Scratch
 

@@ -3,6 +3,7 @@
 ---
 
 [HOME](https://witny-summer-guild-2018.github.io/) |
+[TEAM](instructors.md) |
 [MONDAY](https://witny-summer-guild-2018.github.io/monday) |
 [TUESDAY](https://witny-summer-guild-2018.github.io/tuesday) |
 [WEDNESDAY](https://witny-summer-guild-2018.github.io/wednesday) |
