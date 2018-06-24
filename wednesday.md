@@ -74,6 +74,8 @@ This is part 1 of the **product design cycle** you'll be doing a super-fast vers
   * Choosing wireframes to prototype for each person
   * Collaborating to build 1 team prototype / prototype set
 
+**TBA** *Instructions for collaborating and saving your prototype!*
+
 ### ~ Lunch ~
 
 ### Time to prototype!
