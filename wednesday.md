@@ -87,7 +87,21 @@ This is part 1 of the **product design cycle** you'll be doing a super-fast vers
 
 ### Time to prototype!
 
-Remember: Dream big!
+#### Planning
+
+Grab a partner for prototyping -- to work on one aspect of the wireframes you worked on before.
+
+You can decide in your team whether your groups will split up to prototype different parts of your idea, or whether to all prototype the same parts in different ways so you can consider different ideas when you start developing!
+
+Anything is fine -- this is a time for ideas and trying things out!
+
+#### Prototyping
+
+Get started working with Figma in your partners, making comments, and trying stuff out --
+
+To build prototypes of the idea(s) you've had to improve transportation situations in NYC with technology!
+
+Remember: **Dream big!**
 
 What if you could build anything? We only have time *this* week to start on a tiny bit... but that doesn't mean you can't make big plans.
 
@@ -95,6 +109,11 @@ Slides: [Figma resources/instructions](figma_slides_link.md)
 
 Reminder: [Link to slides from today](slides_link_tbd.md)
 
+### Prototyping discussion
+
+* What's surprising?
+* What's hard?
+* What's exciting?
 
 ### 'Standup' part 1 (20 min)
 
