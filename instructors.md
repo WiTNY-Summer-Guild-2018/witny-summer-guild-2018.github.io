@@ -25,9 +25,20 @@
 
 ##### Karla Polo Garcia - *Prototyping*
 
+TBA
+
 ##### <img width='16%' height='16%' src="/imgs/juliaphoto.jpg"> Julia Sterling - *Development*
 <div class="bio"><font size="2">Julia is a software developer. When she is not teaching coding through programs like TEALS and MEET (and WiTNY!), she works in EdTech. She has built adaptive education tools at Knewton, and is currently helping teachers everywhere share their best ideas at Teachers Pay Teachers, an online marketplace for teachers to buy and sell teaching materials — like Etsy, but for teachers! She grew up in Brooklyn, and now lives in Manhattan with her girlfriend and cats.</font></div>
 
 ### Teaching Assistants
 
-TBA
+##### Quetourah Dalencourt
+
+##### Sangia Drakes
+
+##### <img width='16%' height='16%' src="/imgs/safajavid.jpeg"> Safa Javid
+<div class="bio"><font size="2">Safa will graduate from Queens College with Computer Science and Political Science degrees in 2020. She adores cats and ice cream.</font></div>
+
+##### Gagandeep Kaur
+
+##### Eman Khan
