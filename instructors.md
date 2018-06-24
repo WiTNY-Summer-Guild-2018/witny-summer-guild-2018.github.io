@@ -37,7 +37,7 @@ TBA
 ##### Sangia Drakes
 
 ##### <img width='16%' height='16%' src="/imgs/safajavid.jpeg"> Safa Javid
-<div class="bio"><font size="2">Safa will graduate from Queens College with Computer Science and Political Science degrees in 2020. She adores cats and ice cream.</font></div>
+<div class="bio"><font size="2">Safa will graduate from Queens College in 2020. She adores cats and ice cream.</font></div>
 
 ##### Gagandeep Kaur
 
