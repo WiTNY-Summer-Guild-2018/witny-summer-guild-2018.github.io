@@ -24,8 +24,8 @@ For each exercise, you should:
 
 ---
 
-* **[Exercise 1 - JavaScript review](day4_intro_ex1.md)**
+* **[Exercise 1 - HTML Buttons](day4_intro_ex2.md)**
 
-* **[Exercise 2 - HTML Buttons](day4_intro_ex2.md)**
+* **[Exercise 2 - JavaScript review](day4_intro_ex1.md)** TBA -- edited so it connects to Ex1
 
 * **[Exercise 3 -- JavaScript that changes HTML data](day4_intro_ex3.md)**

@@ -29,7 +29,9 @@ We've provided a few more code exercises that build off what you did on Monday, 
 
 You should try to work on these with your coding partner.
 
-Each team will also get a few minutes to come present the standup ideas & plans you came up with yesterday to Julia to talk about them.
+Each team will also get a few minutes to present the standup ideas & plans you came up with yesterday to Julia to talk about them -- Julia will come see each team one at a time.
+
+Then, we'll get together and review these exercises.
 
 ### Development: Part 1
 
