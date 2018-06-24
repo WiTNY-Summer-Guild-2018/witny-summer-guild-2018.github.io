@@ -71,8 +71,15 @@ This is part 1 of the **product design cycle** you'll be doing a super-fast vers
 [Figma slides](figma_slides_link.md)
 
   * Example & introduction to prototyping tool
+
+    * [How to sign in to Figma](figma.md)
+    * We've generated one board per team! To get your team's... **TBA**
+
   * Choosing wireframes to prototype for each person
+
   * Collaborating to build 1 team prototype / prototype set
+
+  * We'll go through a Figma tutorial!
 
 **TBA** *Instructions for collaborating and saving your prototype!*
 
@@ -84,9 +91,9 @@ Remember: Dream big!
 
 What if you could build anything? We only have time *this* week to start on a tiny bit... but that doesn't mean you can't make big plans.
 
-[Figma resources](figma_slides_link.md)
+Slides: [Figma resources/instructions](figma_slides_link.md)
 
-[Slides from today](slides_link_tbd.md)
+Reminder: [Link to slides from today](slides_link_tbd.md)
 
 
 ### 'Standup' part 1 (20 min)
