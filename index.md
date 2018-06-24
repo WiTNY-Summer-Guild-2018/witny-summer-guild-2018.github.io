@@ -3,7 +3,7 @@
 ---
 
 [HOME](https://witny-summer-guild-2018.github.io/) |
-[TEAM](instructors.md) | 
+[TEAM](instructors.md) |
 [MONDAY](https://witny-summer-guild-2018.github.io/monday) |
 [TUESDAY](https://witny-summer-guild-2018.github.io/tuesday) |
 [WEDNESDAY](https://witny-summer-guild-2018.github.io/wednesday) |
@@ -11,7 +11,7 @@
 
 ---
 
-The 2018 [WiTNY](http://www1.cuny.edu/sites/women-in-technology/) [Summer Guild](http://www1.cuny.edu/sites/women-in-technology/programs/) welcomes groups of women and non-binary students who have been admitted to CUNY for Fall 2018. You will spend your week learning about possibilities in, and awesome things about, Computer Science and related technology topics -- and later this summer/fall, you can enroll in a computer science course at your CUNY campus!
+The 2018 [WiTNY](http://www1.cuny.edu/sites/women-in-technology/) [Summer Guild](http://www1.cuny.edu/sites/women-in-technology/programs/) welcomes groups of women and non-binary students who have been admitted to CUNY for Fall 2018. You will spend your week learning about possibilities in, and awesome things about, Computer Science and related technology topics -- and later this summer/fall, you can enroll in a computer science course at your CUNY campus to expand your tech knowledge!
 
 For more about Summer Guild and WitNY, check out [these](https://tech.cornell.edu/impact/witny) [resources](http://www1.cuny.edu/sites/women-in-technology/programs/).
 
