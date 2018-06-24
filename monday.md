@@ -24,6 +24,7 @@ Today is all about an introduction to "coding", or "programming" -- what it is, 
 
 * Brief introduction
 * The peanut butter sandwich problem
+* Discussion 
 
 ### Introduction to programming languages: Scratch
 
