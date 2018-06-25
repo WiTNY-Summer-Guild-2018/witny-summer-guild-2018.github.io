@@ -34,12 +34,14 @@ TBA
 ### Teaching Assistants
 
 ##### Quetourah Dalencourt
+<div class="bio"><font size="2">Quetourah attends City College of New York (class of 2020). Aside from programming, she speaks 3 languages.</font></div>
 
 ##### Sangia Drakes
 
 ##### <img width='16%' height='16%' src="/imgs/safajavid.jpeg"> Safa Javid
-<div class="bio"><font size="2">Safa will graduate from Queens College in 2020. She adores cats and ice cream.</font></div>
+<div class="bio"><font size="2">Safa attends Queens College (class of 2020). She adores cats and ice cream.</font></div>
 
 ##### Gagandeep Kaur
 
-##### Eman Khan
+##### <img width='16%' height='16%' src="/imgs/emankhan.jpeg"> Eman Khan
+<div class="bio"><font size="2">Eman attends Queens College (class of 2019). She loves to read books and comics in her spare time.</font></div>
