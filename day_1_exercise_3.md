@@ -83,6 +83,10 @@ We'll discuss this all together a little bit.
 
 That will automatically *copy* the link of the gif.
 
+**NOTE:** Your link should look kind of like this: `https://media.giphy.com/media/3oKIPaSkwgwHz5wpZC/giphy.gif` -- a link that describes where THAT GIF lives on the internet, so you can have it show up in your web page. It's easy to find a link like this, too: **https://giphy.com/gifs/marvelstudios-michael-b-jordan-black-panther-3oKIPaSkwgwHz5wpZC** -- and while that WILL let you see the gif on the internet, that's a link to a giphy.com web page -- NOT the link where the gif lives. So if you try to use that one, it won't show up.
+
+(Behind the scenes, it's like: "That's not the place an image or gif lives! That's another web page! Can't show that as image data." So you want to be careful to get the link in the right way.)
+
 3. Go back to your HTML browser window.
 
 4. Click in the text box, and THEN, either click **Edit -> Paste** in the menu, OR, on your keyboard, hold the **Control** button and hit the **P** button. You should see the link you just copied (something sort of like this  `https://media.giphy.com/media/3oKIPaSkwgwHz5wpZC/giphy.gif` ) appear in the text box.
