@@ -71,6 +71,10 @@ We'll discuss this all together a little bit.
   * Talk to each other, a lot -- most programmers learn almost everything by talking to people they work with and friends. It's too hard to learn on your own!
   * If you have questions about using any HTML tags, or trying to work with colors, let an instructor know and we'll help you out!
 
+**NOTE** -- this does NOT auto-save. If you're working on something you want to keep, make sure to open a NEW window or tab, don't get rid of this one!
+
+*If you do by accident, that's totally fine -- it's a classic coding experience. You can still practice all the skills, even if you don't have a complete website, and make an even cooler one when you have more time.*
+
 * **Download the file onto your computer when you are done** by clicking the little icon that looks like this: ![Image of dl icon](imgs/downloadicon.png) at the top of the page ![Image of top of page](imgs/topcodelabpage.png)
 
 ### How to embed a gif in your web page
