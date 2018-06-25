@@ -38,10 +38,14 @@ TBA
 
 ##### Sangia Drakes
 
+TBA
+
 ##### <img width='16%' height='16%' src="/imgs/safajavid.jpeg"> Safa Javid
 <div class="bio"><font size="2">Safa attends Queens College (class of 2020). She adores cats and ice cream.</font></div>
 
 ##### Gagandeep Kaur
+
+TBA
 
 ##### <img width='16%' height='16%' src="/imgs/emankhan.jpeg"> Eman Khan
 <div class="bio"><font size="2">Eman attends Queens College (class of 2019). She loves to read books and comics in her spare time.</font></div>
