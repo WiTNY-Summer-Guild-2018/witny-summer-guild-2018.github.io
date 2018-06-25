@@ -27,7 +27,7 @@ You'll start with that link above, and add HTML in the box on the left so you ca
 
 e.g.
 
-![Image of the code tutorial display tool](https://www.dropbox.com/s/un1yicprj6njepq/Screenshot%202018-06-12%2014.42.56.png)
+![Image of the code tutorial display tool](imgs/onlinetool.png)
 
 *Reminder:* Click the auto-update button on the HTML display tool in your browser!
 
@@ -79,7 +79,7 @@ We'll discuss this all together a little bit.
 
 2. When you find a gif you want, put your cursor on it, and click on the little paper-clip looking icon, like this:
 
-![Image of link icon to click on](https://www.dropbox.com/s/x3orli7y6y961b9/Screenshot%202018-06-12%2014.33.20.png)
+![Image of link icon to click on](imgs/linkicon.png)
 
 That will automatically *copy* the link of the gif.
 
