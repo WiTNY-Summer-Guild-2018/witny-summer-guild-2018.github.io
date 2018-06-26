@@ -121,11 +121,15 @@ And we'll be talking a little bit about ways to do each one so you feel comforta
 * **Give them an extremely brief what and why and time - "Specify the ask"**
 
 **Here's a useful script to start with:**
-*We're part of a program called WitNY to get more women involved in technology, and we're doing a project about transportation in NYC. Can we take 2 minutes to ask you a couple questions?*
+*We're part of a program called WitNY to get more women involved in technology, and we're doing a project about transportation in NYC. May we take 2 minutes to ask you a couple questions about NYC [transportation/subways/buses/CitiBike/whatever is appropriate for your situation]?*
+
+(Then, if they say yes)
 
 *Thanks!*
 
-Write that down on your notepad.
+Write that script down on your notepad. You'll want to practice it and feel good about reciting it clearly and comfortably.
+
+(It'll get easier the more you do it!)
 
 
 ##### Take 2 minutes -- literally, I'm going to set a timer -- to think about some time(s) you've been approached on the street in New York City or somewhere else.
