@@ -323,7 +323,7 @@ We'll send you out in pairs, separated by a minute or so. We'll tell you what di
 
 
 ### Additional Resources on User interviews
-####(if you're interested in this -- you don't need these now!)
+#### (if you're interested in this -- you don't need these now!)
 * [https://www.smashingmagazine.com/2014/06/facing-your-fears-approaching-people-for-research/](https://www.smashingmagazine.com/2014/06/facing-your-fears-approaching-people-for-research/)
 * Brandon Stanton of Humans of New York: [https://www.huffingtonpost.com/2014/05/01/brandon-stanton-humans-of-new-york_n_5242699.html](https://www.huffingtonpost.com/2014/05/01/brandon-stanton-humans-of-new-york_n_5242699.html)
 * [https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67](https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67) (note that many of these resources refer to much more extended interviews than the question-asking you will be doing here -- however, the suggestions they impart and the tricks they list are still useful!)
