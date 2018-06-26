@@ -290,7 +290,28 @@ We'll send you out in pairs, separated by a minute or so. We'll tell you what di
 
 * Data... it means all kinds of things
 
-* (If time) What's this got to do with tech, again?
+  * [Visualization of NYC subway data](https://www.citylab.com/transportation/2016/12/visualizing-a-full-day-on-the-new-york-city-subway/510020/)
+  * What questions to ask about that?
+
+  * [Entries and exits of NYC subways](http://piratefsh.github.io/mta-maps/public/)
+  * What about this? How could this even get made?
+
+  * (Hint: JavaScript is part of it, and data is the other part, PLUS a LOT of time)
+
+  * [And ALL kinds of NYC transit visualization...](https://www.citylab.com/transportation/2017/04/groove-out-to-24-hours-of-new-york-transit-with-the-multimodal-symphony/522633/)
+
+  * Or even a small amount of data in a spreadsheet, that you could make a chart out of: ![Image of bike data](imgs/bikedata.png)
+
+  * Always: What might this tell us?
+
+  * What does this NOT tell us? What questions can we ask?
+
+
+* (If time) What's this got to do with tech, again? (So many things...)
+
+  * To be a great technologist, you've gotta be asking these questions
+
+  * And that's another reason to be in CS -- YOU will ask a different question AND come up with different answers than someone who has differet experience from you. YOU are invaluable.
 
 ### Conclusion
 
