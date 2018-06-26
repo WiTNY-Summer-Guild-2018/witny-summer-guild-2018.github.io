@@ -32,6 +32,12 @@ This is a lot more complicated than it *might* seem at first...
 * Analyze the data you got and add your own transportation thoughts and data
 * Gather data to focus on a problem that you'll take to tomorrow!
 
+### First, back to mistakes
+
+* Introductions & coding mistakes review
+
+* T-Shirts! (Both cool fashion + help ID you as a WitNY member when you do user research out in Times Square)
+
 
 ### **YOUR CHALLENGE:**
 ### *How might we make transportation in New York City better?*
@@ -60,6 +66,7 @@ We're going to consider this question in a few different ways today.
   * Write each one on a post-it note (use a different color from the "better") and collect them on the table!
   * We'll be sharing these, too.
 
+**As a user researcher:**
 * What kind of specific question(s) should you ask?
 * What information do you need to know?
 * What kind of data is necessary to answer our questions?
@@ -67,116 +74,231 @@ We're going to consider this question in a few different ways today.
 
 ### Building questions (for people) - ~ 1 hour
 
-#### Selecting questions
+#### Selecting questions (15 min)
 
-* Say we wanted to build an app about finding good restaurants in San Francisco. Which of these questions do you like?
+* Say we wanted to build an app about finding good restaurants in New York City.
 
-* Go through the following questions in pairs or groups of three within your team and pick which one you think is most useful to ask people before building an app about restaurants, and why. (*No* right answers, each one has upsides and downsides!)
+Three questions...
 
   * (A) *How do you usually find a restaurant to eat lunch at?*
-  * (B) *Where did you eat lunch today?*
-  * (C) *Did you like where you ate lunch today? What was the best thing about that restaurant?*
-  * (D) *Were you excited to come eat lunch in San Francisco today?*
-  * (E) *How often are you usually happy about the restaurant you choose to eat at?*
-  * (F) *What is your least favorite thing about restaurants in San Francisco?*
-  * (G) *Do you find it easy to find a good place to eat here?*
+  * (B) *Were you excited to come eat lunch in in Times Square today?*
+  * (C) *What is your least favorite thing about restaurants in Times Square?*
 
-#### Building new questions
+**In pairs:**
 
-* How do you build a question -- that can help you to determine a problem to try solving?
+* Which question do you like best?
+* Why?
 
-  * **Think about what you really want to know.** You want to know specific stuff, right?
+And a couple pairs will share...
 
-    * For example, you might not need to know whether or not a person *likes* the bus system -- you want to know specific things they like, or dislike, or find funny, or want more of, or want less of... "I love the bus system!" or "I don't really like the bus system..." isn't that useful without why.
+Next, an exercise about building your OWN questions to ask to help you dig into this challenge.
 
-  * **Try to make the question as easy to answer as possible.** In general, people -- especially people you're surveying or asking questions off the street -- don't want to "think too much" about answering, so ideally, you come up with a question or two that is really easy and quick to answer.
+#### Building new questions - A reference you can check out
 
-    * For example, if your challenger were about restaurants, *What was the most frustrating thing about the restaurant you ate lunch at today?* could be a good question (but it's FAR from the only good question). It prompts people for a specific thing, but allows them some freedom to answer whatever that you can draw specific stuff out of.
+[A reference you can check out](building_qs.md)
 
-    * ALSO! Imagine, someone might say *"I didn't eat lunch at any restaurant today!"*  If only one person you talk to out of many says that, OK, maybe they're an outlier. If a bunch of people say that... What if they say *"What, I haven't had lunch yet, too early"* -- you can learn something from that too! It may not be what you intended to learn, and it may or may not be useful to your product development process -- but that's what user research is all about.
+### Asking & framing questions for "intercept testing"
 
-  * A good recipe: one piece of **context** + one piece of **specificity** + one piece of **broad** question
+**OK, now, new pairs in your group!**
 
-    * **Context:** Something about the question that helps you learn about who they are or why they are here / using the thing you care about / etc (like "What did you eat for lunch today")
+This is your partner for question asking. The two of you will work together on the user research we're doing today, but when you come back from the user research, your whole team will swap around pairs and get to talk a little bit.
 
-    * **Specificity:** You want to give the person answering something to latch on to. It's easier to answer what you like/dislike/hate/want to change about *fast food restaurants* than it is to ask about *restaurants* -- because with just *restaurants*, the person answering has to either be broad in their answer or select their own answer boundaries. Too broad, and they may feel that they need to ask more questions in order to give you an answer. **You want them to feel like they have all the information they need to answer your question.**
+**Pick your starting role:**
 
-    * **Broadness:** You also want the person answering to feel like they have freedom to answer so they're not trying to think of a very specific word, idea, concept, etc. *What is your favorite thing about the menu at the last fast food restaurant you ate at?* could be a great question in some situations, but if you're truly approaching people in a public area (e.g. not people who definitely eat at fast food restaurants) they might feel a little stuck -- imagine, "Well... I wasn't really thinking about the menu?" or "Umm, I didn't eat at any fast food restaurants recently."
+- QUESTION ASKER
+- NOTE TAKER
 
-      * On the other hand, *"Did you eat at fast food restaurant today? Why or why not?"* would give you a little bit more information about how people are thinking about choosing restaurants, and *What is your favorite thing about the last restaurant you ate at?* gives them a little bit of freedom, but is also specific -- they should think about ONE restaurant and pick a favorite thing about it. (There are still problems, of course, but it's hard to make your questions perfect.)
+You'll trade off! So don't get too comfortable. You both get to take notes and ask questions!
 
-#### Building your questions
+And we'll be talking a little bit about ways to do each one so you feel comfortable -- this is brand new to everyone (I assume) and kind of intense (at least, I sure think so whenever I do this!).
 
-* Find a partner in your team
+#### Helpful tricks for approach - a reference
 
-* Come up with 1 or 2 questions that the two (or three) of you want to ask, following those guidelines
-
-* In 10-15 minutes, we'll shout that it's time to get together with your team
-
-* **As a team, choose one question per pair to ask** -- it's totally OK if they overlap or are the same! You can use the questions each pair came up with as fuel for ideas -- what questions do y'all want to ask?
-
-* Instructors will wander and chat with you all about questions! Flag us down if you want to talk more with us (someone on the team raise your hand, and we'll let you know that we're coming)
-
-
-### Asking & framing questions
 * **Calm approach** - makes it easier for people to be approached
 * **Side or front approach** - don't surprise people, make them feel like they can leave if they need to
 * **Introduce what you want to do**, and on assent (agreement to participate), do it *right away*, quickly and clearly
-* **Explain that you're not asking for money** - people want to know why they're being asked and what they can expect
-* **Give them an extremely brief why** - Research for a technology program at CUNY
+* **Explain that you're not asking for money** - people want to know why they're being asked and what they can expect.
+* **Give them an extremely brief what and why and time - "Specify the ask"**
+
+**Here's a useful script to start with:**
+*We're part of a program called WitNY to get more women involved in technology, and we're doing a project about transportation in NYC. Can we take 2 minutes to ask you a couple questions?*
+
+*Thanks!*
+
+Write that down on your notepad.
 
 
-### Taking notes on the answers
+##### Take 2 minutes -- literally, I'm going to set a timer -- to think about some time(s) you've been approached on the street in New York City or somewhere else.
+
+* What do you find annoying or frustrating about it?
+
+* What do people do that might make you *want* to pause and talk to them?
+
+Keep those things in mind when you ask!
+
+
+**& in general...**
+
+QUESTION ASKER
+-> Say your introduction. If assent,
+-> Ask your context question
+-> Ask your subject question
+
+NOTE TAKER:
+Listen & take notes!
+
+(Don't worry -- there's a specific way. You don't have to be super good at writing or notes or anything.)
+
+
+#### First: Building your questions - EXERCISE
+
+We'll get to *asking* them and taking *notes* on them in just a minute. First, you need to have something to ask! (Check out **YOUR GOAL** below.)
+
+**Now is when you can think back to those ways of interpreting "better" and "transportation"** -- what specific ideas do you want to focus on as you look toward solving a problem with technology?
+
+**With your partner,**
+
+* Come up with 2 questions that the two (or three) of you want to ask, following these guidelines:
+
+  * <u>You need 1 context-gathering question</u>
+
+    * ("how did you get here today?" or "do you use the subways in NYC?" whatever will make sense to get at the kinds of "better" and the kinds of "transportation" that you are interested in)
+
+  * <u>You need 1 "subject" question that will get you an interesting answer</u>
+
+    * (like "what did you find most fun about your commute today, if anything?"). *Here's* where you want to keep in mind what you've been thinking about up to now.
+
+* In 10-15 minutes, we'll shout that it's time to get together with your whole team.
+
+* *Each pair should share their questions with your whole team, quickly.* It's OK if two pairs have the same or similar questions! But it's great to hear others because it can help you think about what you want to ask.
+
+* We'll take five more minutes to solidify your question and get to your goal.
+
+* Instructors will wander and chat with you all about questions!
+
+Flag us down if you want to talk more with us (someone on the team raise your hand, and we'll let you know that we're coming)
+
+#### YOUR GOAL: Each pair should have 1 context question and 1 subject question written down on a notepad that you feel good about!
+
+Make sure you've chatted a little bit to at least 1 instructor or TA about your question so you feel really confident about it.
+
+*Brief discussion...*
+
+
+### (Notes on Taking notes on the answers...
 
 * Identify specific ideas
 * Write after they talk, if you can (or note after a solid idea has come across)
 * Don't try to replicate full sentences (that's usually pretty hard!)
-* For example...
+* *For example...*
+
+### In your question pairs
+
+Four minutes!
+
+Practice giving your introduction and asking your questions clearly to one another.
+
+You should each practice saying your full introduction (see script above) and the questions 2 times each.
+
+### Quick notes on intercept testing
+
+* "Putting your researcher hat on" -- you're occupying a role
+
+* Think about standing somewhere after you walk for a while and counting the people who walk by -- and trying to ask e.g. every 4th person (it's not a choice, it's just a pattern) -- of course, you can always alter the pattern (every third person, a person who looks at you with a lot of curiosity...)
+
+* Make sure you switch off the question-asker vs note-taker roles every couple asks -- hand off the pen and notepad to the other person!
+
+* Don't be afraid to ask "Why do you think that is?" if they give you a short answer and you want more detail. If they walk away or say "I don't know" -- that's okay! No loss for you -- but it almost never hurts to try.
+
+* As the note-taker, it's fine to note context clues as well! What does that mean? If you talk to someone who looks like they're in a hurry, you can note that. If, say, they're carrying a lot of bags and they've just put them down, you could note that. Could clue you in to some interesting stuff.
+
+### Let's PRACTICE -  approx 1/2 hour
+
+* Each pair: pick a role, Asker vs NoteTaker!
+
+**ONE PRACTICE ROUND:**
+
+* One pair from each group:
+
+  * Go to the next team table over (Team 1 to Team 2, Team 10 to Team 1, Team 2 to Team 3, and so on...)
+
+  * Join up with another pair
+
+* You should now have groups of four (*or maybe 5 if there's a group of 3*), made up of people from different Teams
+
+* Each group of 4, take turns:
+
+  * 1 pair does the asking and note taking
+  * The other pair answers the questions (for real)!
+
+  * THEN, swap.
+
+  * The OTHER pair does the asking and note taking, while the pair that asked last time does the answering.
+
+* **NEW ROUND!** One pair from each table go on to the next table, and do the same thing.
+
+* Try to go fast!
+
+We'll do this two or three times -- two or three rounds -- we want to try and stick to 2 or 3 minutes of talking so you get really used to it before we line y'all up to go out and ask real live non-WiTNY people.
 
 
-### Let's practice -  ~ 1/2 hour
+### Ready, set ...
 
-* Pair up with someone from a different team.
-  * Trade off asking the question you're asking and taking notes on a paper or post-it
-  * Practice saying it calmly and confidently -- it'll make it much easier when you approach new people!
-
+We'll send you out in pairs, separated by a minute or so. We'll tell you what direction to go!
 
 ### TIMES SQUARE! @ approx. 11:00 am
 
-* Each team should separate into pairs (or a group of 3 if uneven)
-* Each pair will go out -- separated by 2 minutes each
 * Try to approach people, ask questions, and take notes
+
 * Don't worry if you don't get answers or people don't respond -- we'll have lots of opportunity to expand on the data you get later today
-* Think of it as a totally low-stakes opportunity to practice talking to new people!
+
+* Think of it as a totally low-stakes opportunity to practice talking to new people! You are user researchers, data gatherers, today.
+
 * We'll have helpers from the instructional staff stationed at
 
-  * PLACE 1 TBA
-  * PLACE 2 TBA
-  * PLACE 3 TBA
+  * Right outside the Microsoft door, 11 Times Square on 8th Avenue
+  * Near 44th and 7th Avenue
+  * Near 43rd and 9th Avenue
 
-  * And you should feel free to come see us if you need anything
-  * **Any concerns or questions or need a staff member, call: 734-707-1*23 to reach Jackie**
+  * And you should feel free to come see us if you need anything.
 
-* Head out for 2 hours -- **you should come back here by 1:00 pm for lunch!**
+  * **Any concerns or questions or need a staff member / help, call: 734-707-1823 to reach Jackie!**
+
+* Head out for 2 hours -- **you should come back here to Microsoft by 1:00 pm for lunch!** Make sure to keep your sign-in ID.
 
 ### ~ Lunch ~
 
 ### Analyzing data from users
 
-* [Organizing your notes](day_2_exercise_3.md)
-* [Affinity Diagramming exercise](day_2_exercise_4.md)
-* Select problem groups
-* Each person choose 3 *individual* problems (post-its) -- we'll come back to these tomorrow!
+* **Organizing your notes & gathering qualitative data**
+
+  * Put these individual notes on post-its, like so...
+
+  * As you do this, add your own -- what are *your* answers to these questions? What do YOU think about transportation in NYC?
+
+* **Affinity Diagramming exercise**
+
+  * A quick example
+
+* **Select problem groups** (we'll pass out stickers)
+
+* Each person choose 3 *individual* problems (post-its) that you're interested in -- we'll come back to these tomorrow!
 
 ### Introduction to qualitative vs quantitative data
 
 * Quant vs Qual - why do we care?
 
+* Data... it means all kinds of things
+
+* (If time) What's this got to do with tech, again?
+
 ### Conclusion
 
 * Exit tickets
 
-#### Additional Resources (if you're interested in this -- don't need these now)
+
+### Additional Resources on User interviews
+####(if you're interested in this -- you don't need these now!)
 * [https://www.smashingmagazine.com/2014/06/facing-your-fears-approaching-people-for-research/](https://www.smashingmagazine.com/2014/06/facing-your-fears-approaching-people-for-research/)
 * Brandon Stanton of Humans of New York: [https://www.huffingtonpost.com/2014/05/01/brandon-stanton-humans-of-new-york_n_5242699.html](https://www.huffingtonpost.com/2014/05/01/brandon-stanton-humans-of-new-york_n_5242699.html)
 * [https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67](https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67) (note that many of these resources refer to much more extended interviews than the question-asking you will be doing here -- however, the suggestions they impart and the tricks they list are still useful!)
