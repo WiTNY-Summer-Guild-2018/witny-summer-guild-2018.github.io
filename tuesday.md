@@ -189,7 +189,7 @@ Make sure you've chatted a little bit to at least 1 instructor or TA about your 
 *Brief discussion...*
 
 
-### (Notes on Taking notes on the answers...
+### (Notes on) Taking notes on the answers...
 
 * Identify specific ideas
 * Write after they talk, if you can (or note after a solid idea has come across)
