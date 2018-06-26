@@ -46,7 +46,7 @@ We're going to consider this question in a few different ways today.
 
 ### What is "user experience"? (~ 5 min)
 
-* User Experience ("UX") research
+* User Experience ("UX") research -- **intercept testing** (today)
 * User Experience ("UX") design
 
 ### Break apart the challenge - Exercise (~ 1/2 hour)
@@ -252,7 +252,7 @@ We'll send you out in pairs, separated by a minute or so. We'll tell you what di
 
 * Don't worry if you don't get answers or people don't respond -- we'll have lots of opportunity to expand on the data you get later today
 
-* Think of it as a totally low-stakes opportunity to practice talking to new people! You are user researchers, data gatherers, today.
+* Think of it as a totally low-stakes opportunity to practice talking to new people! You are user researchers, data gatherers, today
 
 * We'll have helpers from the instructional staff stationed at
 
