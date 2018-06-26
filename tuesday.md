@@ -304,7 +304,9 @@ We'll send you out in pairs, separated by a minute or so. We'll tell you what di
 
   * [And ALL kinds of NYC transit visualization...](https://www.citylab.com/transportation/2017/04/groove-out-to-24-hours-of-new-york-transit-with-the-multimodal-symphony/522633/)
 
-  * Or even a small amount of data in a spreadsheet, that you could make a chart out of: ![Image of bike data](imgs/bikedata.png)
+  * Or even a small amount of data in a spreadsheet, that you could make a chart out of:
+
+  <img width="20%" height="20%" src="imgs/bikedata.png">
 
   * Always: What might this tell us?
 
