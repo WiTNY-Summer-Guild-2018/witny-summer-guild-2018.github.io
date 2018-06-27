@@ -21,7 +21,7 @@ This is part 1 of the **product design cycle** you'll be doing a super-fast vers
 
 * Karla Polo-Garcia, your instructor
 * Review from yesterday
-* [Slides for today](slides_link_tbd.md)
+* [Slides for today](https://docs.google.com/presentation/d/18r0icXic5w0dX8awFPwZqPiHraJ1gCsoQs6jIJRY9po/edit?usp=sharing)
 
 ### Today you are designers
 
@@ -69,12 +69,9 @@ This is part 1 of the **product design cycle** you'll be doing a super-fast vers
 
 ### Introduction to prototyping tool - Figma
 
-[Figma slides](figma_slides_link.md)
-
   * Example & introduction to prototyping tool
 
-    * [How to sign in to Figma](figma.md)
-    * We've generated one board per team! To get your team's... **TBA**
+    * We've generated one board per team! To get *your* team's board, check out [this link](week1figma.md).
 
   * Choosing wireframes to prototype for each person
 
@@ -82,7 +79,7 @@ This is part 1 of the **product design cycle** you'll be doing a super-fast vers
 
   * We'll go through a Figma tutorial!
 
-**TBA** *Instructions for collaborating and saving your prototype!*
+  * We'll show you how to save what you've got!
 
 ### ~ Lunch ~
 
@@ -106,9 +103,7 @@ Remember: **Dream big!**
 
 What if you could build anything? We only have time *this* week to start on a tiny bit... but that doesn't mean you can't make big plans.
 
-Slides: [Figma resources/instructions](figma_slides_link.md)
-
-Reminder: [Link to slides from today](slides_link_tbd.md)
+Reminder: [Link to slides from today](week1figma.md)
 
 ### Prototyping discussion
 
