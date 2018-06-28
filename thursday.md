@@ -21,6 +21,12 @@ This is part 2 of the **product design cycle** -- at the end of the day today yo
 
 * Julia Sterling, your instructor
 
+### Running some code!
+
+Today you're developers. And in order to be developers, we have to talk a little bit more about reviewing the coding ideas we talked about on Monday -- and finally running some code!
+
+[To follow along with the review, click here](js_review.md)
+
 ### Standup, Part 2 & Coding exercises
 
 We've provided a few more code exercises that build off what you did on Monday, and which will help you do some more fun & interesting stuff in your development today.
@@ -35,7 +41,7 @@ Then, we'll get together and review these exercises.
 
 ### Development: Part 1
 
-* [Introduction to jQuery](day_4_exercise_2.md)
+* [Introduction to jQuery - a resource](day_4_exercise_2.md)
 
 ### ~ Lunch ~
 
