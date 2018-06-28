@@ -19,21 +19,17 @@
 
 * Decide for each of the examples how you might want to *change* them to be more like your small development goal. For example:
 
-  * Do you want it to do the same thing, with a different color?
-
-  * Do you want it to do the same thing, but when you click a button, not when you click on the text itself?
-
-  * Do you want it to go down, instead of up? Or do you want the page to have a button that makes it re-appear as well as a button that makes it disappear?
-
-* Answer [these questions](day4_jquery_questions.md) about each example.
+  * Consider [these questions](day4_jquery_questions.md) about each example.
 
 * Edit the code in the online tool example. When you have something you like, or you want to pause and save what you've got, click the downward arrow icon like you did on Day 1 to save what you've got.
 
-* Instructors and coaches will help with any confusion saving files, opening files, and working with the code to change it a little bit!
+* Instructors and coaches can help with any confusion saving files, opening files, deciding what questions to ask instructors/TAs, and can even help some with working with the code to change it a little bit!
 
   * This is super challenging -- and a whole variety of things could happen. You never know! Make sure you keep talking to each other, sharing what works and what doesn't, and talk through questions with coaches, TAs, and instructors!
 
-  * We can help you scope your ideas (decide how much is possible in a short time) and help you figure out what is possible vs what might not be possible without more data or tools that don't exist, so you can get started on a bit of development / problem solving...
+  * We can help you scope your ideas (decide how much is possible in a VERY short time) and help you figure out what is possible vs what might not be possible without more data or tools that don't exist, so you can get started on a bit of development / problem solving...
+
+* **If you decide you would rather spend some of this time building more of your prototype in Figma, that is OK!** You should decide with your team and your coding partner what you want to use this time for, but we encourage you to explore jQuery a little bit -- it's different from what you do in most intro coding classes, but has a lot in common with some such things, and it's really cool.
 
 
 ---
