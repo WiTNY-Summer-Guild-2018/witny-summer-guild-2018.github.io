@@ -11,6 +11,8 @@
 
 ---
 
+**BEFORE THE END OF THE DAY:** [Your presentations and your final reminders](final_reminders.md)
+
 Yesterday each of your teams designed a prototype of a piece of technology you might build to help address a specific problem.
 
 Today you're going to dive into more development and coding by approaching a minimum viable product, the way you discussed yesterday!
