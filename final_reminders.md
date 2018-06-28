@@ -21,12 +21,12 @@ So you need to make sure EVERYTHING you need for your presentation or will want 
 
 You should make sure:
 
-* You have saved your Figma link so you can get back to it! You can find your original team link here: https://witny-summer-guild-2018.github.io/week1figma.html
+[ ] You have saved your Figma link so you can get back to it! You can find your original team link here: https://witny-summer-guild-2018.github.io/week1figma.html
 
-* You have DOWNLOADED any code you want to save that you made on Code.org Tutorial Republic, and EMAILED the file to yourselves. Saving it on the computer is not enough to keep it, you have to make sure it is online!
+[ ] You have DOWNLOADED any code you want to save that you made on Code.org Tutorial Republic, and EMAILED the file to yourselves. Saving it on the computer is not enough to keep it, you have to make sure it is online!
 
-* You have taken screenshots (an instructor/TA/coach can help if you don't know how!) of anything you want to show pictures of in your presentation
+[ ] You have taken screenshots (an instructor/TA/coach can help if you don't know how!) of anything you want to show pictures of in your presentation
 
-* You have added stuff to all your presentation slides
+[ ] You have added stuff to all your presentation slides
 
-* You have shared your presentation with Jackie: **jczetta@gmail.com**
+[ ] You have shared your presentation with Jackie: **jczetta@gmail.com**
