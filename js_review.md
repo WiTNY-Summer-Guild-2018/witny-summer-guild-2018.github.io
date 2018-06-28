@@ -8,7 +8,7 @@ There are LOT of different ways to set up JavaScript programs so that they run. 
 
 First, just the code in the JavaScript programs.
 
-**<u>Code (1)</u>**
+**<u>Code (1 - WON'T RUN ON ITS OWN)</u>**
 
 ```javascript
 var num = 4;
@@ -22,7 +22,7 @@ else {
 ```
 
 
-**<u>Code (2)</u>**
+**<u>Code (2 - WON'T RUN ON ITS OWN)</u>**
 
 ```javascript
 var num = 4;
