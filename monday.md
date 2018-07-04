@@ -7,52 +7,60 @@
 [MONDAY](https://witny-summer-guild-2018.github.io/monday) |
 [TUESDAY](https://witny-summer-guild-2018.github.io/tuesday) |
 [WEDNESDAY](https://witny-summer-guild-2018.github.io/wednesday) |
-[THURSDAY](https://witny-summer-guild-2018.github.io/thursday)
+[THURSDAY](https://witny-summer-guild-2018.github.io/thursday) |
+[FRIDAY](friday.md)
 
 ---
 
-We'll start with an introduction to your instructor & staff team and an introduction to what you'll be doing and what you can expect this week.
+We'll start with an introduction to your instructor & staff team and an introduction to what you'll be doing and what you can expect this week. Today is all about an introduction to "coding", or "programming" -- what it is, what you can do with it, why it's great -- and why and how it can be frustrating, even though it is also valuable, powerful and cool. And, of course, some ways of dealing with that frustration and doing detective work to solve problems that can help build things for real people.
 
-Today is all about an introduction to "coding", or "programming" -- what it is, what you can do with it, why it's great -- and why and how it can be frustrating, even though it is also valuable, powerful and cool. And, of course, some ways of dealing with that frustration and doing detective work to solve problems that can help build things for real people.
+### Agenda
 
-### Introductions
+9:00 - 9:45: Welcome, introductions, icebreakers
+9:45-10:15: What is Computer Science? Introduction to the week
+10:15-10:30: Group guidelines, setting up your laptops
+10:30-11:00: Intro to HTML and Designing a web page
+11:00-11:05: 5 minute break
+11:05-12:00: Building and debugging your own website!
 
-* Staff introductions & welcome!
-* Team introductions - mistakes & learning from them
-* Reminders - laptops, post-its
+12:00-12:45: Lunch
 
-### What is programming?
-
-* Brief introduction
-* The peanut butter sandwich problem
-* Discussion
-
-### Introduction to programming languages: Scratch
-
-* [Intro to Scratch](day_1_exercise_2.md)
-
-### Introduction to HTML
-#### Structuring a web page
-
-* [HTML intro & exercises](html_intro.md)
-* [HTML exercise - building a website](day_1_exercise_3.md)
+12:45-1:35: Intro to JavaScript (a programming language)
+1:35-2:15: Working with JavaScript code!
+2:15-2:45: Debugging code & strategies
+2:45-3:00: Conclusion
 
 
-### ~ Lunch ~
+### Resources for today
 
-### Coding concepts
+#### General
 
-* [Coding concepts exercise](day_1_exercise_4.md)
+* [Code.Org Tutorial Republic ONLINE TOOL]()
 
-### Using files and your file system
+* [How to copy and paste into online tools]()
 
-* [Coding -- with files](day_1_exercise_5.md)
+#### HTML resources
 
-### Conclusion & Review
+* [HTML resources - on our website](html_intro.md)
 
-* Discuss - what "mistakes" did you make *today*?
+* [HTML resources - W3Schools]()
 
-  * What did you get from making them?
-  * What do they all have in common?
+* [HTML resources - Tutorial Republic]()
 
-* Exit tickets
+* [How to embed a gif in your web page](howto_gif.md)
+
+#### JavaScript resources
+
+* [Code.Org Tutorial Republic ONLINE TOOL]()
+
+* [How to copy and paste into online tools]()
+
+* [Our discussionGroup function]()
+
+* [Rock Paper Scissors code - the original]()
+
+* [Debugging JavaScript - Rock Paper Scissors code]()
+
+#### Other
+
+TBA - we may include additional resources about Sublime Text or other programs you can use for coding!
