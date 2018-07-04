@@ -16,16 +16,16 @@ But that's not quite what happens, with the code as is...
 <head>
 <title>Rock Paper Scissors</title>
 
-<script>
-		var playerOne = "paper";
+  <script>
+    var playerOne = "paper";
     var playerTwo = "scissor";
 
     if (playerOne == "rock" & playerTwo == "scissors") {
         alert("Player One wins - with rock!");
     }
-		if (playerOne == "scissors" & playerTwo == "rock") {
-	        alert("Player Two wins - with rock!");
-	    }
+    if (playerOne == "scissors" & playerTwo == "rock") {
+          alert("Player Two wins - with rock!");
+    }
     if (playerOne == "paper" & playerTwo == "rock") {
         alert("Player One wins - with paper!");
     }
@@ -38,11 +38,10 @@ But that's not quite what happens, with the code as is...
     if (playerOne == "scissors" & playerTwo == "paper") {
         alert("Player One wins - with scissors!");
     }
-		if (playerOne == playerTwo) {
-				alert("It's a tie!");
-		}
-
-</script>
+    if (playerOne == playerTwo) {
+        alert("It's a tie!");
+    }
+  </script>
 </head>
 <body>
     <h1>Rock Paper Scissors!<h1>
