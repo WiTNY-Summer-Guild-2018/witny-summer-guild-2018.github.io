@@ -1,8 +1,10 @@
+## Rock Paper Scissors - DEBUGGING
+
 The following code is to DEBUG.
 
 Ideally, the page structure should look like this:
 
-![Image of the page](rpsideal.png)
+![Image of the page](imgs/rpsideal.png)
 
 And player 2 should win with **scissors** -- an alert should show that happening!
 

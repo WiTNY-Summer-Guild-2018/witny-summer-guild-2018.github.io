@@ -59,7 +59,7 @@ We'll start with an introduction to your instructor & staff team and an introduc
 
 * [Rock Paper Scissors code - the original](rockpaperscissorscode.md)
 
-* [Debugging JavaScript - Rock Paper Scissors code](rock_paper_scissors_code_debug.md)
+* [Debugging JavaScript - Rock Paper Scissors code](rock_paper_scissors_debug.md)
 
 #### Other
 
