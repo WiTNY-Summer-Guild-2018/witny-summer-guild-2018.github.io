@@ -39,6 +39,8 @@ We'll start with an introduction to your instructor & staff team and an introduc
 
 * [How to copy and paste into online tools]()
 
+* [How to play Rock-Paper-Scissors]()
+
 #### HTML resources
 
 * [HTML resources - on our website](html_intro.md)
@@ -57,10 +59,10 @@ We'll start with an introduction to your instructor & staff team and an introduc
 
 * [Our discussionGroup function]()
 
-* [Rock Paper Scissors code - the original]()
+* [Rock Paper Scissors code - the original](rockpaperscissorscode.md)
 
 * [Debugging JavaScript - Rock Paper Scissors code]()
 
 #### Other
 
-TBA - we may include additional resources about Sublime Text or other programs you can use for coding!
+**TBA** - we may include additional resources about Sublime Text or other programs you can use for coding!
