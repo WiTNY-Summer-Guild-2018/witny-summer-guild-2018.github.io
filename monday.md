@@ -39,25 +39,23 @@ We'll start with an introduction to your instructor & staff team and an introduc
 
 * [How to copy and paste into online tools](copy_and_paste.md)
 
-* [How to play Rock-Paper-Scissors]()
+* [How to play Rock-Paper-Scissors](https://www.wikihow.com/Play-Rock,-Paper,-Scissors)
 
 #### HTML resources
 
 * [HTML resources - on our website](html_intro.md)
 
-* [HTML resources - W3Schools]()
+* [HTML resources - W3Schools](https://www.w3schools.com/Html/)
 
-* [HTML resources - Tutorial Republic]()
+* [HTML resources - Tutorial Republic](https://www.tutorialrepublic.com/html-examples.php)
 
 * [How to embed a gif in your web page](howto_gif.md)
 
 #### JavaScript resources
 
-* [Code.Org Tutorial Republic ONLINE TOOL]()
+* [Code.Org Tutorial Republic ONLINE TOOL](https://www.tutorialrepublic.com/codelab.php)
 
-* [How to copy and paste into online tools]()
-
-* [Our discussionGroup function]()
+* [Our discussionGroup function](group_function.md)
 
 * [Rock Paper Scissors code - the original](rockpaperscissorscode.md)
 
