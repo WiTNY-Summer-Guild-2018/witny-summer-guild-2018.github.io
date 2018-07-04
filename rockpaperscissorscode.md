@@ -6,13 +6,13 @@ Here's some code to play Rock Paper Scissors in JavaScript. Copy and paste this 
 <title>Rock Paper Scissors Game</title>
 
 <script>
-	var playerOne = "rock";
+    var playerOne = "rock";
     var playerTwo = "scissors";
 
     if (playerOne == "rock" & playerTwo == "scissors") {
         alert("Player One wins - with rock!");
     }
-	if (playerOne == "scissors" & playerTwo == "rock") {
+    if (playerOne == "scissors" & playerTwo == "rock") {
         alert("Player Two wins - with rock!");
     }
     if (playerOne == "paper" & playerTwo == "rock") {
@@ -28,8 +28,8 @@ Here's some code to play Rock Paper Scissors in JavaScript. Copy and paste this 
         alert("Player One wins - with scissors!");
     }  
     if (playerOne == playerTwo) {
-			   alert("It's a tie!");
-		}    
+        alert("It's a tie!");
+    }    
 </script>
 </head>
 <body>
