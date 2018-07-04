@@ -35,9 +35,9 @@ We'll start with an introduction to your instructor & staff team and an introduc
 
 #### General
 
-* [Code.Org Tutorial Republic ONLINE TOOL]()
+* [Code.Org Tutorial Republic ONLINE TOOL](https://www.tutorialrepublic.com/codelab.php)
 
-* [How to copy and paste into online tools]()
+* [How to copy and paste into online tools](copy_and_paste.md)
 
 * [How to play Rock-Paper-Scissors]()
 

@@ -26,7 +26,10 @@ Here's some code to play Rock Paper Scissors in JavaScript. Copy and paste this 
     }
     if (playerOne == "scissors" & playerTwo == "paper") {
         alert("Player One wins - with scissors!");
-    }      
+    }  
+    if (playerOne == playerTwo) {
+			   alert("It's a tie!");
+		}    
 </script>
 </head>
 <body>

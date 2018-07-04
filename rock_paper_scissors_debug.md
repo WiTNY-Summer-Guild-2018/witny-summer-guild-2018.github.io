@@ -36,6 +36,9 @@ But that's not quite what happens, with the code as is...
     if (playerOne == "scissors" & playerTwo == "paper") {
         alert("Player One wins - with scissors!");
     }
+		if (playerOne == playerTwo) {
+				alert("It's a tie!");
+		}
 
 </script>
 </head>
