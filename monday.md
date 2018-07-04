@@ -16,19 +16,19 @@ We'll start with an introduction to your instructor & staff team and an introduc
 
 ### Agenda
 
-9:00 - 9:45: Welcome, introductions, icebreakers
-9:45-10:15: What is Computer Science? Introduction to the week
-10:15-10:30: Group guidelines, setting up your laptops
-10:30-11:00: Intro to HTML and Designing a web page
-11:00-11:05: 5 minute break
-11:05-12:00: Building and debugging your own website!
+* 9:00 - 9:45: Welcome, introductions, icebreakers
+* 9:45-10:15: What is Computer Science? Introduction to the week
+* 10:15-10:30: Group guidelines, setting up your laptops
+* 10:30-11:00: Intro to HTML and Designing a web page
+* 11:00-11:05: 5 minute break
+* 11:05-12:00: Building and debugging your own website!
 
-12:00-12:45: Lunch
+* 12:00-12:45: Lunch
 
-12:45-1:35: Intro to JavaScript (a programming language)
-1:35-2:15: Working with JavaScript code!
-2:15-2:45: Debugging code & strategies
-2:45-3:00: Conclusion
+* 12:45-1:35: Intro to JavaScript (a programming language)
+* 1:35-2:15: Working with JavaScript code!
+* 2:15-2:45: Debugging code & strategies
+* 2:45-3:00: Conclusion
 
 
 ### Resources for today
