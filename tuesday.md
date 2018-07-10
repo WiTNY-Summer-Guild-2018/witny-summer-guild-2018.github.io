@@ -13,9 +13,7 @@
 
 Today is a completely different perspective on product development in technology!
 
-We're going to spend this week going through a bunch of the process involved in technology product development.
-
-And a big piece of that process -- is about figuring out what the potential users of your product want and need!
+We're going to spend this week going through a bunch of the process involved in technology product development. And a big piece of that process -- is about figuring out what the potential users of your product want and need!
 
 So in doing so, you're going to talk to real people in NYC -- here in Times Square -- and then analyze the data you get from them to help you figure out what kind of technology product you want to come up with, as a team!
 
@@ -56,15 +54,9 @@ We're going to consider this question in a few different ways today.
   * Not about "will"
 
 * **What does "better" even mean?** What are more specific words for what it could mean?
-  * In your team, come up with at least five things it could mean. For example, "faster for people to get where they want to go"? You should try to be as specific as possible.
+  * In your team, come up with some things it could mean. For example, "faster for people to get where they want to go"? You should try to be as specific as possible.
   * Write each one on a post-it note and collect them on your table!
   * We're going to share them afterward, so choose a spokesperson from your team to share them!
-
-* **What could "transportation" refer to?**
-  * In your team, come up with at least five different things it could refer to. For example, "the subway system".
-  * Any amount of being specific is fine!
-  * Write each one on a post-it note (use a different color from the "better") and collect them on the table!
-  * We'll be sharing these, too.
 
 **As a user researcher:**
 * What kind of specific question(s) should you ask?
@@ -72,9 +64,9 @@ We're going to consider this question in a few different ways today.
 * What kind of data is necessary to answer our questions?
 * What kind of data can we actually get?
 
-### Building questions (for people) - ~ 1 hour
+### Building questions (for people)
 
-#### Selecting questions (15 min)
+#### Selecting questions
 
 * Say we wanted to build an app about finding good restaurants in New York City.
 
@@ -84,24 +76,15 @@ Three questions...
   * (B) *Were you excited to come eat lunch in in Times Square today?*
   * (C) *What is your least favorite thing about restaurants in Times Square?*
 
-**In pairs:**
-
 * Which question do you like best?
 * Why?
 
-And a couple pairs will share...
-
-Next, an exercise about building your OWN questions to ask to help you dig into this challenge.
 
 #### Building new questions - A reference you can check out
 
 [A reference you can check out](building_qs.md)
 
 ### Asking & framing questions for "intercept testing"
-
-**OK, now, new pairs in your group!**
-
-This is your partner for question asking. The two of you will work together on the user research we're doing today, but when you come back from the user research, your whole team will swap around pairs and get to talk a little bit.
 
 **Pick your starting role:**
 
@@ -157,8 +140,6 @@ Listen & take notes!
 #### First: Building your questions - EXERCISE
 
 We'll get to *asking* them and taking *notes* on them in just a minute. First, you need to have something to ask! (Check out **YOUR GOAL** below.)
-
-**Now is when you can think back to those ways of interpreting "better" and "transportation"** -- what specific ideas do you want to focus on as you look toward solving a problem with technology?
 
 **With your partner,**
 
@@ -216,55 +197,22 @@ You should each practice saying your full introduction (see script above) and th
 
 * As the note-taker, it's fine to note context clues as well! What does that mean? If you talk to someone who looks like they're in a hurry, you can note that. If, say, they're carrying a lot of bags and they've just put them down, you could note that. Could clue you in to some interesting stuff.
 
-### Let's PRACTICE -  approx 1/2 hour
+### Let's PRACTICE
 
-* Each pair: pick a role, Asker vs NoteTaker!
-
-**ONE PRACTICE ROUND:**
-
-* One pair from each group:
-
-  * Go to the next team table over (Team 1 to Team 2, Team 10 to Team 1, Team 2 to Team 3, and so on...)
-
-  * Join up with another pair
-
-* You should now have groups of four (*or maybe 5 if there's a group of 3*), made up of people from different Teams
-
-* Each group of 4, take turns:
-
-  * 1 pair does the asking and note taking
-  * The other pair answers the questions (for real)!
-
-  * THEN, swap.
-
-  * The OTHER pair does the asking and note taking, while the pair that asked last time does the answering.
-
-* **NEW ROUND!** One pair from each table go on to the next table, and do the same thing.
-
-* Try to go fast!
-
-We'll do this two or three times -- two or three rounds -- we want to try and stick to 2 or 3 minutes of talking so you get really used to it before we line y'all up to go out and ask real live non-WiTNY people.
+* In a couple rounds ...
 
 
 ### Ready, set ...
 
 We'll send you out in pairs, separated by a minute or so. We'll tell you what direction to go!
 
-### TIMES SQUARE! @ approx. 11:00 am
+### TIMES SQUARE!
 
 * Try to approach people, ask questions, and take notes
 
 * Don't worry if you don't get answers or people don't respond -- we'll have lots of opportunity to expand on the data you get later today
 
 * Think of it as a totally low-stakes opportunity to practice talking to new people! You are user researchers, data gatherers, today
-
-* We'll have helpers from the instructional staff stationed at
-
-  * Right outside the Microsoft door, 11 Times Square on 8th Avenue
-  * Near 44th and 7th Avenue
-  * Near 43rd and 9th Avenue
-
-  * And you should feel free to come see us if you need anything.
 
   * **Any concerns or questions or need a staff member / help, call: 734-707-1823 to reach Jackie!**
 
@@ -278,7 +226,7 @@ We'll send you out in pairs, separated by a minute or so. We'll tell you what di
 
   * Put these individual notes on post-its, like so...
 
-  * As you do this, add your own -- what are *your* answers to these questions? What do YOU think about transportation in NYC?
+  * As you do this, add your own -- what are *your* answers to these questions? What do YOU think about transportation in NYC? in response to your own questions?
 
 * **Affinity Diagramming exercise**
 
