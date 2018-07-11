@@ -1,6 +1,6 @@
 [BACK TO THURSDAY](https://witny-summer-guild-2018.github.io/thursday)
 
-## **Exercise 2**
+## **Exercise 1**
 
 As you heard about on Monday, there are TONS of kinds of structure you can do with HTML -- and unfortunately, we don't have anything like enough time to cover them all! Here's a useful one, though: creating a *button* to click on a page.
 

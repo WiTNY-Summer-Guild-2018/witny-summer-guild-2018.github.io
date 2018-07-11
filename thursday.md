@@ -11,72 +11,60 @@
 
 ---
 
-**BEFORE THE END OF THE DAY:** [Your presentations and your final reminders](final_reminders.md)
-
 Yesterday each of your teams designed a prototype of a piece of technology you might build to help address a specific problem.
 
-Today you're going to dive into more development and coding by approaching a minimum viable product, the way you discussed yesterday!
+Today you're going to dive into more development!
 
-This is part 2 of the **product design cycle** -- at the end of the day today you'll be preparing your presentation, and tomorrow (Friday) you'll be presenting your idea as a team!
+At the end of the day today you'll be preparing your presentation, and tomorrow (Friday) you'll be presenting your idea as a team!
 
 ### Introductions
 
 * Julia Sterling, your instructor
 
-### Running some code!
+### Resources for today
 
-Today you're developers. And in order to be developers, we have to talk a little bit more about reviewing the coding ideas we talked about on Monday -- and finally running some code!
+[CodeLAB online tool](https://www.tutorialrepublic.com/codelab.php?topic=html&file=simple-document)
 
-[To follow along with the review, click here](js_review.md)
+#### Coding exercises & sharing standup
 
-### Standup, Part 2 & Coding exercises
+[Coding Exercise 1](day4_intro_ex2.md)
 
-We've provided a few more code exercises that build off what you did on Monday, and which will help you do some more fun & interesting stuff in your development today.
+[Coding Exercise 2](day4_intro_ex1.md)
 
-* [Coding exercises](day_4_exercise_1.md) - Three different exercises are linked here.
+[Coding Exercise 3](day4_intro_ex3.md)
 
-You should try to work on these with your coding partner.
+---
 
-Each team will also get a few minutes to present the standup ideas & plans you came up with yesterday to Julia to talk about them -- Julia will come see each team one at a time.
+#### jQuery introduction
 
-Then, we'll get together and review these exercises.
+[jQuery overall reference & tutorial (references from slides in a document you can read)](https://witny-summer-guild-2018.github.io/day_4_exercise_2.html)
 
-### Development: Part 1
+[jQuery example code (to copy and try out)](jquery_ex_code.md)
 
-* [Introduction to jQuery - a resource](day_4_exercise_2.md)
+[jQuery click example (on CodeLAB)](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=execute-a-function-on-click-event)
 
-### ~ Lunch ~
+#### Development time
 
-### Development: Part 2
+[Choose your development adventure - build one or more features!](https://witny-summer-guild-2018.github.io/day_4_exercise_3.html)
 
-* [Choose your development adventure](day_4_exercise_3.md)
+**REMEMBER:** Click the arrow to download a file from the online tool!
 
+* It is OK to work in Sublime Text if you want, but we recommend working in the online tool -- easier to see the updates!
 
-### Reflection break
+* If there is an error in your JavaScript, you won't see what you expect -- and probably will have to debug it, like you practiced on Monday!
 
-*Run the group function* - [Remember the group rearrange function?](group_function.md)
+* The online tool does NOT auto-save -- you have to copy and/or download any code that you want to save!
 
-* Now, after having run that, another simple operation: combine YOUR new group with another group
+* We've only shown you a small amount of things. Much more is possible! Reach out to instructors if you feel good about what you're doing and want more resources and we can help you find useful ones (some are confusing, and some are great)
 
-* Pair up with someone from a different group (OK to have 3 people in one group if there's an uneven number)
+* Checking out the resources from [Monday](monday.md) may also be helpful, and don't forget about the resources on this page and the exercises you did today!
 
-*We'll pass out worksheets...*
-
-* In your pair, discuss these three questions about the process so far:
-
-  * What was/is hard about coding?
-  * What do you feel confident about now that you didn't before Monday?
-  * What's (at least) one thing you're excited to learn (eventually) that you don't know yet?
-
-  Write down the answers on your worksheet!
+* It's OK to write different pieces of code among different pairs!
 
 
-### Wrap-up & demo discussion
+#### **BEFORE THE END OF THE DAY:**
 
-#### What is a demo?
-
-* Useful things to note
-* An example from your instructor
+##### [Your presentations and your final reminders](final_reminders.md)
 
 #### Building your own demo!
 
