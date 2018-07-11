@@ -71,7 +71,7 @@ This is part 1 of the **product design cycle** you'll be doing a super-fast vers
 
   * Example & introduction to prototyping tool
 
-    * We've generated one board per team! To get *your* team's board, check out [this link](week1figma.md).
+    * We've generated one board per team! To get *your* team's board, check out [this link](week2figmalinks.md).
 
   * Choosing wireframes to prototype for each person
 
