@@ -41,7 +41,9 @@ At the end of the day today you'll be preparing your presentation, and tomorrow 
 
 #### Coding review
 
-[Rock Paper Scissors code](http://bit.ly/RPScode) -- **http://bit.ly/RPScode** 
+[Rock Paper Scissors code](http://bit.ly/RPScode) -- **http://bit.ly/RPScode**
+
+[JavaScript code for alerting info about today](http://bit.ly/js-example-day) -- this is the code you have instructions in your slides to try and add to!
 
 #### Coding exercises & sharing standup
 
