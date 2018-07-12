@@ -2,11 +2,9 @@
 
 ## **Exercise 3 - JavaScript + HTML interaction**
 
-Remember when you worked with Scratch, and you had to tell the Scratch program what made the program *start* running?
+Remember, you always have to do something to make a program *start* running?
 
-For example, clicking the green flag icon!
-
-And then, with JavaScript code, if it is included in the *script* -- code -- part of an HTML web page, that code runs... as soon as the page is loaded.
+With JavaScript code, if it is included in the *script* -- code -- part of an HTML web page, that code runs... as soon as the page is loaded.
 
 So far, most of the JavaScript code you've seen just shows you things with the special `alert()` function provided in the JavaScript programming language, that you can run to see those nice text boxes that appear with info in them.
 
@@ -46,11 +44,11 @@ Check out this web page with a JavaScript program inside `<script>` tags:
 
 * See how in the JavaScript, it includes the code `document.getElementById("demo")`? **document** stands for the whole web page. **getElementById("demo")** means -- refer only to the part of the HTML on this web page that has the special id attribute **demo**. So we only change one little bit! The `getElementById` function is something else JavaScript has that is super useful for making web pages and products like this.
 
-* Just like before, copy this web page and program into the [online tool](https://www.tutorialrepublic.com/codelab.php?topic=html&file=simple-document) on the left side. Then, **Try to add JavaScript code to this program that puts the word Hello!! on the page, below 11.** HINT: Check out that `<p id="new-para"></p>` bit of code -- right now the Javascript doesn't do anything with that, does it? But it could...
+* Just like before, copy this web page and program into the [online tool](https://www.tutorialrepublic.com/codelab.php?topic=html&file=simple-document) on the left side. (May want to open that in a new tab/window!) Then, **Try to add JavaScript code to this program that puts the word Hello!! on the page, below 11.** HINT: Check out that `<p id="new-para"></p>` bit of code -- right now the Javascript doesn't do anything with that, does it? But it could...
 
 * **HARD CHALLENGE** Try to add JavaScript code to the program to show the result of adding 7 to the date (e.g. if it was the 2nd of July, what should show up should be **9**).
 
-  * Check out Exercise 1 for clues!
+  * Check out Exercise 2 for clues!
 
   * Consider: why might you want to do a calculation like this? Dream up a situation where something like this might be useful.
 

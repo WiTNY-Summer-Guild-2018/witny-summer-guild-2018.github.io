@@ -37,7 +37,11 @@ At the end of the day today you'll be preparing your presentation, and tomorrow 
 
 ### Resources for today
 
-[CodeLAB online tool](https://www.tutorialrepublic.com/codelab.php?topic=html&file=simple-document)
+[CodeLAB online tool](https://www.tutorialrepublic.com/codelab.php?topic=html&file=simple-document) -- **http://bit.ly/codelabtool**
+
+#### Coding review
+
+[Rock Paper Scissors code](http://bit.ly/RPScode) -- **http://bit.ly/RPScode** 
 
 #### Coding exercises & sharing standup
 
