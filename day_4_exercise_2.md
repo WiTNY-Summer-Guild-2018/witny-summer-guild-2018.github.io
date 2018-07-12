@@ -118,7 +118,7 @@ Remember, just like before -- `<p id="new-para"></p>` won't show anything withou
 
 **To answer that question, we have to go back a couple steps first.**
 
-Let's think back to [this exercise](day_1_exercise_4.md) from Monday, first. You saw some code that looks like this:
+Let's consider this code, first. This code does NOT use jQuery -- just JavaScript. But it's kind of structurally complicated: it is a little hard to understand what is going on here.
 
 ```javascript
 <html>

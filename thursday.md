@@ -21,6 +21,20 @@ At the end of the day today you'll be preparing your presentation, and tomorrow 
 
 * Julia Sterling, your instructor
 
+### Agenda
+
+* 9:00-9:10: Introductions
+* 9:10-9:40: JavaScript coding review
+* 9:40-10:40: Standup report / Coding exercises
+* 10:40-11:00: Go over coding exercises
+* 11:00-11:05: 5 minute break
+* 11:05-12:15: Intro to jQuery
+* 12:15-1:00: Lunch
+* 1:00-2:15: Choose your development adventure!
+* 2:15-2:20: Reflection break
+* 2:20-3:00: Demo discussion & presentation prep
+
+
 ### Resources for today
 
 [CodeLAB online tool](https://www.tutorialrepublic.com/codelab.php?topic=html&file=simple-document)
