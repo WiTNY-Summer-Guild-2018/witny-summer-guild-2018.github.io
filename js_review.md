@@ -37,16 +37,6 @@ else {
 
 The NEXT sets of code will each run, because they are correctly included in web pages made with HTML.
 
-If you copy and paste (if you don't remember how to do that, [check out this resource](copy_and_paste.md)) each WHOLE chunk of code as the only the in the left side of the [online tool](https://www.tutorialrepublic.com/codelab.php?topic=html&file=simple-document), you'll see the code run!
-
-It may or may not have an exciting result, but it will definitely run.
-
-You can find the [online tool](https://www.tutorialrepublic.com/codelab.php?topic=html&file=simple-document) -- the same tool you wrote your websites in! -- HERE: [https://www.tutorialrepublic.com/codelab.php?topic=html&file=simple-document](https://www.tutorialrepublic.com/codelab.php?topic=html&file=simple-document)
-
-Remember that this tool does NOT auto-save, but you CAN download the file with your work in it as an `.html` file. (We have not worked with these, but this is the only way to save your work!)
-
-Also note that when you are running JavaScript programs, sometimes it's nice NOT to click auto-update -- so you know that you will see the NEW result when you type something new once you click **Show Update**.
-
 **Code (1), inside a web page to run**
 
 ```html
@@ -99,3 +89,21 @@ Also note that when you are running JavaScript programs, sometimes it's nice NOT
 <body onload="show_day_of_week()">Hello everyone</body>
 </html>
 ```
+
+This code will run. What does it do?
+
+See how some of the lines in the program are building your very own collection of actions called **show_day_of_week**?
+
+You'll see this more on Thursday! DON'T worry if you don't understand this -- this is VERY advanced and NOT needed for today. This kindof idea comes up a few weeks into my college course! 
+
+#### NOTE:
+
+If you copy and paste (if you don't remember how to do that, [check out this resource](copy_and_paste.md)) each WHOLE chunk of code as the only the in the left side of the [online tool](https://www.tutorialrepublic.com/codelab.php?topic=html&file=simple-document), you'll see the code run!
+
+It may or may not have an exciting result, but it will definitely run.
+
+You can find the [online tool](https://www.tutorialrepublic.com/codelab.php?topic=html&file=simple-document) -- the same tool you wrote your websites in! -- HERE: [https://www.tutorialrepublic.com/codelab.php?topic=html&file=simple-document](https://www.tutorialrepublic.com/codelab.php?topic=html&file=simple-document)
+
+Remember that this tool does NOT auto-save, but you CAN download the file with your work in it as an `.html` file. (We have not worked with these, but this is the only way to save your work!)
+
+Also note that when you are running JavaScript programs, sometimes it's nice NOT to click auto-update -- so you know that you will see the NEW result when you type something new once you click **Show Update**.

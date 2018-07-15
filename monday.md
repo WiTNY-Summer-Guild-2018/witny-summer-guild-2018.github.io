@@ -28,7 +28,8 @@ We'll start with an introduction to your instructor & staff team and an introduc
 * 12:45-1:35: Intro to JavaScript (a programming language)
 * 1:35-2:15: Working with JavaScript code!
 * 2:15-2:45: Debugging code & strategies
-* 2:45-3:00: Conclusion
+*
+2:45-3:00: Conclusion
 
 
 ### Resources for today
@@ -56,6 +57,8 @@ We'll start with an introduction to your instructor & staff team and an introduc
 * [Code.Org Tutorial Republic ONLINE TOOL](https://www.tutorialrepublic.com/codelab.php)
 
 * [Our discussionGroup function](group_function.md)
+
+* [JavaScript code to copy]()
 
 * [Rock Paper Scissors code - the original](rockpaperscissorscode.md)
 
