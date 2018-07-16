@@ -56,7 +56,7 @@ We'll start with an introduction to your instructor & staff team and an introduc
 
 * [Code.Org Tutorial Republic ONLINE TOOL](https://www.tutorialrepublic.com/codelab.php)
 
-* [Our discussionGroup function](group_function.md)
+* Our discussion group function - see slide!
 
 * [JavaScript code to copy](http://bit.ly/jscode-ex)
 
