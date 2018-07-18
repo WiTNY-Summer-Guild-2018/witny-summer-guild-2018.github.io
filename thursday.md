@@ -7,7 +7,8 @@
 [MONDAY](https://witny-summer-guild-2018.github.io/monday) |
 [TUESDAY](https://witny-summer-guild-2018.github.io/tuesday) |
 [WEDNESDAY](https://witny-summer-guild-2018.github.io/wednesday) |
-[THURSDAY](https://witny-summer-guild-2018.github.io/thursday)
+[THURSDAY](https://witny-summer-guild-2018.github.io/thursday) |
+[FRIDAY](https://witny-summer-guild-2018.github.io/friday)
 
 ---
 
@@ -23,16 +24,16 @@ At the end of the day today you'll be preparing your presentation, and tomorrow 
 
 ### Agenda
 
-* 9:00-9:10: Introductions
-* 9:10-9:40: JavaScript coding review
-* 9:40-10:40: Standup report / Coding exercises
-* 10:40-11:00: Go over coding exercises
-* 11:00-11:05: 5 minute break
-* 11:05-12:15: Intro to jQuery
-* 12:15-1:00: Lunch
-* 1:00-2:15: Choose your development adventure!
-* 2:15-2:20: Reflection break
-* 2:20-3:00: Demo discussion & presentation prep
+* 9:00 - 9:10: Introductions
+* 9:10-9:20: Re-introduction to coding
+* 9:20-10:05: Standup report / Coding exercises
+* 10:05-10:30: Go over coding exercises
+* 10:30-10:35 5 minute break
+* 10:35-12:00: Intro to jQuery & exercises
+* 12:00-12:45: Lunch
+* 12:45-2:00: Choose your development adventure!
+* 2:00-2:15: Reflection break
+* 2:15-3:00: Demo discussion & presentation prep
 
 
 ### Resources for today
@@ -49,9 +50,11 @@ At the end of the day today you'll be preparing your presentation, and tomorrow 
 
 [Coding Exercise 1](day4_intro_ex2.md)
 
-[Coding Exercise 2](day4_intro_ex1.md)
+[Coding Exercise 2](js_day_code.md)
 
-[Coding Exercise 3](day4_intro_ex3.md)
+[Coding Exercise 3](day4_intro_ex1.md)
+
+[Coding Exercise 4](day4_intro_ex3.md)
 
 ---
 

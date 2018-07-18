@@ -7,7 +7,8 @@
 [MONDAY](https://witny-summer-guild-2018.github.io/monday) |
 [TUESDAY](https://witny-summer-guild-2018.github.io/tuesday) |
 [WEDNESDAY](https://witny-summer-guild-2018.github.io/wednesday) |
-[THURSDAY](https://witny-summer-guild-2018.github.io/thursday)
+[THURSDAY](https://witny-summer-guild-2018.github.io/thursday) |
+[FRIDAY](https://witny-summer-guild-2018.github.io/friday)
 
 ---
 

@@ -1,6 +1,6 @@
 [BACK TO THURSDAY](https://witny-summer-guild-2018.github.io/thursday)
 
-## **Exercise 3 - JavaScript + HTML interaction**
+## **Exercise 3 - HTML & JavaScript interaction**
 
 Remember, you always have to do something to make a program *start* running?
 

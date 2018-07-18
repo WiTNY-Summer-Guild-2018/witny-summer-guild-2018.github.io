@@ -7,7 +7,8 @@
 [MONDAY](https://witny-summer-guild-2018.github.io/monday) |
 [TUESDAY](https://witny-summer-guild-2018.github.io/tuesday) |
 [WEDNESDAY](https://witny-summer-guild-2018.github.io/wednesday) |
-[THURSDAY](https://witny-summer-guild-2018.github.io/thursday)
+[THURSDAY](https://witny-summer-guild-2018.github.io/thursday) |
+[FRIDAY](https://witny-summer-guild-2018.github.io/friday)
 
 ---
 
@@ -21,11 +22,10 @@ This is part 1 of the **product design cycle** you'll be doing a super-fast vers
 
 * Karla Polo-Garcia, your instructor
 * Review from yesterday
-* [Slides for today](https://docs.google.com/presentation/d/18r0icXic5w0dX8awFPwZqPiHraJ1gCsoQs6jIJRY9po/edit?usp=sharing)
 
 ### Today you are designers
 
-* Forming questions from problems (based on your challenge)
+* Forming questions from problems
 * Choosing (a) problem/s to address as a team
 * Paper prototyping & wireframes
 * Using a prototyping tool to design part of a project
@@ -35,12 +35,13 @@ This is part 1 of the **product design cycle** you'll be doing a super-fast vers
 
 * **Exercise 1** - Translate problems into "How may we/how might we" questions
 
-* **Exercise 2** - Impact vs complexity
+* **Exercise 2**
 
     * How much impact could solving this problem have?
-    * How complex/difficult would it be to solve this problem?
+    * How could we solve this problem?
+    * A chart!
 
-* **Exercise 3** - Collect ideas for solutions
+* **Exercise 3** - Brainstorm!!! & Collect ideas for solutions
 
 ### Drawing wireframes & user flow
 
@@ -71,7 +72,7 @@ This is part 1 of the **product design cycle** you'll be doing a super-fast vers
 
   * Example & introduction to prototyping tool
 
-    * We've generated one board per team! To get *your* team's board, check out [this link](week2figmalinks.md).
+    * We've generated one board per team! To get *your* team's board, check out [this link](week3figmalinks.md).
 
   * Choosing wireframes to prototype for each person
 
@@ -103,16 +104,9 @@ Remember: **Dream big!**
 
 What if you could build anything? We only have time *this* week to start on a tiny bit... but that doesn't mean you can't make big plans.
 
-Reminder: [Link to slides from today](week1figma.md)
-
-### Prototyping discussion
-
-* What's surprising?
-* What's hard?
-* What's exciting?
 
 ### 'Standup' part 1 (20 min)
 
-* [Come up with a standup summary in your team](day_3_exercise_7.md)
+* Come up with a standup summary in your team!
 
 ### Conclusion & exit tickets
