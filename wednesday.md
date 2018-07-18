@@ -18,6 +18,8 @@ Today we're going to look at how you go from that to determining what kind of pr
 
 This is part 1 of the **product design cycle** you'll be doing a super-fast version of today (Wednesday) and tomorrow (Thursday) before demoing your idea as a team on Friday!
 
+[SLIDES FOR TODAY](https://docs.google.com/presentation/d/18r0icXic5w0dX8awFPwZqPiHraJ1gCsoQs6jIJRY9po/edit?usp=sharing)
+
 ### Introductions
 
 * Karla Polo-Garcia, your instructor
