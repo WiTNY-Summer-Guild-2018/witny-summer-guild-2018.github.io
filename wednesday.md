@@ -74,13 +74,11 @@ This is part 1 of the **product design cycle** you'll be doing a super-fast vers
 
     * We've generated one board per team! To get *your* team's board, check out [this link](week3figmalinks.md).
 
-  * Choosing wireframes to prototype for each person
+  * Choosing partial ideas to prototype for each person
 
   * Collaborating to build 1 team prototype / prototype set
 
   * We'll go through a Figma tutorial!
-
-  * We'll show you how to save what you've got!
 
 ### ~ Lunch ~
 
