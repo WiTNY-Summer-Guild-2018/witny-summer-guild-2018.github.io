@@ -40,6 +40,8 @@ At the end of the day today you'll be preparing your presentation, and tomorrow 
 
 [CodeLAB online tool](https://www.tutorialrepublic.com/codelab.php?topic=html&file=simple-document) -- **http://bit.ly/codelabtool**
 
+[Color Picker Tool for CSS](https://htmlcolorcodes.com/)
+
 #### Coding review
 
 [Rock Paper Scissors code](http://bit.ly/RPScode) -- **http://bit.ly/RPScode** -- if you want to check it out again
