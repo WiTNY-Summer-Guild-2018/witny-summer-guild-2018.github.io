@@ -24,11 +24,11 @@ To see more about each day's schedules and activities, click the following links
 * [DAY 2 - TUESDAY - DATA & USER EXPERIENCE](tuesday.md)
 * [DAY 3 - WEDNESDAY - PROTOTYPING (Part 1)](wednesday.md)
 * [DAY 4 - THURSDAY - DEVELOPMENT (Part 2)](thursday.md)
-* [DAY 5 - FRIDAY - DEMOS & PRESENTATIONS](friday.md) - [@ Cornell Tech](https://goo.gl/maps/uVVKqrv8Fb22)
+* [DAY 5 - FRIDAY - DEMOS & PRESENTATIONS](friday.md)
 
 ### Location
 
-Mondays - Thursdays, we are hosted at [Microsoft](https://www.microsoft.com/en-us/) in NYC: **11 Times Square, New York, NY, 10036**.  
+We are hosted at [Microsoft](https://www.microsoft.com/en-us/) in NYC: **11 Times Square, New York, NY, 10036**.  
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.2408154084746!2d-73.99180508534438!3d40.7567278793271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c5556369%3A0x87dc1d2f581b8eb1!2s11+Times+Square%2C+New+York%2C+NY+10036!5e0!3m2!1sen!2sus!4v1529607854898" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -41,4 +41,4 @@ Learn more about the 2018 Summer Guild instructional team [here](instructors.md)
 
 ### Additional resources
 
-TBA
+* [Resources on computer science courses](https://drive.google.com/open?id=1F5ivKBdHejCFH-EGbaZO1H_E2oYiS_wK) you can take at CUNY schools can be found [HERE](https://drive.google.com/open?id=1F5ivKBdHejCFH-EGbaZO1H_E2oYiS_wK)
