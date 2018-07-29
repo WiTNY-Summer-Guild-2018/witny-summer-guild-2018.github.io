@@ -21,14 +21,15 @@
 
 ### Subject Instructors
 
-##### <img width='16%' height='16%' src="/imgs/RobPic.png"> Rob Domanski - *Coding*
-<div class="bio"><font size="2">Rob is a former Computer Science professor at CUNY and at various times has been affiliated with four different CUNY schools ​- City College, the College of Staten Island, the Macaulay Honors College, and the Graduate Center.  He now works for the New York City Government's Tech Talent Pipeline program.  His research focuses on Internet Governance, Hacktivism, Cybersecurity Policy, and the Politics of Algorithms.  Rob is also especially proud of hosting his own Minecraft gaming server and enjoys writing Python programs for Minecraft, all on the little Raspberry Pi in his living room.</font></div>
-
 ##### <img width='16%' height='16%' src="/imgs/karlapoloimg.png"> Karla Polo Garcia - *Prototyping*
 <div class="bio"><font size="2">Karla is an interactive designer specialized in user-centered design. Currently, she is part of the Foundry team at Cornell Tech, doing user experience design and front-end development. In 2013 Karla immigrated from Cuba to the United States chasing a better future. In New York City she has found amazing opportunities that have made her grow professionally. Recently, Karla obtained her Masters' Degree in Fine Arts, Design, and Technology at Parsons the New School for Design, where she will be a part-time professor starting this fall. She loves drawing in her spare time.</font></div>
 
 ##### <img width='16%' height='16%' src="/imgs/juliaphoto.jpg"> Julia Sterling - *Development*
 <div class="bio"><font size="2">Julia is a software developer. When she is not teaching coding through programs like TEALS and MEET (and WiTNY!), she works in EdTech. She has built adaptive education tools at Knewton, and is currently helping teachers everywhere share their best ideas at Teachers Pay Teachers, an online marketplace for teachers to buy and sell teaching materials — like Etsy, but for teachers! She grew up in Brooklyn, and now lives in Manhattan with her girlfriend and cats.</font></div>
+
+##### <img width='16%' height='16%' src="/imgs/RobPic.png"> Rob Domanski - *Coding* Weeks 1-3
+<div class="bio"><font size="2">Rob is a former Computer Science professor at CUNY and at various times has been affiliated with four different CUNY schools ​- City College, the College of Staten Island, the Macaulay Honors College, and the Graduate Center.  He now works for the New York City Government's Tech Talent Pipeline program.  His research focuses on Internet Governance, Hacktivism, Cybersecurity Policy, and the Politics of Algorithms.  Rob is also especially proud of hosting his own Minecraft gaming server and enjoys writing Python programs for Minecraft, all on the little Raspberry Pi in his living room.</font></div>
+
 
 ### Teaching Assistants
 
@@ -36,15 +37,13 @@
 <div class="bio"><font size="2">Quetourah attends City College of New York (class of 2020). Aside from programming, she speaks 3 languages.</font></div>
 
 ##### Sangia Drakes
-
-TBA
+<div class="bio"><font size="2">Sangia attends John Jay College (class of 2019).</font></div>
 
 ##### <img width='16%' height='16%' src="/imgs/safajavid.jpeg"> Safa Javid
 <div class="bio"><font size="2">Safa attends Queens College (class of 2020). She adores cats and ice cream.</font></div>
 
 ##### Gagandeep Kaur
-
-TBA
+<div class="bio"><font size="2">Gagandeep is a graduate of Baruch College (class of 2018).</font></div>
 
 ##### <img width='16%' height='16%' src="/imgs/emankhan.jpeg"> Eman Khan
 <div class="bio"><font size="2">Eman attends Queens College (class of 2019). She loves to read books and comics in her spare time.</font></div>
