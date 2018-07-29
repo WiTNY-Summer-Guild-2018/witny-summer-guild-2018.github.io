@@ -60,9 +60,9 @@ We'll start with an introduction to your instructor & staff team and an introduc
 
 * [JavaScript code to copy](http://bit.ly/jscode-ex)
 
-**NOTE** You'll have to scroll down to find the complete web page with the program in it! Take a couple minutes to read through.
+* [Super challenge JavaScript code - OPTIONAL]()
 
-* NOTE: At the bottom of [JavaScript code to copy](http://bit.ly/jscode-ex), you'll find some challenge code you can play around with
+**NOTE** You'll have to scroll down to find the complete web page with the program in it! Take a couple minutes to read through.
 
 * [Rock Paper Scissors code - the original](rockpaperscissorscode.md)
 
