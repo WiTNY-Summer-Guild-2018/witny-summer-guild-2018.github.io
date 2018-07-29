@@ -18,7 +18,9 @@ Today we're going to look at how you go from that to determining what kind of pr
 
 This is part 1 of the **product design cycle** you'll be doing a super-fast version of today (Wednesday) and tomorrow (Thursday) before demoing your idea as a team on Friday!
 
-[SLIDES FOR TODAY](https://docs.google.com/presentation/d/18r0icXic5w0dX8awFPwZqPiHraJ1gCsoQs6jIJRY9po/edit?usp=sharing)
+* [SLIDES FOR TODAY](https://docs.google.com/presentation/d/18r0icXic5w0dX8awFPwZqPiHraJ1gCsoQs6jIJRY9po/edit?usp=sharing)
+
+* FIGMA RESOURCES - **TBA**
 
 ### Introductions
 
@@ -35,27 +37,20 @@ This is part 1 of the **product design cycle** you'll be doing a super-fast vers
 
 ### Problem identification
 
-* **Exercise 1** - Translate problems into "How may we/how might we" questions
+* **Exercise 1** - Translate problem themes into "How may we/how might we" questions
 
 * **Exercise 2**
 
     * How much impact could solving this problem have?
     * How could we solve this problem?
-    * A chart!
 
 * **Exercise 3** - Brainstorm!!! & Collect ideas for solutions
 
-### Drawing wireframes & user flow
+### Drawing wireframes / paper prototyping
 
-* (1) Find a work partner in your team
-
-* (2) Draw wireframes about how to flow through the application
-
-* (3) Together, select one part you want to focus on to design/prototype
-
-  * One particular wireframe you want to design
-
-  * One particular part of your idea you want to create a couple screens from
+* All kinds of ideas for what user interactions and products could look Like
+* Talk with your pencil/pen
+* Sketch them out!
 
 ### Designers & developers & Minimum Viable Products
 
@@ -68,13 +63,15 @@ This is part 1 of the **product design cycle** you'll be doing a super-fast vers
   * And in "real life", timelines...
 
 * But as a designer
-  * The whole world is open to you! What problem do you want to solve? What do you want to build?
+  * The whole world is open to you!
 
 ### Introduction to prototyping tool - Figma
 
   * Example & introduction to prototyping tool
 
-    * We've generated one board per team! To get *your* team's board, check out [this link](week3figmalinks.md).
+    * We've generated one board per team! To get *your* team's board, check out [this link](week4figmalinks.md). [LINK TBA FOR WEEK 4]
+
+      * You can always find these at **https://witny-summer-guild-2018.github.io/week{NUM}figmalinks.md** -- but replace **{NUM}** with the number that is your week of Summer Guild. If you began your week on July 9th, it's 2! If on July 16th, it's 3! etc.
 
   * Choosing partial ideas to prototype for each person
 
@@ -100,12 +97,10 @@ Get started working with Figma in your partners, making comments, and trying stu
 
 To build prototypes of the idea(s) you've had to improve transportation situations in NYC with technology!
 
-Remember: **Dream big!**
-
-What if you could build anything? We only have time *this* week to start on a tiny bit... but that doesn't mean you can't make big plans.
+We only have time *this* week to start on a tiny bit... but that doesn't mean you can't make big plans.
 
 
-### 'Standup' part 1 (20 min)
+### 'Standup' part 1
 
 * Come up with a standup summary in your team!
 

@@ -147,13 +147,7 @@ We'll get to *asking* them and taking *notes* on them in just a minute. First, y
 
   * <u>You need 1 context-gathering question</u>
 
-    * ("how did you get here today?" or "do you use the subways in NYC?" whatever will make sense to get at the kinds of "better" and the kinds of "transportation" that you are interested in)
-
   * <u>You need 1 "subject" question that will get you an interesting answer</u>
-
-    * (like "what did you find most fun about your commute today, if anything?"). *Here's* where you want to keep in mind what you've been thinking about up to now.
-
-* In 10-15 minutes, we'll shout that it's time to get together with your whole team.
 
 * *Each pair should share their questions with your whole team, quickly.* It's OK if two pairs have the same or similar questions! But it's great to hear others because it can help you think about what you want to ask.
 
@@ -216,7 +210,7 @@ We'll send you out in pairs, separated by a minute or so. We'll tell you what di
 
   * **Any concerns or questions or need a staff member / help, call: 734-707-1823 to reach Jackie!**
 
-* Head out for 2 hours -- **you should come back here to Microsoft by 1:00 pm for lunch!** Make sure to keep your sign-in ID.
+* Head out for 2 hours -- **you should come back here to Microsoft by 1:15 pm for lunch!** Make sure to keep your sign-in ID badge you got in the morning.
 
 ### ~ Lunch ~
 
@@ -224,17 +218,16 @@ We'll send you out in pairs, separated by a minute or so. We'll tell you what di
 
 * **Organizing your notes & gathering qualitative data**
 
-  * Put these individual notes on post-its, like so...
-
-  * As you do this, add your own -- what are *your* answers to these questions? What do YOU think about transportation in NYC? in response to your own questions?
+  * Translate notes to *observation* post-its
 
 * **Affinity Diagramming exercise**
 
   * A quick example
 
-* **Select problem groups** (we'll pass out stickers)
+* **Select problem themes** (
 
-* Each person choose 3 *individual* problems (post-its) that you're interested in -- we'll come back to these tomorrow!
+* Summarize the themes you found from your affinity diagrams
+* Combine them with issues you've noticed in your observations
 
 ### Introduction to qualitative vs quantitative data
 
