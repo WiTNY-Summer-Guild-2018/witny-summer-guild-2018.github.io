@@ -16,7 +16,7 @@
 
 * [SLIDES FOR TODAY](https://docs.google.com/presentation/d/18r0icXic5w0dX8awFPwZqPiHraJ1gCsoQs6jIJRY9po/edit?usp=sharing)
 
-* [FIGMA RESOURCES - ONLINE HANDOUT](http://bit.ly/sg-figma)
+* [FIGMA RESOURCES - ONLINE HANDOUT](http://bit.ly/sg-figma) -- or **[http://bit.ly/sg-figma](http://bit.ly/sg-figma)**
 
 * YOUR TEAM FIGMA LINKS - **TBA**
   * We've generated one board per team! To get *your* team's board, check out [this link](week4figmalinks.md). [LINK TBA FOR WEEK 4]
