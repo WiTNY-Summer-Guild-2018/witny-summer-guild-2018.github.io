@@ -19,7 +19,7 @@
 * [FIGMA RESOURCES - ONLINE HANDOUT](http://bit.ly/sg-figma) -- or **[http://bit.ly/sg-figma](http://bit.ly/sg-figma)**
 
 * YOUR TEAM FIGMA LINKS - **TBA**
-  * We've generated one board per team! To get *your* team's board, check out [this link](week4figmalinks.md). [LINK TBA FOR WEEK 4]
+  * We've generated one board per team! To get *your* team's board, check out [this link](week4figmalinks.md).
   * You can always find these at **https://witny-summer-guild-2018.github.io/week{NUM}figmalinks.md** -- but replace **{NUM}** with the number that is your week of Summer Guild. If you began your week on July 9th, it's 2! If on July 16th, it's 3! etc.
 
 ### What you're doing today
