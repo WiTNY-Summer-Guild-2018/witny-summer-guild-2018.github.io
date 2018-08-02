@@ -12,7 +12,7 @@
 
 ---
 
-Yesterday each of your teams designed a prototype of a piece of technology you might build to help address a specific problem.
+Yesterday each of your teams designed (a) prototype(s) of technology you might build to help address a problem.
 
 Today you're going to dive into more development!
 
@@ -22,31 +22,35 @@ At the end of the day today you'll be preparing your presentation, and tomorrow 
 
 * Julia Sterling, your instructor
 
-### Agenda
+### Approximate Agenda
 
-* 9:00 - 9:10: Introductions
-* 9:10-9:20: Re-introduction to coding
-* 9:20-10:05: Standup report / Coding exercises
-* 10:05-10:30: Go over coding exercises
-* 10:30-10:35 5 minute break
-* 10:35-12:00: Intro to jQuery & exercises
+* 9:00 - 9:15: Introductions
+* 9:15 - 9:35: Re-introduction to coding
+* 9:35-10:35: Standup report / Coding exercises
+* 10:35-10:55: Go over coding exercises
+* 10:55-11:00 5 minute break
+* 11:00-12:00: Intro to jQuery & exercises
 * 12:00-12:45: Lunch
 * 12:45-2:00: Choose your development adventure!
 * 2:00-2:15: Reflection break
 * 2:15-3:00: Demo discussion & presentation prep
 
 
-### Resources for today
+### Resources for today that we'll use in multiple development exercises
 
 [CodeLAB online tool](https://www.tutorialrepublic.com/codelab.php?topic=html&file=simple-document) -- **http://bit.ly/codelabtool**
 
-[Color Picker Tool for CSS](https://htmlcolorcodes.com/)
+--> *Your development should take place in this CodeLAB tool. Remember to copy the code before refreshing the page, and use the download arrow to save a file with the code. The tool does NOT autosave!*
+
+[Color Picker Tool for CSS](https://htmlcolorcodes.com/) - Helps you find specific colors -- not just the shades that go with words like "green" or "pink"
 
 #### Coding review
 
-[Rock Paper Scissors code](http://bit.ly/RPScode) -- **http://bit.ly/RPScode** -- if you want to check it out again
+[Rock Paper Scissors code from Monday](http://bit.ly/RPScode) -- **http://bit.ly/RPScode** -- if you want to check it out again
 
 #### Coding exercises & sharing standup
+
+Make sure to read the instructions/information on each page as you work on it in your pair(s)!
 
 [Coding Exercise 1](day4_intro_ex2.md)
 
@@ -60,11 +64,13 @@ At the end of the day today you'll be preparing your presentation, and tomorrow 
 
 #### jQuery introduction
 
+jQuery is what will help you build things that DO stuff -- e.g. if you click a button, something happens, changes, appears -- things that are a little more interactive. You'll be learning a little bit about using jQuery today!
+
 [jQuery overall reference & tutorial (references from slides in a document you can read)](https://witny-summer-guild-2018.github.io/day_4_exercise_2.html)
 
 [jQuery example code (to copy and try out)](jquery_ex_code.md)
 
-[jQuery click example (on CodeLAB)](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=execute-a-function-on-click-event)
+[jQuery click example (on CodeLAB)](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=execute-a-function-on-click-event) There are lots more examples where that came from -- we'll point you to them!
 
 #### Development time
 
@@ -72,13 +78,11 @@ At the end of the day today you'll be preparing your presentation, and tomorrow 
 
 **REMEMBER:** Click the arrow to download a file from the online tool!
 
-* It is OK to work in Sublime Text if you want, but we recommend working in the online tool -- easier to see the updates!
-
 * If there is an error in your JavaScript, you won't see what you expect -- and probably will have to debug it, like you practiced on Monday!
 
 * The online tool does NOT auto-save -- you have to copy and/or download any code that you want to save!
 
-* We've only shown you a small amount of things. Much more is possible! Reach out to instructors if you feel good about what you're doing and want more resources and we can help you find useful ones (some are confusing, and some are great)
+* We've only shown you a small amount of things. Much more is possible! Reach out to instructors if you feel good about what you're doing and want more resources and we can help you find useful ones (some are confusing, and some are great).
 
 * Checking out the resources from [Monday](monday.md) may also be helpful, and don't forget about the resources on this page and the exercises you did today!
 
@@ -91,11 +95,9 @@ At the end of the day today you'll be preparing your presentation, and tomorrow 
 
 #### Building your own demo!
 
-* We've provided the [structure of a Google presentation](google_presentation.md)
+* We've provided the [structure of a Google presentation](https://docs.google.com/presentation/d/1_C5d6nygVKWSTb5hbsLovjff6FepnbU3OkBZTZtBVSc/edit?usp=sharing)
 * Getting ready to present for 5 minutes
-  * Just a couple decisions to make
 
 ### Conclusion & Exit Tickets
 
-* Reminders about tomorrow - location, timing
-* See you at Roosevelt Island!
+* Reminders about tomorrow
