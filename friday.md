@@ -1,4 +1,4 @@
-## Friday - At Cornell Tech!
+## Friday
 
 [HOME](https://witny-summer-guild-2018.github.io/) |
 [TEAM](instructors.md) |
