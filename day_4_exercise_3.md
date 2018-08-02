@@ -6,22 +6,17 @@
 
 * Look at a bunch of HTML + JavaScript code examples that use jQuery, and try it out.
 
-* Think about the tiny development goal you picked earlier / yesterday.
-    * From your startup worksheet!
+* Think about the discussions you had in standup.
 
-* Select two of the examples that are similar to things you (might) want to do to start work on your prototype, for the very beginning of the process.
-
-  * You can also talk to other coding groups in your team -- it's OK for two coding groups to choose the same examples to start with, OR to all choose different ones!
+* Select one or two (or more) of the examples that are similar to things you (might) want to do to start work on your prototype, for the very beginning of the process.
 
   * Note that the examples *are* different levels of complexity. You might want to look through what they do AND look through the code and think about what feels like it might make more sense.
 
   * Remember it's OK if it's still pretty confusing -- this is a LOT going on! We will help you through it!
 
-* Decide for each of the examples how you might want to *change* them to be more like your small development goal. For example:
+* Decide for each of the examples how you might want to *change* them to be more like your small feature goals. For example:
 
-  * Consider [these questions](day4_jquery_questions.md) about each example.
-
-* Edit the code in the online tool example. When you have something you like, or you want to pause and save what you've got, click the downward arrow icon like you did on Day 1 to save what you've got.
+* Edit the code in the online tool and try it out -- remember, **change one thing, then try it!** (When you have something you like, or you want to pause and save what you've got before you add more to it, click the downward arrow icon like you did on Day 1 to save what you've got.)
 
 * Instructors and coaches can help with any confusion saving files, opening files, deciding what questions to ask instructors/TAs, and can even help some with working with the code to change it a little bit!
 
@@ -34,9 +29,11 @@
 
 ---
 
-### Code examples with jQuery
+### Some code examples with jQuery
 
 #### *Approximately* in order of complexity
+
+There are way more available on the internet, but these are good solid examples to start from. Check 'em out and think about what functionality you might want to change, as shown in the example at Summer Guild -- and even what colors and HTML info you might want to change or add to the page!
 
 * [Text that disappears when you click on it](https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=execute-a-function-on-click-event)
 
