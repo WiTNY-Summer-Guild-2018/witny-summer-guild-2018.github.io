@@ -30,8 +30,8 @@ All the *resources* we've made available for you will stay here on the Summer Gu
 
 [] You have taken screenshots or photos of anything you want to show pictures of in your presentation -- your affinity diagrams, your paper prototypes, your figma images...
 
-[] You have added stuff to all your demo slides
+[] You have copied the presentation template and added stuff to all your demo slides
 
-[] You have links to Figma available or ideas of how to demonstrate what your code does to everyone (don't worry about this -- you'll have some time to think about this together tomorrow!)
+[] You have saved all your code files on ONE laptop, and you have written down WHICH laptop number it is so you will remember
 
 [] You have shared your presentation with Jackie: **jczetta@gmail.com**
