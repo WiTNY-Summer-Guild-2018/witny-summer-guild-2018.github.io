@@ -34,13 +34,13 @@ This is a lot more complicated than it *might* seem at first...
 
 * Introductions & coding mistakes review
 
-* T-Shirts! (Both cool fashion + help ID you as a WitNY member when you do user research out in Times Square)
+* T-Shirts!
+  * (Both cool fashion + help ID you as a WitNY member when you do user research out in Times Square)
 
 
-### **YOUR CHALLENGE:**
-### *How might we make transportation in New York City better?*
+### **YOUR CHALLENGE**
 
-We're going to consider this question in a few different ways today.
+We'll consider a question in a few different ways today.
 
 ### What is "user experience"? (~ 5 min)
 
@@ -53,10 +53,7 @@ We're going to consider this question in a few different ways today.
   * Not about "can"
   * Not about "will"
 
-* **What does "better" even mean?** What are more specific words for what it could mean?
-  * In your team, come up with some things it could mean. For example, "faster for people to get where they want to go"? You should try to be as specific as possible.
-  * Write each one on a post-it note and collect them on your table!
-  * We're going to share them afterward, so choose a spokesperson from your team to share them!
+* **What does "better" or "improve" even mean?** What are more specific words for what it could mean?
 
 **As a user researcher:**
 * What kind of specific question(s) should you ask?
@@ -67,18 +64,6 @@ We're going to consider this question in a few different ways today.
 ### Building questions (for people)
 
 #### Selecting questions
-
-* Say we wanted to build an app about finding good restaurants in New York City.
-
-Three questions...
-
-  * (A) *How do you usually find a restaurant to eat lunch at?*
-  * (B) *Were you excited to come eat lunch in in Times Square today?*
-  * (C) *What is your least favorite thing about restaurants in Times Square?*
-
-* Which question do you like best?
-* Why?
-
 
 #### Building new questions - A reference you can check out
 
@@ -93,7 +78,7 @@ Three questions...
 
 You'll trade off! So don't get too comfortable. You both get to take notes and ask questions!
 
-And we'll be talking a little bit about ways to do each one so you feel comfortable -- this is brand new to everyone (I assume) and kind of intense (at least, I sure think so whenever I do this!).
+And we'll be talking a little bit about ways to do each one so you feel comfortable and prepared.
 
 #### Helpful tricks for approach - a reference
 
@@ -104,16 +89,13 @@ And we'll be talking a little bit about ways to do each one so you feel comforta
 * **Give them an extremely brief what and why and time - "Specify the ask"**
 
 **Here's a useful script to start with:**
-*We're part of a program called WitNY to get more women involved in technology, and we're doing a project about transportation in NYC. May we take 2 minutes to ask you a couple questions about NYC [transportation/subways/buses/CitiBike/whatever is appropriate for your situation]?*
+*We're part of a program called WitNY to get more women involved in technology, and we're doing research about [transportation in NYC/people's NYC experiences/whatever]. May we take 2 minutes to ask you a couple questions about [NYC transportation/subways/buses/CitiBike/whatever is appropriate for your situation]?*
 
 (Then, if they say yes)
 
 *Thanks!*
 
-Write that script down on your notepad. You'll want to practice it and feel good about reciting it clearly and comfortably.
-
-(It'll get easier the more you do it!)
-
+Write that script down on your notepad. You'll want to practice it and feel good about reciting it clearly and comfortably. (It'll get easier the more you do it!)
 
 ##### Take 2 minutes -- literally, I'm going to set a timer -- to think about some time(s) you've been approached on the street in New York City or somewhere else.
 
@@ -134,10 +116,10 @@ QUESTION ASKER
 NOTE TAKER:
 Listen & take notes!
 
-(Don't worry -- there's a specific way. You don't have to be super good at writing or notes or anything.)
+(Don't worry -- there's a specific way we'll teach you.)
 
 
-#### First: Building your questions - EXERCISE
+#### First: Building your questions
 
 We'll get to *asking* them and taking *notes* on them in just a minute. First, you need to have something to ask! (Check out **YOUR GOAL** below.)
 
@@ -149,19 +131,11 @@ We'll get to *asking* them and taking *notes* on them in just a minute. First, y
 
   * <u>You need 1 "subject" question that will get you an interesting answer</u>
 
-* *Each pair should share their questions with your whole team, quickly.* It's OK if two pairs have the same or similar questions! But it's great to hear others because it can help you think about what you want to ask.
-
-* We'll take five more minutes to solidify your question and get to your goal.
-
-* Instructors will wander and chat with you all about questions!
-
 Flag us down if you want to talk more with us (someone on the team raise your hand, and we'll let you know that we're coming)
 
 #### YOUR GOAL: Each pair should have 1 context question and 1 subject question written down on a notepad that you feel good about!
 
 Make sure you've chatted a little bit to at least 1 instructor or TA about your question so you feel really confident about it.
-
-*Brief discussion...*
 
 
 ### (Notes on) Taking notes on the answers...
@@ -169,15 +143,12 @@ Make sure you've chatted a little bit to at least 1 instructor or TA about your 
 * Identify specific ideas
 * Write after they talk, if you can (or note after a solid idea has come across)
 * Don't try to replicate full sentences (that's usually pretty hard!)
-* *For example...*
 
 ### In your question pairs
 
 Four minutes!
 
-Practice giving your introduction and asking your questions clearly to one another.
-
-You should each practice saying your full introduction (see script above) and the questions 2 times each.
+Practice!
 
 ### Quick notes on intercept testing
 
@@ -191,9 +162,6 @@ You should each practice saying your full introduction (see script above) and th
 
 * As the note-taker, it's fine to note context clues as well! What does that mean? If you talk to someone who looks like they're in a hurry, you can note that. If, say, they're carrying a lot of bags and they've just put them down, you could note that. Could clue you in to some interesting stuff.
 
-### Let's PRACTICE
-
-* In a couple rounds ...
 
 
 ### Ready, set ...
@@ -208,9 +176,7 @@ We'll send you out in pairs, separated by a minute or so. We'll tell you what di
 
 * Think of it as a totally low-stakes opportunity to practice talking to new people! You are user researchers, data gatherers, today
 
-  * **Any concerns or questions or need a staff member / help, call: 734-707-1823 to reach Jackie!**
-
-* Head out for 2 hours -- **you should come back here to Microsoft by 1:15 pm for lunch!** Make sure to keep your sign-in ID badge you got in the morning.
+* **Any concerns or questions or need a staff member / help, call: 734-707-1823 to reach Jackie!**
 
 ### ~ Lunch ~
 
@@ -222,14 +188,9 @@ We'll send you out in pairs, separated by a minute or so. We'll tell you what di
 
 * **Affinity Diagramming exercise**
 
-  * A quick example
+* **Select & summarize problem themes**
 
-* **Select problem themes** (
-
-* Summarize the themes you found from your affinity diagrams
-* Combine them with issues you've noticed in your observations
-
-### Introduction to qualitative vs quantitative data
+### For later on if you like: Introduction to qualitative vs quantitative data
 
 * Quant vs Qual - why do we care?
 

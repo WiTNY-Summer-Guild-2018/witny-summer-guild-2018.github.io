@@ -1,4 +1,4 @@
-## DAY 1 - Coding!
+## DAY 1 - Coding! Today you are students...
 
 ---
 
@@ -14,7 +14,7 @@
 
 We'll start with an introduction to your instructor & staff team and an introduction to what you'll be doing and what you can expect this week. Today is all about an introduction to "coding", or "programming" -- what it is, what you can do with it, why it's great -- and why and how it can be frustrating, even though it is also valuable, powerful and cool. And, of course, some ways of dealing with that frustration and doing detective work to solve problems that can help build things for real people.
 
-### Agenda
+### Approximate Agenda
 
 * 9:00 - 9:45: Welcome, introductions, icebreakers
 * 9:45-10:15: What is Computer Science? Introduction to the week
@@ -35,7 +35,10 @@ We'll start with an introduction to your instructor & staff team and an introduc
 
 #### General
 
-* [Code.Org Tutorial Republic ONLINE TOOL](https://www.tutorialrepublic.com/codelab.php)
+* [CodeLab ONLINE TOOL](https://www.tutorialrepublic.com/codelab.php) - **http://bit.ly/codelabtool** - **This is the tool we will use for ALL typing code and structure we will do!** We'll explain tricks for how to use it.
+
+  * Sometimes, though the CodeLAB tool is awesome, it may do an unexpected thing, because  a tool that does this stuff is actually pretty complicated and can't do everything just right. If you are confused that something weird is happening, flag down a TA or instructor and we will help you out!
+  * **Note:** The CodeLAB tool *does not auto-save*. You have to press the download button to save your code!!
 
 * [How to copy and paste into online tools](copy_and_paste.md)
 
@@ -43,25 +46,13 @@ We'll start with an introduction to your instructor & staff team and an introduc
 
 #### HTML resources
 
-* [HTML resources - on our website](html_intro.md)
-
-* [HTML resources - W3Schools](https://www.w3schools.com/Html/)
-
-* [HTML resources - Tutorial Republic](https://www.tutorialrepublic.com/html-examples.php)
-
-* [How to embed a gif in your web page](howto_gif.md)
+* [HTML examples and links](htmlexamples.md)
 
 #### JavaScript resources
 
-* [Code.Org Tutorial Republic ONLINE TOOL](https://www.tutorialrepublic.com/codelab.php)
-
-* Our discussion group function - see slide!
-
 * [JavaScript code to copy](http://bit.ly/jscode-ex)
 
-* [Super challenge JavaScript code - OPTIONAL]()
-
-**NOTE** You'll have to scroll down to find the complete web page with the program in it! Take a couple minutes to read through.
+**NOTE ^** You'll have to scroll down to find the complete web page with the program in it! Take a couple minutes to read through.
 
 * [Rock Paper Scissors code - the original](rockpaperscissorscode.md)
 
