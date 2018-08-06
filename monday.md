@@ -48,6 +48,8 @@ We'll start with an introduction to your instructor & staff team and an introduc
 
 * [HTML examples and links](htmlexamples.md)
 
+* [HTML and CSS examples](html_css_ex.md)
+
 #### JavaScript resources
 
 * [JavaScript code to copy](http://bit.ly/jscode-ex)
