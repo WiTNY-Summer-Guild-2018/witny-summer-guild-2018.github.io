@@ -46,19 +46,19 @@ We'll start with an introduction to your instructor & staff team and an introduc
 
 #### HTML resources
 
-* [HTML examples and links](htmlexamples.md)
+* [HTML examples and links](htmlexamples.md) - **http://bit.ly/html-try-sg**
 
-* [HTML and CSS examples](html_css_ex.md)
+* [HTML and CSS examples](html_css_ex.md) - **http://bit.ly/html-css-sg**
 
 #### JavaScript resources
 
-* [JavaScript code to copy](http://bit.ly/jscode-ex)
+* [JavaScript code to copy](http://bit.ly/jscode-ex) - **http://bit.ly/jscode-ex**
 
 **NOTE ^** You'll have to scroll down to find the complete web page with the program in it! Take a couple minutes to read through.
 
-* [Rock Paper Scissors code - the original](rockpaperscissorscode.md)
+* [Rock Paper Scissors code - the original](rockpaperscissorscode.md) - **http://bit.ly/RPScode**
 
-* [Debugging JavaScript - Rock Paper Scissors code](rock_paper_scissors_debug.md)
+* [Debugging JavaScript - Rock Paper Scissors code](rock_paper_scissors_debug.md) - **http://bit.ly/RPSdebug**
 
 #### Other
 
