@@ -8,6 +8,8 @@ Check out each of these examples, one at a time, and look at what they do.
 
 Then try to make 1 change, and try it! a couple times.
 
+**Remember:** Use the [CodeLAB tool](http://bit.ly/codelabtool) (**http://bit.ly/codelabtool**) to copy and paste these examples into, to try them out.
+
 
 ```html
 <!DOCTYPE html>
