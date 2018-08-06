@@ -181,7 +181,7 @@ Examples of putting an image in a web page:
 
 <img src="https://media.giphy.com/media/W3QKEujo8vztC/giphy.gif">
 
-<img src="https://i.ytimg.com/vi/I7jgu-8scIA/maxresdefault.jpg"
+<img src="https://i.ytimg.com/vi/I7jgu-8scIA/maxresdefault.jpg">
 
 
 </body>
