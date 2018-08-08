@@ -18,7 +18,7 @@
 
 * [FIGMA RESOURCES - ONLINE HANDOUT](http://bit.ly/sg-figma) -- or **[http://bit.ly/sg-figma](http://bit.ly/sg-figma)**
 
-* [YOUR TEAM FIGMA LINKS](https://bit.ly/2M7ZHTU)
+* [YOUR TEAM FIGMA LINKS](https://bit.ly/2M7ZHTU) - **http://bit.ly/sgfigma-week5**
   * We've generated one board per team! To get *your* team's board, check out [this link](week5figmalinks.md).
 
 ### What you're doing today
