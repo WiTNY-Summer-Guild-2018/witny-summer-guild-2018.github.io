@@ -18,8 +18,8 @@
 
 * [FIGMA RESOURCES - ONLINE HANDOUT](http://bit.ly/sg-figma) -- or **[http://bit.ly/sg-figma](http://bit.ly/sg-figma)**
 
-* [YOUR TEAM FIGMA LINKS]() - TBA
-  * We've generated one board per team! To get *your* team's board, check out [this link]().
+* [YOUR TEAM FIGMA LINKS](week6figmalinks.md) - **http://bit.ly/week6-figma**
+  * We've generated one board per team! To get *your* team's board, check out [this link](week6figmalinks.md).
 
 ### What you're doing today
 

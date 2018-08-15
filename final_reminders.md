@@ -22,7 +22,7 @@ All the *resources* we've made available for you will stay here on the Summer Gu
 
 **You should make sure:**
 
-[] You have saved your Figma link so you can get back to it and/or demo from it tomorrow! You can find your original team link here: https://witny-summer-guild-2018.github.io/week5figmalinks.html
+[] You have saved your Figma link so you can get back to it and/or demo from it tomorrow! You can find your original team link here: https://witny-summer-guild-2018.github.io/week6figmalinks.html
 
 [] You have DOWNLOADED any code you want to save that you made on Code.org Tutorial Republic, and EMAILED the `.html` file that gets downloaded to yourselves. Saving it on the computer is not enough to keep it, you have to make sure it is online!
 
