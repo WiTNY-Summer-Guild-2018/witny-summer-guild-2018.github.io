@@ -33,17 +33,17 @@ We'll consider a question in a few different ways today.
 
 ### User Research process
 
-* Break down vocabulary of your more general challenge/concern.
-* Examine questions -- what does it mean to make a good question?
-* Define your own questions.
-* Prepare to ask your questions: learn strategies for approaching and talking to people and for taking notes, "specifying the ask", & practice in a more comfortable environment (right here!).
-* Go ask your questions -- Intercept testing!
-* Analyze the qualitative data you've gathered.
-* Find themes and identify problems or possible improvements.
+* Break down vocabulary and brainstorm specific **topics**.
+* Examine questions -- what does it mean to make a **good question**?
+* Define your own **questions**.
+* **Prepare** to ask your questions: learn **strategies** for approaching and talking to people and for taking notes, "specifying the ask", & practice in a more comfortable environment (right here!).
+* Go ask your questions -- **Intercept testing!**
+* **Analyze** the qualitative data you've gathered.
+* Find **themes** and identify problems or possible improvements.
 
-**As a user researcher:**
+#### As a user researcher:
 * What kind of specific question(s) should you ask?
-* What information do you need to know?
+* What information do you need or want to know?
 * What kind of data is necessary to answer our questions?
 * What kind of data can we actually get?
 
@@ -51,11 +51,7 @@ We'll consider a question in a few different ways today.
 
 [Building new questions - A reference you can check out](building_qs.md)
 
-#### Selecting questions
-
-####  A reference you can check out
-
-### Preparing
+### Preparing for intercept testing
 
 **Pick your starting role:**
 
@@ -67,10 +63,6 @@ You'll trade off! So don't get too comfortable.
 And we'll be talking a little bit about ways to do each one so you feel comfortable and prepared.
 
 [A few tips for intercept testing](intercept_testing_notes,md)
-
-### Ready, set ...
-
-We'll send you out in pairs, separated by a minute or so. We'll tell you what direction to go!
 
 ### TIMES SQUARE!
 
@@ -86,29 +78,7 @@ We'll send you out in pairs, separated by a minute or so. We'll tell you what di
 
 * **Affinity Diagramming exercise**
 
-* **Select & summarize problem themes**
-
-### For later on if you like: Introduction to qualitative vs quantitative data
-
-* Quant vs Qual - why do we care?
-
-* Data... it means all kinds of things.
-
-  * [Visualization of NYC subway data](https://www.citylab.com/transportation/2016/12/visualizing-a-full-day-on-the-new-york-city-subway/510020/)
-
-  * [Entries and exits of NYC subways](http://piratefsh.github.io/mta-maps/public/)
-
-  * [And ALL kinds of NYC transit visualization...](https://www.citylab.com/transportation/2017/04/groove-out-to-24-hours-of-new-york-transit-with-the-multimodal-symphony/522633/)
-
-  * Or even a small amount of data in a spreadsheet, that you could make a chart out of:
-
-  <img width="20%" height="20%" src="imgs/bikedata.png">
-
-
-### Conclusion
-
-* Exit tickets
-
+### Select & summarize themes
 
 ### Additional Resources on User interviews
 #### (if you're interested in this -- you don't need these now!)
