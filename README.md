@@ -59,12 +59,12 @@ Please see the **Learning Goals** document for details on material.
 
 ## Contact & credit
 
-This full curriculum and website built by Jaclyn Cohen (@aerenchyma) with the support of [WitNY](https://tech.cornell.edu/impact/witny/). Content throughout were built by Rachel Sobel, Karla Polo, and Julia Sterling.
+This full curriculum and website built by Jaclyn Cohen ( @aerenchyma ) with the support of [WitNY](https://tech.cornell.edu/impact/witny/). Content throughout were built by Rachel Sobel, Karla Polo, and Julia Sterling.
 
 For contact about learning goals and workshop classroom management: Please reach out to Jackie Cohen and Rachel Sobel.
 
 Invaluable editing and support for curriculum content provided by Sangia Cumberbatch Drakes, Quetourah Dalencourt, Safa Javid, Eman Khan, and Gagandeep Kaur.
 
 
-##### Website content (c) Jaclyn Cohen (@aerenchyma), 2018
+##### Website content (c) Jaclyn Cohen @aerenchyma, 2018
 ##### Except where copyright is *otherwise specifically noted on material (e.g. slides)*, all material is licensed under a CC-BY-SA 3.0 license (https://creativecommons.org/licenses/by-sa/3.0/us/) or MIT license (https://opensource.org/licenses/MIT)
