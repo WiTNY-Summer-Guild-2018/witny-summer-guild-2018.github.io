@@ -53,6 +53,8 @@ HTML is all HTML5.
 
 JavaScript is written primarily in version EMCA 5.1, not EMCA 6. (You'll see lots of `var`.)
 
+History developed over the course of an evolving curriculum, May - August 2018.
+
 Please see the **Learning Goals** document for details on material.
 
 ## Contact & credit
