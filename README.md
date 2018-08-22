@@ -27,13 +27,15 @@ Locations for these such things in the repository can be found in the pages corr
 * `friday.md`
 * `final_reminders.md` (this file is likely specific to WitNY Summer Guild 2018 but may certainly be used as a template)
 
-To host on GitHub pages as has been done for Summer Guild 2018, [follow these instructions](githubpageslinkTBA.md).
+To host on GitHub pages as has been done for Summer Guild 2018, [follow these instructions](githubpageslinkTBA.md). **TBA**
 
-Other necessary knowledge: Git, GitHub, markdown syntax. Ask a developer who uses GitHub or search GitHub/Google for further instructions/direction.
+*Other necessary knowledge for updating your own website & publishing/hosting:*
+Git, GitHub, markdown syntax.
+Ask a developer who uses GitHub or search GitHub/Google for further instructions/direction.
 
 ## Learning goals
 
-Check out [this document](tbd.md) for specific learning goals for each day and activity.
+Check out [this document](tbd.md) **TBA ASAP** for specific learning goals for each day and activity.
 
 ## Other inquiries
 
