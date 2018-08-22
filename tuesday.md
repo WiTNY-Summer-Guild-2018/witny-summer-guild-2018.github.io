@@ -19,7 +19,7 @@ In doing so, you're going to talk to real people in NYC -- here in Times Square 
 
 This is a little more complicated than it *might* seem at first... but you'll be well prepared.
 
-[HERE](linktbd.md) are the slides for today.
+[SLIDES FOR TODAY](https://drive.google.com/file/d/1OlTH8kkR7CzZ564hf344di-wISrwKOcO/view?usp=sharing) -  [HERE](https://drive.google.com/file/d/1OlTH8kkR7CzZ564hf344di-wISrwKOcO/view?usp=sharing) are the slides for today.
 
 
 ### What is "user experience"? (~ 5 min)

@@ -14,12 +14,14 @@
 
 ### Resources for today
 
-* [SLIDES FOR TODAY](https://docs.google.com/presentation/d/18r0icXic5w0dX8awFPwZqPiHraJ1gCsoQs6jIJRY9po/edit?usp=sharing)
+* [SLIDES FOR TODAY](https://drive.google.com/file/d/1Jnfe6p8LxVhmSdGQVl3b27Z8ydlXTEAq/view?usp=sharing)
 
 * [FIGMA RESOURCES - ONLINE HANDOUT](http://bit.ly/sg-figma) -- or **[http://bit.ly/sg-figma](http://bit.ly/sg-figma)**
 
-* [YOUR TEAM FIGMA LINKS](week6figmalinks.md) - **http://bit.ly/week6-figma**
-  * We've generated one board per team! To get *your* team's board, check out [this link](week6figmalinks.md).
+* [YOUR TEAM FIGMA LINKS](link-would-go-here) - **BITLY LINK HERE**
+  * We've generated one board per team!
+
+*(This link varies by week. If you attended Summer Guild 2018, you can access yours via the method on the* [final reminders](final_reminders.md) *or by emailing your instructors!)*
 
 ### What you're doing today
 
@@ -31,7 +33,7 @@ This is part 1 of the **product design cycle** you'll be doing a super-fast vers
 
 ### Introductions
 
-* Karla Polo-Garcia, your instructor
+* Your instructor
 * Your coaches!
 
 ### Today you are designers
@@ -42,4 +44,6 @@ This is part 1 of the **product design cycle** you'll be doing a super-fast vers
 * Using a prototyping tool to design part of a project
 * Prepare to pass an idea to your developers (you, tomorrow!)
 
-### Standup!
+### Summary (standup) sentences!
+
+To pass on to your development team (...yourselves, tomorrow!).

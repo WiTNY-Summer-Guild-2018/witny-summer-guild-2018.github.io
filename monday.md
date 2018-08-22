@@ -33,6 +33,8 @@ We'll start with an introduction to your instructor & staff team and an introduc
 
 ### Resources for today
 
+[SLIDES FOR MONDAY](https://drive.google.com/file/d/1p5w9uhwQFZFJB9EAG9q03DFuRsjCp9Gt/view?usp=sharing)
+
 #### General
 
 * [CodeLab ONLINE TOOL](https://www.tutorialrepublic.com/codelab.php) - **http://bit.ly/codelabtool** - **This is the tool we will use for ALL typing code and structure we will do!** We'll explain tricks for how to use it.

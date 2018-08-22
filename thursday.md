@@ -20,8 +20,6 @@ At the end of the day today you'll be preparing your presentation, and tomorrow 
 
 ### Introductions
 
-* Julia Sterling, your instructor
-
 ### Approximate Agenda
 
 * 9:00 - 9:15: Introductions
@@ -35,6 +33,7 @@ At the end of the day today you'll be preparing your presentation, and tomorrow 
 * 2:00-2:15: Reflection break
 * 2:15-3:00: Demo discussion & presentation prep
 
+[SLIDES FOR TODAY](https://drive.google.com/file/d/192P7SEMH1QXG83hS8GyZX66Jfyndlv9N/view?usp=sharing)
 
 ### Resources for today that we'll use in multiple development exercises
 
@@ -86,18 +85,16 @@ jQuery is what will help you build things that DO stuff -- e.g. if you click a b
 
 * Checking out the resources from [Monday](monday.md) may also be helpful, and don't forget about the resources on this page and the exercises you did today!
 
-* It's OK to write different pieces of code among different pairs!
+* It's OK to write different pieces of code!
 
 
 #### **BEFORE THE END OF THE DAY:**
 
-##### [Your presentations and your final reminders](final_reminders.md)
-
 #### Building your own demo!
 
 * We've provided the [structure of a Google presentation](https://docs.google.com/presentation/d/1_C5d6nygVKWSTb5hbsLovjff6FepnbU3OkBZTZtBVSc/edit?usp=sharing)
-* Getting ready to present for 5 minutes
+* Getting ready to present
+
+##### [Your presentations and your final reminders](final_reminders.md)
 
 ### Conclusion & Exit Tickets
-
-* Reminders about tomorrow
