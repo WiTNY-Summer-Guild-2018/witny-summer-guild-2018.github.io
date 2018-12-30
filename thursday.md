@@ -33,7 +33,7 @@ At the end of the day today you'll be preparing your presentation, and tomorrow 
 * 2:00-2:15: Reflection break
 * 2:15-3:00: Demo discussion & presentation prep
 
-[SLIDES FOR TODAY](https://drive.google.com/file/d/192P7SEMH1QXG83hS8GyZX66Jfyndlv9N/view?usp=sharing)
+[SLIDES FOR TODAY](https://drive.google.com/file/d/1MCllpfpLpJcUzNOXUnFyllZoew-UxffB/view?usp=sharing)
 
 ### Resources for today that we'll use in multiple development exercises
 
